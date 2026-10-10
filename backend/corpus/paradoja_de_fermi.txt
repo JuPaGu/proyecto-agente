@@ -1,0 +1,192 @@
+TÍTULO: Paradoja de Fermi
+FUENTE: https://es.wikipedia.org/wiki/Paradoja_de_Fermi
+LICENCIA: CC BY-SA 4.0 (Wikipedia)
+
+La paradoja de Fermi es la aparente contradicción que hay entre las estimaciones que afirman que hay una alta probabilidad de que existan otras civilizaciones inteligentes en el universo observable y la ausencia de evidencia de dichas civilizaciones.​ Surgió en 1950 en medio de una conversación informal del físico Enrico Fermi con otros físicos de laboratorio, pero ha tenido importantes implicaciones en los proyectos de búsquedas de señales de civilizaciones extraterrestres (SETI).
+Trata de responder a la pregunta: «¿Somos los seres humanos la única civilización avanzada en el universo?». La ecuación de Drake para estimar el número de civilizaciones extraterrestres con las que finalmente podríamos ponernos en contacto parece implicar que tal tipo de contacto no es extremadamente raro. La respuesta de Fermi a esta conclusión es que si hubiera numerosas civilizaciones avanzadas en nuestra galaxia entonces, «¿Dónde están? ¿Por qué no hemos encontrado trazas de vida extraterrestre inteligente, por ejemplo, sondas, naves espaciales o transmisiones?».​ Aquellos que se adhieren a las conclusiones de Fermi suelen referirse a esta premisa como el principio de Fermi.
+La paradoja puede resumirse de la manera siguiente: «La creencia común de que el universo posee numerosas civilizaciones avanzadas tecnológicamente, combinada con nuestras observaciones que sugieren todo lo contrario, es paradójica, sugiriendo así que nuestro conocimiento o nuestras observaciones son defectuosas o incompletas».
+La formulación de la paradoja surgió en una época en la que Fermi estaba trabajando en el Proyecto Manhattan cuyo fin era el desarrollo de la bomba atómica estadounidense. La respuesta de Fermi a su paradoja es que toda civilización avanzada desarrollada en la galaxia incrementa con su tecnología el potencial de exterminarse; tal y como percibía que estaba ocurriendo en su época. El hecho de no encontrar otras civilizaciones extraterrestres implicaba para él un trágico final para la humanidad.​​
+
+
+La ecuación de Drake
+Aquellos que creen en las más optimistas suposiciones usadas en la ecuación de Drake, propuesta por el doctor Frank Drake, y las aún más optimistas suposiciones del doctor Carl Sagan, añaden que la vida inteligente es también común en el universo. Haciendo suposiciones y argumentos razonables podemos suponer que, como la vida es posible, y dado que el universo es tan vasto, no debería ser solo posible, sino casi cierto que hay un gran número de civilizaciones extraterrestres en el universo. Sin embargo, la gente que se adhiere a la premisa de la paradoja de Fermi cree que, debido a la falta de evidencias en este sentido, con toda probabilidad los humanos, como especie tecnológicamente avanzada, están efectivamente solos al menos en su parte de la Vía Láctea. Aún más, dicen que dado que todavía no podemos determinar con seguridad las variables de la ecuación de Drake, no podemos determinar el número de civilizaciones extraterrestres basándonos únicamente en esta igualdad. Debemos, por lo tanto, dicen, confiar en los datos, que solamente ahora están empezando a ser recopilados de manera significativa. Solo entonces podremos empezar a presumir los valores de cada una de las variables de la ecuación de Drake.
+
+
+Datos actuales
+
+Nuestro sistema solar, si fuese observado con un radiotelescopio desde la distancia de unas pocas decenas de años luz, parecería inusual por la enorme cantidad de ondas de radio, debidas a las radiotransmisiones humanas emitidas, no obstante, por una estrella nada especial. Del mismo modo, podríamos presumir que una emisión similar de una estrella cercana a la nuestra sería inmediatamente detectada como inusual por nosotros.
+Radio y datos observacionales se han recogido y analizado durante varias décadas por proyectos tales como el Proyecto Ozma, el proyecto Search for Extraterrestrial Intelligence y varios proyectos de búsqueda de planetas extrasolares. Hasta ahora, los datos del SETI muestran que no hay estrellas de la secuencia principal que tengan emisiones de radio inusuales; esto parece indicar que somos la única especie que radiotransmite en al menos la porción de nuestra parte de la galaxia que ha sido explorada. Además, la mayoría de los planetas extrasolares que han sido descubiertos hasta la fecha parecen tener duras condiciones ambientales para formas de vida avanzadas, aunque habría que tener en cuenta que las técnicas usadas en la actualidad para descubrir nuevos planetas, por influencia gravitacional sobre una estrella o por interposición entre dicha estrella y nosotros, no propician el descubrimiento de planetas similares a la Tierra, sino supermasivos y/o muy cercanos a dicha estrella.
+Alguna gente cree que estos resultados probablemente tienen un error significativo de muestreo:
+
+Puede que otras especies no usen las radiofrecuencias que estamos buscando o que no dejen escapar cantidades significativas de radiofrecuencia. Ahora mismo dejamos escapar menos energía radiada que unas pocas décadas atrás debido al uso de la transmisión por cable y por satélite. Civilizaciones más avanzadas podrían usar sistemas de comunicación punto a punto láser o microondas, que son mucho más eficientes.
+Podemos encontrar más fácilmente sistemas planetarios con órbitas y configuraciones que son menos estables que el nuestro.
+
+Aún otros proponen que somos probablemente la única especie emisora en al menos la Vía Láctea, porque de otra manera estaríamos inundados por radio transmisiones extraterrestres y habríamos sido ya sobrepasados por tempranos intentos de colonización.
+Igualmente, otra variable que normalmente no se considera es el tamaño del planeta habitable, ya que planetas de mayor tamaño al nuestro requieren del uso de naves espaciales de considerable mayor energía para el despegue y ascenso que pueda superar la fuerza de gravedad del planeta y así poder llegar al espacio; lo que atrasaría o incluso llegaría a impedir que una civilización pueda desarrollar y realizar el viaje espacial, quedando relegada a no poder abandonar su planeta de origen.
+
+
+El argumento contra la premisa detrás de la paradoja de Fermi
+
+
+«E.T. llama a casa»
+Algunos de los que se adhieren al principio Fermi proponen que dado un nivel suficiente de desarrollo, las transmisiones de radio de cualquier civilización suficientemente avanzada empezarán a oscurecer su estrella madre en la parte radio del espectro. Dado que el uso del espectro electromagnético para la transmisión de información es relativamente barata y fácil, uno esperaría que cualquier civilización tecnológica tomase ventaja de al menos una parte del espectro durante su desarrollo. Los críticos responden que, aunque hemos estado buscando activamente señales extraterrestres durante casi treinta años en proyectos como el SETI y escuchando pasivamente la estática durante casi cien años, todavía no hemos oído ninguna emisión alienígena, ni hemos observado ninguna estrella de la secuencia principal con una firma de radio inusual que pudiese indicar una civilización tecnológica.
+Aquellos que creen que la galaxia tiene muchas civilizaciones tecnológicamente avanzadas contraatacan diciendo que los extraterrestres pueden estar usando otro medio que la radio o que finalmente escogen esconder sus transmisiones por alguna razón desconocida. Los defensores del principio de Fermi dicen que podría ser, pero solo si hay muy pocas de tales civilizaciones, en ambos, el espacio y el tiempo y solo si abandonan rápidamente la radio como un medio de transmisión. De cualquier manera, dicen, si hubiese muchas de estas civilizaciones, sus transmisiones provocarían un gran impacto en al menos alguna parte del espectro electromagnético durante al menos una parte de su desarrollo. Aún más, si hubiese tantas civilizaciones extraterrestres avanzadas como Drake y Sagan han estimado, su presencia sería obvia por sus transmisiones. El hecho de que solo hemos podido recibir y producir estas transmisiones durante solo una pequeña fracción de nuestra historia puede estar limitando el proyecto SETI en este aspecto.
+
+
+El principio antrópico
+Similar a la hipótesis de la Tierra especial es el principio antrópico, la idea de que el universo está «finamente ajustado» para posibilitar la vida como la conocemos. El principio postula que, dado que la vida en la Tierra no podría existir si alguno de los muchos parámetros del universo se modificase ligeramente, parece que los humanos tienen una ventaja única sobre cualquier otra forma de vida inteligente. Esto hace concebible que seamos la única especie inteligente.​
+Los críticos arguyen que el principio antrópico es esencialmente una tautología; la vida como la conocemos podría no existir si las cosas fuesen diferentes, pero una forma de vida diferente podría existir en su lugar.
+
+
+La contribución de Freeman Dyson
+
+Popularizada por el doctor Freeman Dyson, una esfera de Dyson es una envoltura opaca alrededor de una estrella. Tal envoltura sería creada por una civilización alienígena avanzada que desease guardar tanta energía radiada por su estrella como fuese posible. El diseño exacto de una esfera de Dyson no ha sido especificado; podría consistir en miles de millones de colectores solares y hábitats espaciales independientes o bien ser una estructura única unificada, pero en cualquier caso estaría hecha de materia sólida e interceptaría la mayoría de la luz emitida por la estrella para ser reirradiada como calor. Una estrella rodeada por una esfera de Dyson emitiría un característico espectro del cuerpo negro sin las fuertes líneas espectrales que el plasma estelar muestra, probablemente con su pico inusualmente lejano en el infrarrojo para una estrella de su tamaño. Con esta especulación, los astrónomos pueden buscar en el cielo nocturno estrellas con colorido inusual, que —postulan— indicarían vida inteligente altamente avanzada; estas estrellas no han sido encontradas aún.​ 
+Algunos seguidores del principio de Fermi dicen que es altamente improbable que todas las civilizaciones avanzadas no tomen total ventaja de la fuente de potencia de su estrella madre y al hacer eso cambiar la firma electromagnética de su sol.
+
+
+Colonización extraterrestre
+Los seguidores del principio de Fermi dicen que, dado lo que sabemos por la habilidad de la vida para sobreponerse a la adversidad y colonizar nuevos hábitats en nuestro propio planeta, podemos asumir razonablemente que la vida en otros lugares sigue los mismos principios. Si se da esto, los seguidores del principio de Fermi postulan que cualquier civilización avanzada casi con certeza buscará nuevos recursos y colonizará primero su propio sistema solar, y después los sistemas solares circundantes. Algunos escritores han tratado de estimar el tiempo que tardaría una civilización tal en colonizar la galaxia entera. Han determinado que se tardaría entre 5 y 50 millones de años en lograr este objetivo en gran escala.​ Un tiempo relativamente pequeño a escala geológica; más aún, a escala cosmológica.
+
+
+Soluciones a la paradoja
+
+
+Los recursos finitos impondrían límites al desarrollo exponencial
+La propuesta más nueva y aceptada es la planteada por Jacob Haqq-Misra y Seth Baum, de Pennsylvania State University,​ que sugiere que la clave de esta paradoja está en el error de suponer que una civilización puede colonizar el Universo a un ritmo exponencial. Según ellos, el agotamiento de los recursos impondría límites al desarrollo de cualquier civilización y, por tanto, no se podría dar un crecimiento exponencial de la misma.
+A diferencia de Fermi, que creía que las civilizaciones se autoexterminaban con armas, estos investigadores piensan que la paradoja corresponde a que la limitación de recursos finitos se impone, pero el resultado final es el mismo: nunca entraremos en contacto con otros seres o la probabilidad de ello es muy baja. Trasladan el escenario del actual crecimiento humano y el agotamiento de recursos terrestres: cenit del petróleo y otros recursos, sobrepoblación, contaminación generalizada y colapso ecológico​ a una hipotética civilización en un escenario galáctico.​ Pero argumentan que puede que haya miles de civilizaciones avanzadas que tratan de colonizar su entorno espacial cercano, pero lo harán a un ritmo tan lento que nunca entran en contacto unas con otras en tiempo y espacio.
+Algunos discuten que las civilizaciones que sobrevivieren más fueren aquellas más sabias por administrar apropiadamente sus recursos disponiendo de más tiempo. Se diferenciarían de las civilizaciones como la humana, consumistas por alcanzar sabiduría y conocimiento en un corto plazo por invertir los recursos disponibles rápidamente, pero comprometiendo con ello su existencia.​
+
+
+Existen, pero la mayoría de la gente no lo sabe todavía
+
+Aquellos que creen que ciertos ovnis podrían ser naves espaciales extraterrestres tienen una respuesta a la paradoja: que es razonable creer que una forma de vida lo suficientemente inteligente para viajar hasta nuestro planeta puede permanecer aquí sin que la detectemos.​ Alternativamente, podemos haber sido ya detectados por ellos, y un mensaje o un emisario están «en camino». Otros sostienen teorías de conspiración: que las pruebas de visitas extraterrestres están siendo ocultadas por una élite de políticos, ricos, banqueros, corporaciones o gobiernos, que no quieren que el público sepa la verdadera extensión de los contactos.​
+
+
+Existen y han estado aquí, pero nosotros aún no estábamos
+Algunas personas, como Stephen Baxter, han hecho notar que la capacidad de la humanidad para detectar y/o comprender vida extraterrestre inteligente existe solo desde un periodo muy corto de tiempo, quizás solo un siglo.
+De acuerdo con este punto de vista, la humanidad simplemente no lleva el suficiente período como para encontrar vida extraterrestre. Por ejemplo, hace un millón de años no habría humanos en la Tierra que los extraterrestres pudiesen encontrar. También podría haber otros mundos más prometedores que visitar.
+Incluso si los extraterrestres hubiesen visitado la Tierra recientemente, podrían haber sido tomados como entes sobrenaturales, monstruos, criaturas fantásticas o incluso dioses, por las primeras culturas humanas; de esta manera pasaría inadvertido cualquier registro de estos contactos como mitologías.
+
+
+Existen, pero no se comunican con nosotros
+
+Una posibilidad es que escondan su existencia a la humanidad. Podrían hacerlo debido a consideraciones éticas o un deseo de mantener la diversidad cultural. También podrían ocultarse deliberadamente por diversos motivos, como puede ser el evitar su destrucción por otras civilizaciones aún más avanzadas, el querer vivir sin interferencias de otras formas de vida o por la experiencia en otros contactos
+Otra idea propuesta es la del zoo, que sugiere que la Tierra está siendo vigilada para su estudio o por propósitos éticos.​ La idea es similar a la 'Primera Directiva' de la serie Star Trek. La humanidad tendría que alcanzar cierto límite ético o tecnológico antes de ser contactada.
+También se ha sugerido que existe la posibilidad de que simplemente no presentan interés hacia los seres humanos. Esto podría suceder debido a que
+su posible psicología podría ser muy diferente a la hipotetizada en otras posibilidades, que parten de la premisa de que al ser inteligentes, su conducta debe ser similar a la humana; y por ello deberían presentar interés hacia otras formas de vida. O bien porque no somos importantes, nuestra civilización sería muy simple o común y no tiene nada que aportarles, por tanto no requiere su atención. 
+Una idea reciente es que el uso de tecnologías de radiodifusión como la radio son fundamentalmente un mal gasto de energía y que las civilizaciones más avanzadas podrían no usarlas por esa razón; dado que la radiodifusión es emitida en todas direcciones, y por ello se necesita mucha energía para que la señal llegue a una distancia dada. Así, se postula que posiblemente nunca podríamos detectar señales de civilizaciones más avanzadas, producidas mediante esta tecnología. Ejemplo de ello es que la tecnología humana está reemplazando la radiodifusión por la comunicación por cables (fibra óptica), transmisión por láser, etc.
+También podríamos suponer que hubiera vida inteligente en un planeta. Pero en él no existen metales como el hierro, cobre, aluminio, etc, los habitantes de ese planeta podrían pensar que hay otros mundos habitados, pero no pueden construir un transmisor, ni siquiera un simple electroimán. Por ejemplo, los mayas y otras civilizaciones del pasado, estaban culturalmente muy avanzadas pero desconocían casi por completo la metalurgia, sí desarrollada en el Viejo Mundo. La vida inteligente no presupone vida tecnológica ni un desarrollo semejante entre todas las formas de vida.
+
+
+Existen y se comunican, pero no los oímos
+Otros puntos de vista dicen que los extraterrestres están intentando comunicarse con nosotros o comunicándose entre sí, pero no los detectamos. Este problema puede deberse a incompatibilidad o inexistencia de la tecnología necesaria para detectar el tipo de comunicación utilizado, o también que su ritmo de vida sea mucho más largo o mucho más corto que el nuestro, por lo que sus señales sean tomadas como breves trazas sin sentido o simples pulsos sin conexión entre ellos.
+Asimismo, podrían estar utilizando un sistema de comunicación basado en el entrelazamiento cuántico, lo que impediría totalmente interceptar la comunicación con las tecnologías actuales de escucha.
+Igualmente, puede suceder que las señales de comunicación que indiquen su existencia no han llegado hasta el momento a nuestro sistema solar, de igual forma que lo que sucede con nuestras señales de radio en la gran mayoría de las zonas del universo.
+El punto de la inmensidad del universo es un fuerte retractor de Fermi. Incluso señales de radio emitidas por formas de vida inteligentes hace miles de años no podrían ser percibidas aún en la actualidad, siguiendo este punto. Las señales de emisión detectables por los telescopios y radioscopios siguen limitados a la velocidad de la luz, aún insuficiente para recorrer distancias cósmicas.
+Un ejemplo de esto sería: si una forma de vida inteligente a un millón de años luz usa actualmente ondas de radio desde hace 5000 años, a la primera señal emitida le faltarían aún 995000 años para llegar a la Tierra.
+
+
+Existen, pero evitan deliberadamente la comunicación con el exterior
+
+La hipótesis del bosque oscuro sugiere que, existen más civilizaciones inteligentes, sin embargo, son silenciosas y paranoicas, al considerar el universo como un lugar hostil y peligroso que podría amenazar la existencia de ellos mismos bajo el escenario de ser detectados por otra especie inteligente. Es por ello que evitan la comunicación con alguna otra forma de vida inteligente en el universo buscando preservar su existencia, y como consecuencia, tendríamos un espectro electromagnético relativamente silencioso que nos dejaría sin evidencia concreta de la existencia de vida extraterrestre.
+La hipótesis fue descrita en un inicio por el científico y escritor David Brin en su resumen de 1983 de los argumentos a favor y en contra de la paradoja de Fermi, para la cual, está hipótesis es una posible solución. Más adelante en el año 2008, el autor Liu Cixin en su libro "El problema de los tres cuerpos" se refirió a la hipótesis de Brin describiendo al universo como un 'bosque oscuro', donde cada sociedad inteligente es un <<cazador armado que avanza con cuidado por el bosque y que si encuentra otra vida que represente una amenaza solo puede hacer una cosa: disparar y eliminarla>>, dando el nombre a la hipótesis.​
+Los expertos creen que, de todas las soluciones propuestas a la paradoja, esta parece ser una de las menos probable, ya que para una civilización ligeramente avanzada tecnológicamente como la nuestra, es extremadamente difícil ocultar cualquier tipo de señal al universo. Como ejemplo, antes de que se iniciara la búsqueda activa de vida extraterrestre, muchas de las señales de radio procedentes de las comunicaciones cotidianas interespecíficas de la Tierra ya eran emitidas al vacío, algo fácilmente detectable para cualquier civilización extraterrestre que esté en la labor de encontrar señales de otra forma de vida inteligente.​ Aún así, de ser real la hipótesis, personas como Stephen Hawking advertían acerca del posible error que estaría cometiendo la humanidad al buscar con insistencia más formas de vida inteligentes a lo largo y ancho del universo, enviando sondas y mensajes como los discos de oro de las sondas Voyager, la Placa Pioneer y el Mensaje de Arecibo con información precisa acerca de nosotros como especie, y datos sobre nuestra ubicación en el universo, que, en caso de ser halladas en algún momento, podrían ser usadas para una hipotética aniquilación humana si esa información llegase a caer en manos de una civilización 'maligna'.​
+
+
+Han desaparecido
+Autores de ciencia ficción han propuesto otra posible explicación: algo o alguien destruye la vida inteligente. Este tema puede encontrarse en novelas de ciencia ficción como Pórtico y sus secuelas de Frederik Pohl.
+Otra alternativa es que la vida inteligente tiende a destruirse a sí misma; por ejemplo, guerra nuclear, guerra bacteriológica, química, agotamiento de los recursos, etc.
+También se postula que en algún momento de su existencia terminarán siempre por ser destruidos por algún fenómeno natural de su planeta o del espacio; ejemplo de ello serían los impactos de meteoritos que se han producido en los planetas y lunas dentro del sistema solar.
+
+
+Existen, pero no somos conscientes de ellos
+A modo de ejemplo, como sucede entre hormigas y humanos, somos conscientes de ellas, pero ellas no lo son de nosotros, excepto que exista una agresión directa que las hace sensibles a una acción que no será registrada como «agresión humana», sino simplemente como un algo catastrófico de la naturaleza que las rodea. Las hormigas viven y hacen su complejo trabajo social totalmente ignorantes de la existencia humana. Sin embargo los humanos, aunque tendrían el poder específico de destruir sus comunidades, no generan en ellas temor, porque «lo humano» no existe para ellas.
+
+
+Nunca han existido
+
+Otros como Richard Dawkins y Paul Davies,  proponen que las condiciones para que se cree la vida son raras en el universo. Incluso para que la vida evolucione y lleguen a existir civilizaciones inteligentes deben darse condiciones aún menos frecuentes, y mantenerse durante el tiempo sin la presencia de alteraciones drásticas, como sería lo que sucedería por impactos de grandes meteoritos u otros fenómenos que son tan comunes, por lo que evitan que la vida pueda llegar a formarse o prosperar hasta el punto de la exploración o colonización cósmica.
+El neocatastrofismo estima la frecuencia de fenómenos cosmológicos como los brotes de rayos gamma y su posible incidencia en la regulación de la emergencia de la vida.
+
+
+Todavía no existen, y somos nosotros
+Algunos investigadores unen la teoría del viaje en el tiempo y la de la existencia de vida extraterrestre, llegando a la conclusión de que la vida inteligente interestelar está originada en la Tierra. Consistiría en que un grupo de seres inteligentes del planeta Tierra hubieran salido a velocidades cercanas a la de la luz rumbo a otros mundos, una vez conseguidos los conocimientos tecnológicos para tal viaje,​ evitando cualquier desastre intergaláctico sobre la Tierra. De esa manera, cada nuevo planeta civilizado evolucionaría de distinta forma a través de los tiempos.
+Según esta teoría, los ovnis serían en realidad máquinas del tiempo de humanos del futuro que, por alguna razón, deciden visitar la Tierra en algunos de sus viajes al pasado, y las diferentes razas extraterrestres serían fruto de los diferentes caminos evolutivos que va a seguir la especie humana en el futuro.
+En resumen, la vida inteligente interestelar provendría de una vida inteligente común, nosotros, que a la vez hemos provenido de los seres vivos que habitan la Tierra. Así que según esta teoría es imposible que nos podamos comunicar porque aún no existen.
+Según Brian Cox, divulgador científico en la televisión británica y exteclista del grupo D:ream, «una solución a la paradoja de Fermi es que no es posible desarrollar un mundo que tiene el poder de destruirse a sí mismo y que necesita soluciones globales de colaboración para evitar eso».
+
+
+Son inteligentes, pero no desarrollados
+También puede darse el caso de que estas civilizaciones sean formas de vida inteligentes, pero que se encuentren en períodos de su historia semejantes a nuestra Edad Media, o Prehistoria, por lo tanto faltan cientos y hasta miles de años para que lleguen a un nivel de desarrollo tal que les permita comunicarse con nosotros.
+
+
+Utilizan señales encriptadas y no podemos reconocerlas
+En 2015 Edward Snowden en un pódcast con Neil deGrasse Tyson, propuso su solución a la paradoja: Dada la necesidad universal de utilizar medios de comunicación seguros, una civilización extraterrestre podría estar transmitiendo señales encriptadas que nosotros no podríamos identificar como de una fuente inteligente (suponiendo que su intención no sea la de comunicarse con otra civilización):
+
+Lo que estamos escuchando—que podría ser un show de televisión alienígena, o una llamada telefónica, o un mensaje de GPS, lo que sea—es imposible para nosotros diferenciarlo de la radiación de fondo de microondas.​
+
+
+Hipótesis de la Tierra especial
+
+La «hipótesis de la Tierra especial», sugiere que la vida pluricelular puede ser extraña en el universo debido a una posible escasez de planetas parecidos a la Tierra. El argumento es que se han dado muchas coincidencias improbables para hacer posible la vida compleja en la Tierra. 
+
+Los brazos espirales de las galaxias tienen muchas novas y la radiación que emiten se cree que es perjudicial para la vida superior. El sistema solar está en una órbita muy especial dentro de la Vía Láctea, nuestra galaxia. Es una órbita casi perfectamente circular, a una distancia en la cual el sistema solar se mueve a la misma velocidad que las ondas de choque que forman los brazos espirales. La Tierra ha estado entre los brazos espirales durante cientos de millones de años, más de treinta órbitas galácticas, casi todo el tiempo en el que ha existido vida superior en la Tierra.
+Otro punto crucial es la Luna. La teoría del gran impacto postula que fue formada por una rara colisión entre una joven Tierra y un planeta de tamaño similar a Marte 4450 millones de años atrás. La colisión tuvo que ocurrir en un ángulo exacto. Demasiado directo y la Tierra se habría destruido; demasiado poco directo y el cuerpo similar a Marte habría sido desviado. Además, las mareas debidas a la Luna estabilizan el eje de la Tierra. Sin la Luna, sus variaciones, conocidas como precesión de los equinoccios, causarían variaciones del clima tan dramáticas que podrían imposibilitar la vida. Las mareas lunares también ayudan a mantener caliente el núcleo de la Tierra, que debe ser fluido para generar el campo magnético de la Tierra; sin él, el viento solar acabaría con todo el aire y el agua en un periodo de unos pocos millones de años.
+
+
+Detractores de la hipótesis de la Tierra especial
+Aunque la hipótesis de la Tierra especial está fundada, se basa en que deben darse condiciones terráqueas para la vida compleja, lo cual excluye diferentes posibilidades de existencia de otras formas de vida.
+
+Igualmente, algunas personas también han argumentado que, aunque la hipótesis se base solo en condiciones terráqueas para la vida compleja, existe la posibilidad de vida. Esto sería posible dado el tamaño del universo y la cantidad de galaxias existentes en él. En cualquier caso, estadísticamente existiría una muy pequeña probabilidad de que se den juntas las coincidencias para la existencia de vida como la terráquea. Así, esta teoría no podría postular la total inexistencia de vida en el universo, aparte de la nuestra.
+Para poder establecer los criterios de búsqueda de vida, es esencial entender cómo funciona el «mecanismo vital» en este planeta, entender cómo los cuatro peldaños fundamentales de la espiral de ADN hacen posible una entidad viva, un ADN cuya esencia es el carbono. Un material inerte —carbono— produce un ser vivo. ¿Cómo es posible esto? La razón radica en que el carbono es un elemento de solo cuatro electrones para hacer enlaces (electrones de valencia) que lo ayudaría a hacer fácilmente un enlace con otros elementos, actualmente hay más de diez millones de sustancias basadas en el carbono; además, el carbono es uno de los elementos con mayor abundancia en el universo.
+Aún queda por responder: «¿Cuándo se considera que una entidad es un ser vivo?» Aunque podría parecer fácil de responder a simple vista, no lo es en absoluto si se considera, por ejemplo, una gota de aceite en ácido emitiendo pseudópodos.
+Una cucaracha jamás podrá entender el teorema de Pitágoras, porque su estructura mental, si a su complejo neuronal se le puede llamar mente, no tiene el desarrollo para una actividad intelectual compleja; y nosotros, ¿tenemos el desarrollo mental suficiente para entender cómo la molécula de ADN tiene vida? La respuesta se encuentra en el metabolismo. Por eso, si se buscara vida extraterrestre debería tomarse en cuenta que en el planeta haya una fuente de energía. Anteriormente se pensaba que la única fuente energética para producir un metabolismo es la luz del Sol, pero más tarde se comprobó que hay bacterias que incluso nacen en las profundidades de los océanos, donde no es posible ver la luz solar; esto se debe a que el calor que emiten los volcanes submarinos les sirve como tal.
+La vida extraterrestre no debería necesariamente parecerse a la humana, incluso, ni ser inteligente; porque, basándonos en los principios evolutivos, las especies se desarrollan principalmente respondiendo a las necesidades adaptativas de su ambiente respectivo y las necesidades de otros mundos no tienen por qué ser parecidas a las nuestras. La vida extraterrestre tendría que responder al ambiente de su planeta respectivo: diferente gravedad a la de la Tierra, diferente densidad en la atmósfera, diferentes niveles de oxígeno, diferentes fuentes de energía para crear un metabolismo.
+Basándonos en los conocimientos que poseemos sobre el origen de la vida, tan solo se necesita una fuente de energía, porque el organismo necesita tener un metabolismo, y los ingredientes químicos que fueron probados en el Experimento de Miller, los cuales tenía la Tierra primitiva cuando se formó la vida.
+
+
+Hipótesis de la transcensión
+
+El futurista John Smart,​ fundador de la Accelerating Studies Foundation, es el autor de la hipótesis de la transcensión, la cual propone que un proceso universal de desarrollo evolutivo guía a todas las civilizaciones hacia lo que podríamos llamar el «espacio interior», un dominio computacionalmente óptimo de densidad crecientes, productivas, miniaturizadas y eficientes escalas de espacio, tiempo, energía y materia (STEM, Space, Time, Energy, Matter), y finalmente, a un destino similar a un agujero negro, por tratarse estos del entorno computacional óptimo y la estructura universal más densa. Opone la escala de Kardashov que propone el crecimiento en el uso de energía de una civilización por escalas (1. Usar un planeta, 2. Un sol , 3. Una galaxia) frente a Barrow en cuya escala la clave es la miniaturización (localización espacial) de la ingeniería de la civilización (Desde B1. Manipular objetos de escala mayor que sí mismos (unir y separar sólidos, construir edificios, minería, etc.) hasta B7. Manipular la propia estructura del espacio-tiempo).
+La transcensión como destino desarrollista trata de contribuir a la solución de la paradoja de Fermi, ofrece una alternativa a las propuestas expansionistas (salir a conquistar el espacio) que habían sido sugeridas hasta ahora. Si cada civilización en nuestro universo está considerablemente limitada en lo que puede aprender dados sus recursos computacionales finitos, y si muchas civilizaciones evolucionan en paralelo y aisladas en nuestro universo por ese motivo, entonces es probable que haya un poderoso mandato ético para evitar la comunicación unidireccional y mantenerse al margen para favorecer la mayor diversidad posible en el proceso de transcensión.
+Asimismo sugiere que el centro galáctico, por tratarse de la zona más antigua de la galaxia es más probable que albergue las civilizaciones más antiguas y por tanto en las que ya se haya dado la singularidad tecnológica y sean post-transcensión. En el centro de la mayoría de galaxias hay un agujero negro supermasivo. La máxima velocidad computacional de un sistema auto-contenido en el universo físico (límite de Bremermann), usando la equivalencia de Einstein de masa-energía (c²) y la constante de Planck (h). El valor límite es c²/h, o 1.36 × 1050 bits por segundo por kilogramo. Este es el aparente rendimiento límite de cualquier «computronium» que una futura civilización podría crear en este universo físico. Seth Lloyd, aplicando el trabajo de Bremermann, teorizó que los agujeros negros (específicamente, sus horizontes de evento) son los entornos de computación definitivos, pues solo en densidades de agujero negro desaparece la «pared de memoria» de los ordenadores modernos.
+En la informática clásica, hay un coste de tiempo para el envío de información desde el procesador al registro de memoria y regresar. En el límite de agujero negro de densidad STEM (Espacio Tiempo Energía Materia), los computadores alcanzan la cota de Bekenstein para el coste de energía de transferencia de información, y el tiempo que necesitan para calcular, cambiar un bit (tflip) en cualquier posición, es lo mismo que cuesta comunicarlo desde cualquier punto del sistema a otro en el horizonte de eventos.
+
+
+Véase también
+Problema de Fermi
+Hipótesis del bosque oscuro
+Principio de mediocridad
+Gran filtro
+SETI
+OVNI
+Contacto extraterrestre
+Comunicación interestelar
+
+
+Notas
+
+
+Referencias
+
+
+Bibliografía adicional
+Rebecca Boyle and Quanta Magazine (10 de marzo de 2019). «Moving Stars Might Speed the Spread of Alien Life». The Atlantic. 
+Ćirković, Milan [1] Archivado el 5 de mayo de 2021 en Wayback Machine. Why we downplay Fermi's paradox. Nautilus
+Ćirković, Milan The Great Silence: Science and Philosophy of Fermi's Paradox The Great Silence Oxford University Press
+Crowe, Michael J. (2008). The Extraterrestrial Life Debate, Antiquity to 1915. University of Notre Dame Press. ISBN 978-0-268-02368-3. 
+Forgan, Duncan H. (2019). Solving Fermi's Paradox. Cambridge University Press. ISBN 9781107163652. 
+Michaud, Michael (2006). Contact with Alien Civilizations: Our Hopes and Fears about Encountering Extraterrestrials. Copernicus Books. ISBN 978-0-387-28598-6. (requiere registro). 
+Zuckerman, Ben; Hart, Michael H. (1995). Extraterrestrials: Where Are They?. Cambridge University Press. ISBN 978-0-521-44803-1. 
+
+
+Enlaces externos
+Nueva teoría: La Tierra sería como un «jardín zoológico» Archivado el 13 de mayo de 2006 en Wayback Machine.
+The Fermi Paradox: An Approach Based on Percolation Theory by Geoffrey A. Landis
+Space.com: Our Galaxy Should Be Teeming With Civilizations, But Where Are They? by Seth Shostak
+The Possibilities of FTL: Or Fermi's Paradox Reconsidered by F.E. Freiheit IV
+Fermi's Paradox (i.e. Where are They?) by James Schombert
+Answering the Fermi Paradox: Exploring the Mechanisms of Universal Transcension by John Smart
+The Great Filter — Are We Almost Past It? by Robin Hanson
+Our observations are incomplete [2] and a logical flaw [3], by Robert Freitas
+LA PARADOJA DE SETI

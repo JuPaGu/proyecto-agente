@@ -1,0 +1,64 @@
+TÍTULO: Púlsar
+FUENTE: https://es.wikipedia.org/wiki/P%C3%BAlsar
+LICENCIA: CC BY-SA 4.0 (Wikipedia)
+
+Un púlsar (del acrónimo en inglés de pulsating star, ‘estrella pulsante’)​ es una estrella de neutrones que gira muy rápido y que está muy magnetizada. La emisión que detectamos en la Tierra de los púlsares es periódica, con intervalos de emisión cortos y regulares. La radiación es producida en los polos magnéticos, desde donde emana en haces muy delgados. Debido a que los haces de radiación están desalineados con el eje de rotación, un punto fijo en el espacio será brevemente alcanzado por el haz de radiación sólo una vez por cada giro de la estrella (como ocurre con la luz de un faro).​
+Las estrellas de neutrones pueden girar sobre sí mismas hasta varios cientos de veces por segundo; un punto de su superficie puede estar moviéndose a velocidades de hasta 70 000 km/s. De hecho, las estrellas de neutrones que giran tan rápidamente se expanden en su ecuador debido a estas altísimas velocidades.​ Esto también implica que estas estrellas tengan un tamaño de unos pocos miles de metros, entre 10 y 20 kilómetros, ya que la fuerza centrífuga generada a esta velocidad es enorme y solo el potente campo gravitatorio de una de estas estrellas (dada su gran densidad) es capaz de evitar que se despedace.​
+El efecto combinado de la enorme densidad de estas estrellas con su intensísimo campo magnético (generado por los protones y electrones de la superficie girando alrededor del centro a semejantes velocidades) causa que las partículas que se acercan a la estrella desde el exterior (como, por ejemplo, moléculas de gas o polvo interestelar), se aceleren a velocidades extremas y realicen espirales cerradísimas hacia los polos magnéticos de la estrella.​ Por ello, los polos magnéticos de una estrella de neutrones son lugares de actividad muy intensa. Emiten chorros de radiación en el rango del radio, rayos X o rayos gamma, como si fueran cañones de radiación electromagnética muy intensa y muy colimada.​ En 2018 se anunció el descubrimiento de que el púlsar RX J0806.4-4123 emitía radiación infrarroja, algo único en las estrellas de este tipo observadas hasta la fecha.​
+Por razones aún no muy bien entendidas, los polos magnéticos de muchas estrellas de neutrones no están sobre el eje de rotación. El resultado es que los «cañones de radiación» de los polos magnéticos no apuntan siempre en la misma dirección, sino que rotan con la estrella.
+Es posible entonces que, mirando hacia un punto determinado del firmamento, recibamos un «chorro» de rayos X durante un instante. El chorro aparece cuando el polo magnético de la estrella mira hacia la Tierra, deja de apuntarnos una milésima de segundo después debido a la rotación, y aparece de nuevo cuando el mismo polo vuelve a apuntar hacia la Tierra. Lo que percibimos entonces desde ese punto del cielo son pulsos de radiación con un periodo muy exacto, que se repiten una y otra vez (lo que se conoce como «efecto faro») cuando el chorro se orienta hacia nuestro planeta. Por eso, este tipo de estrellas de neutrones «pulsantes» se denominan púlsares (del inglés pulsating star, ‘estrella pulsante’, aunque esta denominación se aplica con más propiedad a otro grupo de estrellas variables). Si la estrella está orientada de manera adecuada, podemos detectarla y analizar su velocidad de rotación. El periodo de la pulsación de estos objetos lógicamente aumenta cuando disminuye su velocidad de rotación. A pesar de ello, algunos púlsares con periodos extremadamente constantes han sido utilizados para calibrar relojes de precisión.
+
+
+Descubrimiento del primer púlsar
+
+La señal del primer púlsar detectado, PSR B1919+21, tenía un periodo de 1.33730113 s. Este tipo de señales únicamente se puede detectar con un radiotelescopio. De hecho, cuando en julio de 1967 Jocelyn Bell y Antony Hewish detectaron estas señales de radio de corta duración y extremadamente regulares, pensaron que podrían haber establecido contacto con una civilización extraterrestre, por lo que llamaron tentativamente a su fuente LGM (Little Green Men u Hombrecitos verdes).​ Tras una rápida búsqueda se descubrieron tres nuevos púlsares que emitían en radio a diferentes frecuencias, por lo que pronto se concluyó que estos objetos debían ser producto de fenómenos naturales. Anthony Hewish recibió en 1974 el Premio Nobel de Física por este descubrimiento y por el desarrollo de su modelo teórico.​ Jocelyn Bell (alumna de posgrado de Hewish) no recibió reconocimiento aunque fuera ella quien advirtió la primera señal de radio.​ Con anterioridad, Nikola Tesla ya había detectado emisiones de radio regulares durante sus experimentos de 1899, aunque entonces no se supieron interpretar.​
+
+ 
+
+Hoy en día se conocen más de 3200 púlsares,​ con periodos de rotación que van desde un poco más de un milisegundo a unos pocos segundos, con un promedio de 0.82 s. La precisión con que se ha medido el periodo de estos objetos es de una parte en 100 millones. El más famoso de todos los púlsares es quizás el que se encuentra en el centro de la Nebulosa del Cangrejo, denominado PSR B0531+21, con un periodo de 0.033 s. Este púlsar se encuentra en el mismo punto en el que astrónomos chinos y árabes registraron una brillante supernova en el año 1054 y permite establecer la relación entre supernova y estrella de neutrones, al saber, que esta es un remanente de aquella explosión.
+
+ 
+
+
+Planetas de púlsar
+
+En el primer grupo de planetas extrasolares descubiertos que orbitan un púlsar, el PSR B1257+12, cuyo periodo es de 6.22 ms (milisegundos), las pequeñas variaciones de su periodo de emisión en el radio sirvieron para detectar una ligerísima oscilación periódica con una amplitud máxima en torno a 0.7 ms. Los radioastrónomos Aleksander Wolszczan y Dale A. Frail interpretaron estas observaciones como causadas por un grupo de tres planetas en órbitas casi circulares a 0.2, 0.36 y 0.47 ua del púlsar central y con masas de 0.02, 4.3 y 3.9 masas terrestres respectivamente. Este descubrimiento, muy inesperado, causó un gran impacto en la comunidad científica.​
+
+ 
+
+
+Púlsares de rayos X
+Muchos pulsares son detectables mediante rayos X. Esto usualmente se hace con detectores de rayos X emplazados en satélites, ya que los rayos X no logran cruzar la atmósfera terrestre.
+Algunos de estos púlsares son miembros de sistemas de estrellas binarias, que se componen de un púlsar y de una estrella que normalmente es joven, de tipo O o B. La estrella primaria emite viento estelar de su superficie y radiación, y estos son atrapados por la estrella compañera que produce rayos x. El primer púlsar de rayos X conocido es la estrella compacta situada en el sistema Cen X-3.
+
+
+Púlsares arañas
+
+Los púlsares arañas son sistemas binarios en los cuales el púlsar destruye o 'devora' a su estrella compañera debido al energético viento de partículas a velocidades relativistas expelidas por la estrella de neutrones. Esos sistemas se dividen en púlsares viudas negras​​ y lomos rojos,​​​ y son llamados así por analogía al canibalismo sexual que presentan algunas especies de arañas como la viuda negra y la lomos rojos. Los púlsares viudas negras y los lomos rojos se diferencian en el tipo de estrella compañera que es «devorada» por el viento del púlsar. Los púlsares viudas negras son aquellos en los que la estrella compañera del púlsar es una enana marrón o una estrella de materia degenerada, y las de lomo rojo aquellas donde la compañera es una estrella rica en hidrógeno de secuencia principal o evolucionada.
+
+
+Nomenclatura
+En principio los púlsares fueron nombrados con las letras del observatorio descubridor seguidas de su ascensión recta (por ejemplo, CP 1919). A medida que se descubrieron más púlsares, el código de letras se volvió difícil de manejar, por lo que surgió la convención de usar las letras PSR (en inglés Pulsating Source of Radio, Fuente Pulsante de Radio) seguidas de la ascensión recta del púlsar y los grados de declinación (por ejemplo, PSR 0531+21) y, a veces, la declinación a una décima de grado (por ejemplo, PSR 1913+16.7). Los púlsares que aparecen muy juntos a veces tienen letras añadidas (por ejemplo, PSR 0021-72C y PSR 0021-72D).
+La convención moderna antepone a los números más antiguos una B (por ejemplo, PSR B1919+21), donde la B significa que las coordenadas son para la época 1950.0. Todos los púlsares nuevos tienen una J que indica las coordenadas 2000.0 y también tienen una declinación que incluye minutos (por ejemplo, PSR J1921+2153). Los púlsares descubiertos antes de 1993 tienden a conservar sus nombres B en lugar de utilizar sus nombres J (por ejemplo, PSR J1921+2153 se conoce más comúnmente como PSR B1919+21). Los púlsares descubiertos recientemente sólo tienen un nombre J (por ejemplo, PSR J0437-4715). Todos los púlsares tienen un nombre J que proporciona coordenadas más precisas de su ubicación en el cielo.​
+
+
+Referencias
+
+
+Bibliografía
+Altschuler, Daniel Roberto (2004). Hijos de las estrellas (Dulcinea Otero-Piñeiro, trad.). Akal Astronomía. Ediciones AKAL. ISBN 9788446022701. 
+Hester, J. et al. 2002 Astrophysical Journal Letters, 577, L49.
+Lewin, Walter; Goldstein, Warren (2012). Por amor a la física: Del final del arco iris a la frontera del tiempo. Un viaje por las maravillas de la física. Penguin Random House Grupo Editorial España. ISBN 9788499921549. 
+Page, Dany (2018). «IV. Estrellas de neutrones y púlsares». Fronteras del Universo. Fondo de Cultura Economica. ISBN 9786071657145. 
+VV.AA. (2008). Un viaje al cosmos en 52 semanas. Volumen 4 de Divulgación (Consejo Superior de Investigaciones Científicas). Editorial CSIC - CSIC Press. ISBN 9788483193952. 
+
+
+Enlaces externos
+ Wikcionario  tiene definiciones y otra información sobre púlsar.
+El Diccionario de la Real Academia Española tiene una definición para púlsar.
+ Wikimedia Commons alberga una categoría multimedia sobre Púlsar.
+Animaciones de las observaciones del HST-Chandra del Púlsar del Cangrejo
+Vídeos del Proyecto Celestia sobre el Púlsar del Cangrejo (vídeo Nº 21)
+Sonidos del espacio
+Sonidos de púlsar breve colección de sonidos de púlsar
+Más sonidos de púlsar Otra web con más sonidos de púlsar

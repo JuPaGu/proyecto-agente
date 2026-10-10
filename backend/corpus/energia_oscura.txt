@@ -1,0 +1,440 @@
+TÍTULO: Energía oscura
+FUENTE: https://es.wikipedia.org/wiki/Energ%C3%ADa_oscura
+LICENCIA: CC BY-SA 4.0 (Wikipedia)
+
+En cosmología física, la energía oscura es una forma de energía​ que estaría presente en todo el espacio, produciendo una presión que tiende a acelerar la expansión del universo.​ Considerar la existencia de la energía oscura es la manera más frecuente de explicar las observaciones recientes de que el universo parece estar en expansión acelerada desde hace unos 6145 millones de años.​ La causa sería que la densidad de la materia va disminuyendo conforme el universo se expande, mientras que la densidad de energía oscura permanece constante con la expansión. En el modelo estándar de la cosmología, la energía oscura aporta prácticamente casi el 69 % de la masa-energía total del universo.​
+Temas relacionados con la energía oscura son la constante cosmológica, una energía de densidad constante que llena el espacio en forma homogénea,​ la teoría cuántica de campos y la quintaesencia, como campos dinámicos cuya densidad de energía puede variar en el tiempo y el espacio. De hecho, las contribuciones de los campos escalares que son constantes en el espacio normalmente también se incluyen en la constante cosmológica. Se piensa que la constante cosmológica se origina en la energía del vacío. Los campos escalares que cambian con el espacio son difíciles de distinguir de una constante cosmológica porque los cambios pueden ser extremadamente lentos.
+Para distinguir entre ambas se necesitan mediciones muy precisas de la expansión del universo, para ver si la velocidad de expansión cambia con el tiempo. La tasa de expansión está parametrizada por la ecuación de estado. La medición de la ecuación de estado de la energía oscura es uno de los mayores retos de investigación actual de la cosmología física.
+Añadir la constante cosmológica a la Métrica de Friedman-Lemaître-Robertson-Walker (FLRW) conduce al modelo Lambda-CDM, que se conoce como «modelo estándar» de cosmología debido a su coincidencia precisa con las observaciones.
+No se debe confundir la energía oscura con la materia oscura, ya que, aunque ambas forman la mayor parte de la masa del universo, la materia oscura es una forma de materia, mientras que la energía oscura se asocia a un campo que ocupa todo el espacio.
+Información divulgada recientemente basada en el trabajo realizado por la nave espacial Planck sobre la distribución del universo, obtuvo una estimación más precisa de esta en 68.3 % de energía oscura, un 26.8 % de materia oscura y un 4.9 % de materia ordinaria.​
+
+
+Historia
+La constante cosmológica fue propuesta por primera vez por Albert Einstein como un medio para obtener una solución estable de la ecuación del campo de Einstein que llevaría a un universo estático, utilizándola para compensar la gravedad. El mecanismo no solo fue un ejemplo poco elegante de «ajuste fino», pues pronto se demostró que el universo estático de Einstein sería inestable porque las heterogeneidades locales finalmente conducirían a la expansión sin control o a la contracción del universo. El equilibrio es inestable: si el universo se expande ligeramente, entonces la expansión libera la energía del vacío, que causa todavía más expansión. De la misma manera, un universo que se contrae ligeramente se continuará contrayendo.
+Estos tipos de perturbaciones son inevitables, debido a la distribución irregular de materia en el universo. Las observaciones realizadas por Edwin Hubble demostraron que el universo está expandiéndose y que no es estático en absoluto. Einstein se refirió a su fallo para predecir un universo dinámico, en contraste a un universo estático, como «su gran error». Después de esta declaración, la constante cosmológica fue ignorada durante mucho tiempo como una curiosidad histórica.
+Alan Guth propuso en los años 1970 que un campo de presión negativa, similar en concepto a la energía oscura, podría conducir a la inflación cósmica en el universo preprimigenio. La inflación postula que algunas fuerzas repulsivas, cualitativamente similares a la energía oscura, dan como resultado una enorme y exponencial expansión del universo poco después del Big Bang. Tal expansión es una característica esencial de muchos modelos actuales del Big Bang. Sin embargo, la inflación tiene que haber ocurrido a una energía mucho más alta que la energía oscura que observamos hoy y se piensa que terminó completamente cuando el universo solo tenía una fracción de segundo. No está claro qué relación (si hay alguna), existe entre la energía oscura y la inflación. Incluso después de que los modelos inflacionarios hayan sido aceptados, la constante cosmológica se piensa que es irrelevante en el universo actual.
+El término «energía oscura» fue acuñado por Michael Turner en 1998.​ En ese tiempo, el problema de la masa perdida de la nucleosíntesis primordial y la estructura del universo a gran escala fue establecida y algunos cosmólogos habían empezado a teorizar que había un componente adicional en nuestro universo. La primera prueba directa de la energía oscura provino de las observaciones de la aceleración de la velocidad de expansión del universo mediante el estudio de supernovas tipo Ia por Adam Riess et al.​ y confirmada después en Saul Perlmutter et al.​ Esto dio como resultado el modelo Lambda-CDM, que hasta 2006 era consistente con una serie de observaciones cosmológicas rigurosamente crecientes, las últimas de 2005 de la Supernova Legacy Survey (SNLS). Los primeros resultados de la SNLS revelaron que el comportamiento medio de la energía oscura se comporta como la constante cosmológica de Einstein con una precisión del 10 %.​ Los resultados del Hubble Space Telescope Higher-Z Team indican que la energía oscura ha estado presente durante al menos 9000 millones de años y durante el periodo precedente a la aceleración cósmica.
+
+
+Descubrimiento de la energía oscura
+
+En 1998 las observaciones de supernovas de tipo 1a muy lejanas, realizadas por parte del Supernova Cosmology Project en el Laboratorio Nacional Lawrence Berkeley y el High-z Supernova Search Team, sugirieron que la expansión del Universo se estaba acelerando.​​ Desde entonces, esta aceleración se ha confirmado por varias fuentes independientes: medidas de la radiación de fondo de microondas, las lentes gravitacionales, nucleosíntesis primigenia de elementos ligeros y la estructura a gran escala del universo, así como una mejora en las medidas de las supernovas han sido consistentes con el modelo Lambda-CDM.​
+Las supernovas de tipo 1a proporcionan la principal prueba directa de la existencia de la energía oscura. Según la ley de Hubble, todas las galaxias lejanas se alejan aparentemente de la Vía Láctea, mostrando un desplazamiento al rojo en el espectro luminoso debido al efecto Doppler. La medición del factor de escala en el momento que la luz fue emitida desde un objeto es obtenida fácilmente midiendo el corrimiento al rojo del objeto en recesión. Este desplazamiento indica la edad de un objeto lejano de forma proporcional, pero no absoluta. Por ejemplo, estudiando el espectro de un cuásar se puede saber si se formó cuando el universo tenía un 20 % o un 30 % de la edad actual, pero no se puede saber la edad absoluta del universo. Para ello es necesario medir con precisión la expansión cosmológica. El valor que representa esta expansión en la actualidad se denomina constante de Hubble. Para calcular esta constante se utilizan en cosmología las candelas estándar, que son determinados objetos astronómicos con la misma magnitud absoluta, que es conocida, de tal manera que es posible relacionar el brillo observado, o magnitud aparente, con la distancia. Sin las candelas estándar, es imposible medir la relación corrimiento al rojo-distancia de la ley de Hubble. Las supernovas tipo 1a son una de esas candelas estándar, debido a su gran magnitud absoluta, lo que posibilita que se puedan observar incluso en las galaxias más lejanas. En 1998 varias observaciones de estas supernovas en galaxias muy lejanas (y, por lo tanto, jóvenes) demostraron que la constante de Hubble no es tal, sino que su valor varía con el tiempo. Hasta ese momento se pensaba que la expansión del universo se estaba frenando debido a la fuerza gravitatoria; sin embargo, se descubrió que se había estado acelerando durante al menos los últimos seis mil millones de años,​ por lo que debía existir algún tipo de fuerza que acelerase el universo.
+La consistencia en magnitud absoluta para supernovas tipo 1a se ve favorecida por el modelo de una estrella enana blanca vieja que gana masa de una estrella compañera y crece hasta alcanzar el límite de Chandrasekhar definido de manera precisa. Con esta masa, la enana blanca es inestable ante fugas termonucleares y explota como una supernova tipo 1a con un brillo característico. El brillo observado de la supernova se pinta frente a su corrimiento al rojo y esto se utiliza para medir la historia de la expansión del universo. Estas observaciones indican que la expansión del universo no se está desacelerando, como sería de esperar para un universo dominado por materia, sino más bien acelerándose. Estas observaciones se explican suponiendo que existe un nuevo tipo de energía con presión negativa.
+La existencia de la energía oscura, de cualquier forma, es necesaria para reconciliar la geometría medida del espacio con la suma total de materia en el universo. Las medidas de la radiación de fondo de microondas más recientes, realizadas por el satélite WMAP, indican que el universo está muy cerca de ser plano. Para que la forma del universo sea plana, la densidad de masa/energía del universo tiene que ser igual a una cierta densidad crítica. Posteriores observaciones de la radiación de fondo de microondas y de la proporción de elementos formados en el Big Bang (Gran explosión) han puesto un límite a la cantidad de materia bariónica y materia oscura que puede existir en el universo, que cuenta solo el 30 % de la densidad crítica. Esto implica la existencia de una forma de energía adicional que cuenta el 70 % de la masa energía restante.​ Estos estudios indican que el 73 % de la masa del Universo está formado por la energía oscura, un 23 % es materia oscura (materia oscura fría y materia oscura caliente) y un 4 % materia bariónica. La teoría de la estructura a gran escala del universo, que determina la formación de estructuras en el universo (estrellas, quasars, galaxias y agrupaciones galácticas), también sugiere que la densidad de materia en el universo es solo el 30 % de la densidad crítica.
+
+
+Experimentos diseñados para probar la existencia de la energía oscura
+El más conocido es el Sistema de Detección Integrado Sachs-Wolfe, ideado en 1996 por dos investigadores canadienses y utilizado por primera vez en 2003; propusieron buscar estos pequeños cambios en la energía de la luz comparando la temperatura de la radiación con mapas de galaxias en el universo local. De no existir la energía oscura, no habría correspondencia entre los dos mapas (el de fondo de microondas cósmico distante y el de la distribución de galaxias relativamente cercano). Si esta existiera, sin embargo, se podría observar un curioso fenómeno: los fotones del fondo cósmico de microondas ganarían energía —en vez de perderla— al pasar cerca de grandes masas. El experimento mejoró sus resultados gracias al equipo de Tommaso Giannantonio, quien ha probado su existencia con una certeza algo mayor a cuatro sigmas.​
+
+
+Naturaleza de la energía oscura
+
+La naturaleza exacta de la energía oscura es materia de debate. Se sabe que es muy homogénea, no muy densa, pero no se conoce su interacción con ninguna de las fuerzas fundamentales más que con la gravedad. Como no es muy densa, unos 10−29 g/cm³, es difícil realizar experimentos para detectarla. La energía oscura tiene una gran influencia en el universo, pues es el 70 % de toda la energía y debido a que ocupa uniformemente el espacio interestelar. Los dos modelos principales son la quintaesencia y la constante cosmológica.
+
+
+Presión negativa
+La energía oscura causa la expansión del universo pues ejerce una presión negativa. Una sustancia tiene una presión positiva cuando empuja la pared del recipiente que lo contiene; este es el caso de los fluidos ordinarios (líquidos y gases de materia ordinaria). Una presión negativa tiene el efecto contrario, y un recipiente lleno de una substancia de presión negativa provocaría una presión hacia dentro del contenedor. De acuerdo con la relatividad general, la presión de una sustancia contribuye a su atracción gravitacional sobre otras cosas igual que hace su masa, de acuerdo con la ecuación de campo de Einstein:
+
+  
+    
+      
+        
+          R
+          
+            μ
+            ν
+          
+        
+        −
+        
+          
+            1
+            2
+          
+        
+        R
+        
+        
+          g
+          
+            μ
+            ν
+          
+        
+        =
+        
+          
+            
+              8
+              π
+              G
+            
+            
+              c
+              
+                4
+              
+            
+          
+        
+        
+          T
+          
+            μ
+            ν
+          
+        
+      
+    
+    {\displaystyle R_{\mu \nu }-{\frac {1}{2}}R\,g_{\mu \nu }={8\pi G \over c^{4}}T_{\mu \nu }}
+  
+
+Si la sustancia es de presión negativa entonces su efecto es una repulsión gravitacional. Si el efecto gravitacional repulsivo de la presión negativa de la energía oscura es mayor que la atracción gravitacional causada por la propia energía, resulta una expansión del tipo que se ha observado. Por esa razón, se ha postulado que la expansión acelerada observada podría ser el efecto de presión negativa de una substancia exótica conocida como energía oscura. Otra posibilidad para explicar la expansión es postular una ecuación de campo con constante cosmológica positiva:
+
+  
+    
+      
+        
+          R
+          
+            μ
+            ν
+          
+        
+        −
+        
+          
+            1
+            2
+          
+        
+        R
+        
+        
+          g
+          
+            μ
+            ν
+          
+        
+        +
+        Λ
+        
+        
+          g
+          
+            μ
+            ν
+          
+        
+        =
+        
+          
+            
+              8
+              π
+              G
+            
+            
+              c
+              
+                4
+              
+            
+          
+        
+        
+          
+            
+              
+                T
+                ^
+              
+            
+          
+          
+            μ
+            ν
+          
+        
+      
+    
+    {\displaystyle R_{\mu \nu }-{\frac {1}{2}}R\,g_{\mu \nu }+\Lambda \,g_{\mu \nu }={8\pi G \over c^{4}}{\hat {T}}_{\mu \nu }}
+  
+
+Donde ahora el tensor 
+  
+    
+      
+        
+          
+            
+              
+                
+                  T
+                  ^
+                
+              
+            
+            
+              μ
+              ν
+            
+          
+        
+      
+    
+    {\displaystyle \scriptstyle {\hat {T}}_{\mu \nu }}
+  
+ sería la parte asociada a materia con presión positiva. Para resolver la contradicción de que el empuje cause atracción o la contracción cause repulsión se considera que:
+
+El empuje de la presión positiva y el empuje de la presión negativa son fuerzas no gravitacionales que solamente mueven substancias en torno a su espacio interior sin cambiar el espacio en sí.
+Sin embargo, la atracción gravitacional (o repulsión) que causan opera sobre el propio espacio, disminuyendo (o incrementando) la cantidad de espacio entre las cosas. Esto es lo que determina el tamaño del universo.
+No hay necesidad de que estos dos efectos actúen en la misma dirección. De hecho, actúan en direcciones opuestas.
+
+
+Constante cosmológica
+La explicación más simple para la energía oscura es que simplemente es el «coste de tener espacio»; es decir, un volumen de espacio tiene alguna energía fundamental intrínseca. Esto es la constante cosmológica, algunas veces llamada Lambda (de ahí el modelo Lambda-CDM) por la letra griega 
+  
+    
+      
+        Λ
+      
+    
+    {\displaystyle \Lambda }
+  
+, el símbolo utilizado matemáticamente para representar esta cantidad. Como la energía y la masa están relacionadas por la ecuación 
+  
+    
+      
+        E
+        =
+        m
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle E=mc^{2}}
+  
+, la teoría de la relatividad general predice que tendrá un efecto gravitacional. Algunas veces es llamada energía del vacío porque su densidad de energía es la misma que la del vacío. De hecho, muchas teorías de la física de partículas predicen fluctuaciones del vacío que darían al vacío exactamente este tipo de energía. Los cosmólogos estiman que la densidad de energía correspondiente a la constante cosmológica es del orden de 10−29 g/cm³ o unos 10−120 en unidades de Planck.
+La constante cosmológica tiene una presión negativa igual y opuesta a su densidad de energía, y así causa que la expansión del Universo se acelere. La razón por la que la constante cosmológica tiene una presión negativa se puede obtener a partir de la termodinámica clásica. La energía tiene que perderse desde dentro de un contenedor (el contenedor debe trabajar en su entorno) para que el volumen aumente. Un cambio en el volumen 
+  
+    
+      
+        d
+        V
+      
+    
+    {\displaystyle dV}
+  
+ necesita el mismo trabajo que para un cambio de energía 
+  
+    
+      
+        −
+        p
+        d
+        V
+      
+    
+    {\displaystyle -pdV}
+  
+, donde 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  
+ es la presión. Pero la suma de energía en una caja de energía de vacío realmente se incrementa cuando el volumen crece (
+  
+    
+      
+        d
+        V
+      
+    
+    {\displaystyle dV}
+  
+ es positivo), porque la energía es igual a 
+  
+    
+      
+        ρ
+        V
+      
+    
+    {\displaystyle \rho V}
+  
+, donde 
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+  
+ (rho) es la densidad de energía de la constante cosmológica. Por tanto, 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  
+ es negativa y, de hecho, 
+  
+    
+      
+        p
+        =
+        −
+        ρ
+      
+    
+    {\displaystyle p=-\rho }
+  
+, significando que la ecuación de estado tiene la forma: 
+  
+    
+      
+        w
+        =
+        p
+        
+          /
+        
+        ρ
+        =
+        −
+        1
+      
+    
+    {\displaystyle w=p/\rho =-1}
+  
+, sin variación temporal.
+Un gran problema pendiente es que muchas teorías cuánticas de campos predicen una gran constante cosmológica a partir de la energía del vacío cuántico, superior a 120 órdenes de magnitud. Esto casi se necesitaría cancelar, pero no exactamente, por un término igualmente grande de signo opuesto. Algunas teorías supersimétricas necesitan una constante cosmológica que sea exactamente cero, lo que no ayuda. El consenso científico actual cuenta con la extrapolación de pruebas empíricas donde son relevantes las predicciones y el ajuste fino de las teorías hasta que se encuentre una solución más elegante. Técnicamente, esto se suma a las teorías de comprobación contra observaciones macroscópicas. Lamentablemente, como el margen de error conocido en la constante predice el destino final del universo más que su estado actual, todavía continúan sin conocerse muchas preguntas «más profundas».
+Otro problema aparece con la inclusión de la constante cosmológica en el modelo estándar que es la aparición de soluciones con regiones de discontinuidades (véase clasificación de discontinuidades para ver tres ejemplos) con una baja densidad de materia.​ La discontinuidad también afecta al signo pasado de la energía del vacío, cambiando la actual presión negativa a presión atractiva, de la misma forma que se mira hacia atrás, hacia el universo primigenio. Este hallazgo debería ser considerado como una deficiencia del modelo estándar, pero solo cuando se incluye un término de vacío.
+A pesar de sus problemas, la constante cosmológica es en muchos aspectos la solución más económica al problema de la aceleración de la expansión del universo. Un número explica satisfactoriamente una multitud de observaciones. Así, el modelo estándar actual de cosmología, el modelo Lambda-CDM, incluye la constante cosmológica como una característica esencial.
+
+
+Quintaesencia
+
+La energía oscura puede convertirse en materia oscura cuando es golpeada por partículas bariónicas, conduciendo así a excitaciones como de partículas en algún tipo de campo dinámico, conocido como quintaesencia. La quintaesencia difiere de la constante cosmológica en que puede variar en el espacio y en el tiempo. Para que no se agrupen y se formen estructuras como materia, tiene que ser muy ligero de tal manera que tenga una gran longitud de onda Compton.
+No se ha encontrado todavía ninguna prueba de la quintaesencia, pero tampoco ha sido descartada. Generalmente predice una aceleración ligeramente más lenta de la expansión del Universo que la constante cosmológica. Algunos científicos piensan que la mejor prueba de la quintaesencia vendría a partir de violaciones del principio de equivalencia y la variación de las constantes fundamentales de Einstein en el espacio o en el tiempo. Los campos escalares son predichos por el modelo estándar y la teoría de cuerdas, pero un problema análogo al problema de la constante cosmológica (o el problema de construir modelos de inflación cósmica) ocurre: la teoría de la renormalización predice que los campos escalares deberían adquirir grandes masas.
+El problema de la coincidencia cósmica se pregunta por qué la aceleración cósmica empezó cuando lo hizo. Si la aceleración cósmica empezó antes en el Universo, las estructuras como galaxias nunca habrían tenido tiempo de formarse y permanecer, al menos como se las conoce; nunca habrían tenido una oportunidad de existir. Sin embargo, muchos modelos de quintaesencia tienen un llamado «comportamiento rastreador», que soluciona este problema. En estos modelos, el campo de la quintaesencia tiene una densidad que sigue de cerca (pero es menor que) la densidad de radiación hasta la igualdad materia-radiación, lo que provoca que la quintaesencia empiece a comportarse como energía oscura, dominando finalmente el universo. Esto naturalmente establece una baja escala de energía de la energía oscura.
+Algunos casos especiales de quintaesencia son la energía fantasma con 
+  
+    
+      
+        w
+        <
+        −
+        1
+      
+    
+    {\displaystyle w<-1}
+  
+, en que la densidad de energía de la quintaesencia realmente se incrementa con el tiempo y la esencia-k (acrónimo de quintaesencia cinética) que tiene una forma no convencional de energía cinética. Pueden tener propiedades inusuales: la energía fantasma, por ejemplo, puede causar un Big Rip.
+La nueva quintaesencia es una forma novedosa de energía inherente en el espacio vacío, que está basada en la constante de Planck. La suma fundamental de energía contenida en el espacio-tiempo, es representada por la ecuación 
+  
+    
+      
+        E
+        =
+        h
+        n
+      
+    
+    {\displaystyle E=hn}
+  
+, donde h es la constante de Planck y n es el número de quintesencias contenido en un volumen de espacio dado, por unidad de tiempo (segundos).​
+
+
+Ideas alternativas
+Algunos teóricos piensan que la energía oscura y la aceleración cósmica son un fallo de la relatividad general en escalas muy grandes, mayores que los supercúmulos. Es una tremenda extrapolación pensar que la ley de la gravedad, que funciona tan bien en el sistema solar, debería trabajar sin corrección a escala universal. Se han realizado muchos intentos de modificar la relatividad general; sin embargo, han resultado ser equivalentes a las teorías de la quintaesencia o inconsistentes con las observaciones.
+Las ideas alternativas a la energía oscura han venido desde la teoría de cuerdas, la cosmología de branas y el principio holográfico, pero no han sido probadas todavía tan convincentemente como la quintaesencia y la constante cosmológica.
+Sin embargo, otras proposiciones «radicalmente conservadoras» intentan explicar los datos observacionales mediante un uso más refinado de las teorías establecidas más que a través de la introducción de la energía oscura, centrándose, por ejemplo, en los efectos gravitacionales de heterogeneidades de la densidad (asumidas como insignificantes en la aproximación estándar de la métrica de Friedman-Lemaître-Robertson-Walker y confirmada como insignificante por los estudios de las anisotropías del fondo cósmico de microondas y las estadísticas de la estructura a gran escala del Universo) o en las consecuencias de la ruptura de la simetría electrodébil en el Universo primigenio.​
+
+
+La energía oscura y el destino del universo
+La consecuencia más directa de la existencia de la energía oscura y la aceleración del universo es que este es más antiguo de lo que se creía. Si se calcula la edad del universo con base en los datos actuales de la constante de Hubble, 71 ±4 (km/s)/Mpc, se obtiene una edad de 10 000 millones de años, menor que la edad de las estrellas más viejas que es posible observar en los cúmulos globulares, lo que crea una paradoja insalvable. Los cosmólogos estiman que la aceleración empezó hace unos 9000 millones de años. Antes de eso, se pensaba que la expansión estaba ralentizándose, debido a la influencia atractiva de la materia oscura y los bariones. La densidad de materia oscura en un universo en expansión desaparece más rápidamente que la energía oscura y finalmente domina la energía oscura. Específicamente, cuando el volumen del universo se dobla, la densidad de materia oscura se divide a la mitad pero la densidad de energía oscura casi permanece sin cambios (exactamente es constante en el caso de una constante cosmológica). Teniendo en cuenta la energía oscura, la edad del universo es de unos 13 700 millones de años (de acuerdo con los datos del satélite WMAP en 2003), lo que resuelve la paradoja de la edad de las estrellas más antiguas.
+Si la aceleración continúa indefinidamente, el resultado final será que las galaxias exteriores al Supercúmulo de Virgo se moverán más allá del horizonte de sucesos: no volverán a ser visibles, porque su velocidad radial será mayor que la velocidad de la luz. Esta no es una violación de la relatividad especial y el efecto no puede utilizarse para enviar una señal entre ellos. Realmente no hay ninguna manera de definir la «velocidad relativa» en un espacio-tiempo curvado. La velocidad relativa y la velocidad sólo pueden ser definidas con significado pleno en un espacio-tiempo plano o en regiones suficientemente pequeñas (infinitesimales) de espacio-tiempo curvado. A su vez, previene cualquier comunicación entre ellos y el objeto pase sin contactar. La Tierra, la Vía Láctea y el Supercúmulo de Virgo, sin embargo, permanecería virtualmente sin perturbaciones mientras el resto del universo retrocede. En este escenario, el supercúmulo local finalmente sufriría la muerte caliente, justo como se pensaba para un universo plano y dominado por la materia, antes de las medidas de la aceleración cósmica.
+El fondo de microondas indica que la geometría del universo es plana, es decir, el universo tiene la masa justa para que la expansión continúe indeterminadamente. Si el universo, en vez de plano fuese cerrado, significaría que la atracción gravitatoria de la masa que forma el universo es mayor que la expansión del universo, por lo que este se volvería a contraer (Big Crunch). Sin embargo, al estudiar la masa del universo se detectó muy pronto que faltaba materia para que el universo fuese plano. Esta «materia perdida» se denominó materia oscura. Con el descubrimiento de la energía oscura hoy se sabe que el destino del universo ya no depende de la geometría del mismo, es decir, de la cantidad de masa que hay en él. En un principio la expansión del universo se frenó debido a la gravedad, pero hace unos 4000 millones de años la energía oscura sobrepasó al efecto de la fuerza gravitatoria de la materia y comenzó la aceleración de la expansión.
+El futuro último del universo depende de la naturaleza exacta de la energía oscura. Si esta es una constante cosmológica, el futuro del universo será muy parecido al de un universo plano. Sin embargo, en algunos modelos de quintaesencia, denominados energía fantasma, la densidad de la energía oscura aumenta con el tiempo, provocando una aceleración exponencial. En algunos modelos extremos la aceleración sería tan rápida que superaría las fuerzas de atracción nucleares y destruiría el universo en unos 20 000 millones de años, en el llamado Gran Desgarro (Big Rip).
+Hay algunas ideas muy especulativas sobre el futuro del universo. Una sugiere que la energía fantasma causa una expansión divergente, que implicaría que la fuerza efectiva de la energía oscura continúa creciendo hasta que domine al resto de las fuerzas del universo. Bajo este escenario, la energía oscura finalmente destrozaría todas las estructuras gravitacionalmente acotadas, incluyendo galaxias y sistemas solares y finalmente superaría a las fuerzas eléctrica y nuclear para destrozar a los propios átomos, terminando el universo en un Big Rip. Por otro lado, la energía oscura puede disiparse con el tiempo o incluso llegar a ser atractiva. Tales incertidumbres abren la posibilidad de que la gravedad todavía pueda conducir al universo que se contrae a sí mismo en un «Big Crunch». Algunos escenarios, como el modelo cíclico, sugieren que este podía ser el caso. A pesar de que estas ideas no están soportadas por las observaciones, no pueden ser excluidas. Las medidas de aceleración son cruciales para determinar el destino final del universo en la teoría del Big Bang.
+
+
+Referencias
+
+
+Enlaces externos
+Comunicados de prensa de la web de Hubble: Nuevas Pistas Sobre la Naturaleza de la Energía Oscura: Einstein Puede Haber TEnido Razón Después de Todo.
+Artículo de 1998 anunciando el descubrimiento de la energía oscura: Riess et al
+Artículo de 1999 confirmando el descubrimiento de la energía oscura Perlmutter et al.
+El grupo que detectó por primera vez la aceleración cósmica: Equipo de búsqueda de la supernova High-Z y el grupo que la confirmó Supernova Cosmology Project.
+Revisiones técnicas de Sean M. Carroll: ¿Por qué se está acelerando el Universo?, La constante cosmológica y La energía oscura y el universo preposteroso.
+Jim Peebles, Probando la Relatividad General en las Escalas de la Cosmología.
+«El Motor de Búsqueda de Supernovas Cercanas Más Exitoso del Mundo», El Telescopio de Imágenes Automático Katzman.
+Supernova Acceleration Probe (SNAP), un satélite de propósito experimental.
+Un análisis ([4] (enlace roto disponible en Internet Archive; véase el historial, la primera versión y la última)., [5]) de un experimento [R.H. Koch, D. van Harlingen, J. Clarke, Phys. Rev. B 26 (1982) 74] para encontrar el espectro de banda ancha del ruido de la unión Josephson, afirma conectarlo con el límite superior de la frecuencia espectral predicho por estimaciones en las que coinciden la densidad de energía oscura con la densidad de energía del vacío. Esta reivindicación no está todavía aceptada. Para disputas, ver [6], [7], [8].
+Christopher J. Coneslice, «La Mano Invisible del Universo», Scientific American. February, 2007.
+«Energía oscura», un artículo de Robert R Caldwell en Physics World.
+«La “energía oscura” tiene 9000 millones de años», un artículo de Dennis Overbye en The New York Times.
+«Misterosa fuerza de larga presencia». En BBC News en línea (2006) Más pruebas que relacionan la energía oscura con la constante cosmológica.
+«Imagen Astronómica del Día». Una de las imágenes del CMB que confirmaron la presencia de la energía y la materia oscura.
+Encuesta SuperNova Legacy Survey: página principal. El objetivo principal del Telescope Legacy Survey Supernova Program de Canadá-Francia-Hawaii es la medición de la ecuación de estado de la Energía Oscura. Está diseñado para medir de forma precisa varios cientos de supernovas de alto corrimiento al rojo.
+«Informe de la Fuerza de la Energía Oscura».
+«Energía Oscura» BBC Ciencia & Naturaleza (2006).
+«Energía oscura en el Universo acelerante»: página principal del satélite observatorio Supernova Acceleration Probe (SNAP).
+«Cálculos de la Constante Cosmológica Unificando la Energía y la Materia Oscura». Un modelo geométrico de la energía oscura como una Esfera de Poincaré - calculada: 
+  
+    
+      
+        
+          Ω
+          
+            D
+          
+        
+        =
+        0.734
+      
+    
+    {\displaystyle \Omega _{D}=0.734}
+  
+, observada: 
+  
+    
+      
+        
+          Ω
+          
+            D
+          
+        
+        =
+        0.65
+         
+        .
+        .
+        .
+         
+        0.85
+      
+    
+    {\displaystyle \Omega _{D}=0.65\ ...\ 0.85}
+  
+ (Véase también el blog).
+«Explorando el lado oscuro».
+Quora: «¿Por qué no sabemos qué causa la gravedad», respuesta de Enrique Casanovas.

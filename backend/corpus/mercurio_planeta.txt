@@ -1,0 +1,188 @@
+TÍTULO: Mercurio (planeta)
+FUENTE: https://es.wikipedia.org/wiki/Mercurio_(planeta)
+LICENCIA: CC BY-SA 4.0 (Wikipedia)
+
+Mercurio es el planeta más cercano al Sol y el más pequeño del sistema solar. Es un mundo rocoso de tipo terrestre, con una superficie muy craterizada similar a la de la Luna, debido a la ausencia de una atmósfera densa que pueda erosionar o suavizar los impactos.​​
+Recibe su nombre de Mercurio, el dios romano mensajero de los dioses, asociado con la velocidad, en referencia a su rápido movimiento orbital alrededor del Sol. Forma parte de los denominados planetas interiores o rocosos, junto con Venus, la Tierra y Marte. No posee satélites naturales ni anillos.​​
+Su estructura interna está dominada por un núcleo metálico de hierro extremadamente grande en proporción a su tamaño, lo que le confiere una de las densidades más altas del sistema solar. Además, es el único planeta rocoso con un campo magnético global significativo, aunque mucho más débil que el de la Tierra.​​
+Mercurio posee una exosfera muy tenue compuesta principalmente por átomos desprendidos de su superficie por el viento solar y micrometeoritos. Debido a esto, no tiene una atmósfera propiamente dicha y presenta variaciones extremas de temperatura, que pueden superar los 430 °C durante el día y descender hasta aproximadamente −180 °C durante la noche.​​
+Se conocía relativamente poco sobre su superficie hasta la llegada de la sonda espacial Mariner 10, que realizó los primeros sobrevuelos en la década de 1970. Posteriormente fue estudiado en detalle por la misión MESSENGER de la NASA, que orbitó el planeta entre 2011 y 2015, proporcionando datos fundamentales sobre su geología, composición y campo magnético. Actualmente, la misión conjunta de la Agencia Espacial Europea y la Agencia Japonesa de Exploración Aeroespacial denominada BepiColombo, lanzada en 2018, se encuentra en viaje hacia Mercurio y se espera que entre en órbita en los próximos años para ampliar el conocimiento sobre su origen y evolución.​​
+Al ser un planeta cuya órbita es interior a la de la Tierra, puede observarse ocasionalmente transitando frente al disco solar, fenómeno conocido como tránsito astronómico. Las observaciones precisas de su órbita revelaron una anomalía en el avance del perihelio de aproximadamente 43 segundos de arco por siglo, que no podía ser explicada por la mecánica clásica de Isaac Newton. Esto llevó a la hipótesis de un planeta intramercurial llamado Vulcano, que finalmente fue descartada. La explicación correcta fue proporcionada por la teoría general de la relatividad de Albert Einstein.​​
+Durante mucho tiempo se pensó que Mercurio presentaba rotación síncrona con el Sol, es decir, que siempre mostraba la misma cara, de forma similar a la Luna con la Tierra. Sin embargo, en 1965, observaciones por radar demostraron que su período de rotación es de aproximadamente 58,6 días terrestres, lo que corresponde a una resonancia orbital de 3:2 con su período de traslación de 88 días.​​
+
+
+Estructura interna
+
+Mercurio es uno de los cuatro planetas rocosos o sólidos; es decir, tiene un cuerpo rocoso, como la Tierra. Este planeta es el más pequeño de los cuatro, con un diámetro de 4879 km en el ecuador. Mercurio está formado aproximadamente por un 70 % de elementos metálicos y un 30 % de silicatos. La densidad de este planeta es la segunda más alta de todo el sistema solar, siendo su valor de 5430 kg/m³, solo un poco menor que la densidad de la Tierra. La densidad de Mercurio se puede usar para deducir los detalles de su estructura interna. Mientras la alta densidad de la Tierra se explica considerablemente por la compresión gravitacional, particularmente en el núcleo, Mercurio es mucho más pequeño y sus regiones interiores no están tan comprimidas. Por tanto, para explicar esta gran densidad, el núcleo debe ocupar gran parte del planeta y además ser rico en hierro,​ material con una alta densidad.​ Los geólogos estiman que el núcleo de Mercurio ocupa un 42 % de su volumen total (el núcleo de la Tierra apenas ocupa un 17 %). Este núcleo estaría parcialmente fundido,​​ lo que explicaría el campo magnético del planeta.
+Rodeando el núcleo existe un manto de unos 600 km de grosor. La creencia generalizada entre los expertos es que en los principios de Mercurio un cuerpo de varios kilómetros de diámetro (un planetesimal) impactó contra él deshaciendo la mayor parte del manto original, dando como resultado un manto relativamente delgado comparado con el gran núcleo.​ (Otras teorías alternativas se discuten en la sección Formación de Mercurio).
+
+La corteza mercuriana mide en torno a los 100‑200 km de espesor. Un hecho distintivo de la corteza de Mercurio son las visibles y numerosas líneas escarpadas o escarpes que se extienden varios miles de kilómetros a lo largo del planeta. Presumiblemente se formaron cuando el núcleo y el manto se enfriaron y contrajeron al tiempo que la corteza se estaba solidificando.​
+
+
+Geología y superficie
+
+La superficie de Mercurio, como la de la Luna, presenta numerosos impactos de meteoritos que oscilan entre unos metros hasta miles de kilómetros. Algunos de los cráteres son relativamente recientes, de algunos millones de años de edad, y se caracterizan por la presencia de un pico central. Parece ser que los cráteres más antiguos han tenido una erosión muy fuerte, posiblemente debida a los grandes cambios de temperatura que en un día normal oscilan entre 623 K (350 °C) por el día y 103 K (−170 °C) por la noche.
+Al igual que la Luna, Mercurio parece haber sufrido un período de intenso bombardeo de meteoritos de grandes dimensiones, hace unos cuatro mil millones de años. Durante este periodo de formación de cráteres, Mercurio recibió impactos en toda su superficie, facilitados por la práctica ausencia de atmósfera que pudiera desintegrar o frenar multitud de estas rocas. Durante este tiempo, Mercurio fue volcánicamente activo, formándose cuencas o depresiones con lava del interior del planeta y produciendo planicies lisas similares a los mares o marías de la Luna; una prueba de ello es el descubrimiento por parte de la sonda MESSENGER de posibles volcanes.​
+Las planicies o llanuras de Mercurio tienen dos edades distintas; las llanuras jóvenes están menos craterizadas y probablemente se formaron cuando los flujos de lava enterraron el terreno anterior. Un rasgo característico de la superficie de este planeta son los numerosos pliegues de compresión que entrecruzan las llanuras. Se piensa que, como el interior del planeta se enfrió, se contrajo y la superficie comenzó a deformarse. Estos pliegues se pueden apreciar por encima de cráteres y planicies, lo que indica que son mucho más recientes.​​ La superficie mercuriana está significativamente movida a causa de la fuerza de marea ejercida por el Sol. Las fuerzas de marea en Mercurio son un 17 % más fuertes que las ejercidas por la Luna en la Tierra.​
+Destacable en la geología de Mercurio es la cuenca de Caloris, un cráter de impacto que constituye una de las mayores depresiones meteóricas de todo el sistema solar; esta formación geológica tiene un diámetro aproximado de 1550 km (antes del sobrevuelo de la sonda Messenger se creía que su tamaño era de 1300 km). Contiene, además, una formación de origen desconocido no antes vista ni en el propio Mercurio ni en la Luna, y que consiste en aproximadamente un centenar de grietas estrechas y de suelo liso conocida como La Araña; en el centro de esta se encuentra un cráter, desconociéndose si dicho cráter está relacionado con su formación o no. Interesantemente, también el albedo de la cuenca de Caloris es superior al de los terrenos circundantes (al revés de lo que ocurre en la Luna). La razón de ello se está investigando.​
+Justo en el lado opuesto de esta inmensa formación geológica se encuentran unas colinas o cordilleras conocidas como Terreno Extraño, o Weird Terrain. Una hipótesis sobre el origen de este complejo geomorfológico es que las ondas de choque generadas por el impacto que formó la cuenca de Caloris atravesaron toda la esfera planetaria convergiendo en las antípodas de dicha formación (180°), fracturando la superficie​ y formando esta cordillera.
+Al igual que otros astros de nuestro sistema solar, como el más semejante en aspecto, la Luna, la superficie de Mercurio probablemente ha incurrido en los efectos de procesos de desgaste espaciales, o erosión espacial. El viento solar e impactos de micrometeoritos pueden oscurecer la superficie, cambiando las propiedades reflectantes de ésta y el albedo general de todo el planeta.
+A pesar de las temperaturas extremadamente altas que hay generalmente en su superficie, observaciones más detalladas sugieren la existencia de hielo en Mercurio. El fondo de varios cráteres muy profundos y oscuros cercanos a los polos que nunca han quedado expuestos directamente a la luz solar tienen una temperatura muy inferior a la media global. El hielo (de agua) es extremadamente reflectante al radar, y recientes observaciones revelan imágenes muy reflectantes en el radar cerca de los polos;​ el hielo no es la única causa posible de dichas regiones altamente reflectantes, pero sí la más probable. Se especula que el hielo tiene solo unos metros de profundidad en estos cráteres, conteniendo alrededor de una tonelada de esta sustancia. El origen del agua helada en Mercurio no es conocido a ciencia cierta, pero se especula que o bien se congeló de agua del interior del planeta o vino de cometas que impactaron contra el suelo.​
+
+
+Atmósfera
+
+
+Magnetosfera
+
+El estudio de la interacción de Mercurio con el viento solar ha puesto en evidencia la existencia de una magnetosfera en torno al planeta. El origen de este campo magnético no es conocido. En 2007, observaciones muy precisas realizadas desde la Tierra mediante radar, demostraron un bamboleo del eje de rotación compatible solo con un núcleo del planeta parcialmente fundido.​​ Un núcleo parcialmente fundido con materiales ferromagnéticos podría ser la causa de su campo magnético.
+La intensidad del campo magnético es de 220 nT.​
+
+
+Órbita y rotación
+
+La órbita de Mercurio es la más excéntrica entre todos los planetas que orbitan el Sol, (antes de ser reclasificado como planeta enano, esa característica le correspondía al entonces planeta Plutón). La distancia de Mercurio al Sol varía en un rango entre 46 000 000 y 70 000 000 de kilómetros. Tarda 88 días terrestres en dar una traslación completa. La inclinación de su plano orbital con respecto al plano de la eclíptica es de 7°.
+En la imagen anexa se ilustran los efectos de la excentricidad, mostrando la órbita de Mercurio sobre una órbita circular que tiene el mismo semieje. La elevada velocidad del planeta cuando está cerca del perihelio hace que cubra esta mayor distancia en un intervalo de solo cinco días. El tamaño de las esferas, inversamente proporcional a la distancia al Sol, es usado para ilustrar la distancia variable heliocéntrica. Esta distancia variable al Sol, combinada con la rotación planetaria de Mercurio de 3:2 alrededor de su eje (rota tres veces en dos órbitas: 3 días en 2 años mercurianos), resulta en complejas variaciones de la temperatura de su superficie, pasando de los −185 °C durante las noches hasta los 430 °C durante el día.
+La inclinación de su eje de rotación respecto del eje perpendicular a su plano orbital es de tan solo 0.01° (grados sexagesimales), unas 300 veces menos que la de Júpiter, que es el segundo planeta en esta estadística con 3.1° (en la Tierra la inclinación es de 23.5°). De esta forma, un observador en el ecuador de Mercurio durante el mediodía local nunca vería el Sol más que 0.01° al norte o al sur del cenit. Análogamente, en los polos el centro del Sol nunca pasa más de 0.01° por encima del horizonte.
+
+
+Amanecer doble
+En Mercurio existe el fenómeno de los amaneceres dobles, cuando el Sol sale aproximadamente dos tercios de su tamaño, se detiene, se esconde nuevamente casi exactamente por donde salió y luego vuelve a salir para continuar su recorrido por el cielo; esto solo ocurre en algunos puntos de la superficie, a 180° de longitud de estos lo que se observa es un doble anochecer.
+Debido al mismo mecanismo, en el resto del planeta se observa que el Sol aparentemente se detiene en el cielo y realiza un movimiento de retroceso.​ Esto se debe a que aproximadamente cuatro días terrestres antes del perihelio, la velocidad angular orbital de Mercurio iguala a su velocidad angular de rotación, lo que hace que el movimiento aparente del Sol cese, se invierta el movimiento durante los ocho días seguidos en los que la velocidad angular orbital es superior a la de rotación, y finalmente cuatro días después del perihelio el Sol vuelva a detenerse y recuperar su sentido de movimiento inicial.
+Justo en el perihelio es cuando la velocidad angular orbital de Mercurio excede en mayor magnitud a la velocidad angular de rotación, y es entonces cuando la velocidad aparente de retroceso del Sol es la máxima.
+
+
+Avance del perihelio
+El avance del perihelio de Mercurio fue observado por primera vez en el siglo XIX al ver la lenta precesión de la línea de los ápsides de la órbita del planeta alrededor del Sol, la cual no conseguía ser explicada completamente por las leyes de Newton ni por perturbaciones de planetas conocidos (trabajo muy notable del matemático francés Urbain Le Verrier). Se conjeturó entonces que otro planeta desconocido en una órbita más interior al Sol era el causante de estas perturbaciones (se consideraron otras teorías como un leve achatamiento de los polos solares). El éxito de la búsqueda de Neptuno a consecuencia de las perturbaciones orbitales de Urano hicieron poner mucha fe a los astrónomos para esta hipótesis. A este hipotético planeta desconocido se le denominaría planeta Vulcano. Sin embargo, a comienzos del siglo XX, la Teoría General de la Relatividad de Albert Einstein explicó completamente la precesión observada, descartando al inexistente planeta (véase órbita planetaria relativista). El efecto en el avance del perihelio mercuriano es muy pequeño: apenas de 42.98 segundos de arco por siglo, por lo que necesita más de 12 500 000 (doce millones quinientas mil) órbitas para exceder una vuelta completa.
+La expresión que proporciona la Relatividad General para calcular la precesión del perihelio de un planeta, en radianes por revolución es:​
+
+  
+    
+      
+        Δ
+        ϕ
+        =
+        
+          
+            
+              6
+              π
+              G
+              M
+            
+            
+              a
+              (
+              1
+              −
+              
+                e
+                
+                  2
+                
+              
+              )
+              
+                c
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \Delta \phi ={\frac {6\pi GM}{a(1-e^{2})c^{2}}}}
+  
+ (rad / rev)
+G = Constante de gravitación universal, M = Masa del Sol, a = Semieje mayor de la órbita, e = Excentricidad de la órbita, c = Velocidad de la luz
+Esta expresión proporciona 42.98″ de arco por siglo para Mercurio y valores mucho menores para el resto de planetas, dando 8.52 arcosegundos por siglo para Venus, 3.84 para la Tierra, 1.35 para Marte, y 10.05 para el asteroide de tipo Apolo (1566) Ícaro.​​
+
+
+Resonancia orbital
+Durante muchos años se pensó que la misma cara de Mercurio miraba siempre hacia el Sol, de forma sincrónica, similar a como lo hace la Luna respecto a la Tierra. No fue sino hasta 1965 cuando observaciones por radio (véase Observación con Grandes Telescopios) descubrieron una resonancia orbital de 2:3, rotando tres veces cada dos años mercurianos; la excentricidad de la órbita de Mercurio hace esta resonancia estable en el perihelio, cuando la marea solar es más fuerte, el Sol está todavía en el cielo de Mercurio. La razón por la que los astrónomos pensaban que Mercurio giraba de manera sincrónica era que siempre que el planeta estaba en mejor posición para su observación, mostraba la misma cara. Ya que Mercurio gira en un 3:2 de resonancia orbital, un día solar (la duración entre dos tránsitos meridianos del Sol) son unos 176 días terrestres. Un día sideral es de unos 58.6 días terrestres.
+Simulaciones orbitales indican que la excentricidad de la órbita de Mercurio varía caóticamente desde 0 (circular) a 0.47 a lo largo de millones de años. Esto da una idea para explicar la resonancia orbital mercuriana de 2:3, cuando lo más usual es 1:1, ya que esto es más razonable para un periodo con una excentricidad tan alta.​
+
+
+Observación en el cielo y tránsito de Mercurio
+La magnitud aparente de Mercurio varía entre −2.0 (brillante como la estrella Sirio) y 5.5.​ La observación de Mercurio es complicada por su proximidad al Sol, perdido en el resplandor de la estrella madre durante un período muy grande. Mercurio solo se puede observar por un corto período durante el crepúsculo de la mañana o de la noche. El telescopio espacial Hubble no puede observar Mercurio, ya que por procedimientos de seguridad se evita un enfoque tan cercano al Sol.
+
+
+Observación de las fases mercurianas
+Como la Luna, Mercurio exhibe fases vistas desde la Tierra, siendo nueva en conjunción inferior y llena en conjunción superior. El planeta deja de ser invisible en ambas ocasiones por la virtud de este ascenso y ubicación acuerdo con el Sol en cada caso. La primera y última fase ocurre en máxima elongación este y oeste, respectivamente, cuando la separación de Mercurio del rango del Sol es de 18.5° en el periastro y 28.3° en el apoastro. En máxima elongación oeste, Mercurio se eleva antes que el Sol y en la este después que el Sol.
+Mercurio alcanza una conjunción inferior cada 116 días de media, pero este intervalo puede cambiar de 111 a 121 días por la excentricidad de la órbita del planeta. Este periodo de movimiento retrógrado visto desde la Tierra puede variar de 8 a 15 días en cualquier lado de la conjunción inferior. Esta larga variación de tiempo es consecuencia también de la elevada excentricidad orbital.
+Mercurio es más fácil de ver desde el hemisferio sur de la Tierra que desde el hemisferio norte; esto se debe a que la máxima elongación del oeste posible de Mercurio siempre ocurre cuando es otoño en el hemisferio sur, mientras que la máxima elongación del este ocurre cuando es invierno en el hemisferio norte. En ambos casos, el ángulo de Mercurio incide de manera máxima con la eclíptica, permitiendo elevarse varias horas antes que el Sol y no se pone hasta varias horas después del ocaso en los países situados en latitudes templadas del hemisferio sur, como Argentina y Nueva Zelanda. Por contraste, en las latitudes templadas del hemisferio norte, Mercurio nunca está por encima del horizonte en más o menos a medianoche. Como muchos otros planetas y estrellas brillantes, Mercurio puede ser visto durante un eclipse solar.
+
+Además, Mercurio es más brillante visto desde la Tierra cuando se encuentra entre la fase creciente o la menguante y la llena. Aunque el planeta está más lejos en ese momento que cuando está creciente, el área iluminada visible mayor compensa esa mayor distancia. Justo al contrario que Venus, que aparece más brillante cuando está en cuarto creciente, porque está mucho más cerca de la Tierra.
+
+
+Tránsito de Mercurio
+
+El tránsito de Mercurio es el paso, observado desde la Tierra, de este planeta por delante del Sol. La alineación de estos tres astros (Sol, Mercurio y la Tierra) produce este particular efecto, solo comparable con el tránsito de Venus. El hecho de que Mercurio esté en un plano diferente en la eclíptica que nuestro planeta (7° de diferencia) hace que solo una vez cada varios años ocurra este fenómeno. Para que el tránsito se produzca, es necesario que la Tierra esté cerca de los nodos de la órbita. La Tierra atraviesa cada año la línea de los nodos de la órbita de Mercurio el 8‑9 de mayo y el 10‑11 de noviembre; si para esa fecha coincide una conjunción inferior habrá paso. Existe una cierta periodicidad en estos fenómenos, aunque obedece a reglas complejas. Es claro que tiene que ser múltiplo del periodo sinódico. Mercurio suele transitar el disco solar un promedio de unas 13 veces al siglo en intervalos de 3, 7, 10 y 13 años.​
+
+
+Estudio de Mercurio
+
+
+Astronomía antigua
+Las primeras menciones conocidas de Mercurio, hechas por los sumerios, datan del tercer milenio a. C. Los babilonios (2000‑500 a. C.) hicieron igualmente nuevas observaciones sobre el planeta, denominándolo como Nabu o Nebu, el mensajero de los dioses en su mitología.​
+Los observadores de la Antigua Grecia llamaron al planeta de dos maneras: Apolo cuando era visible en el cielo de la mañana y Hermes cuando lo era al anochecer. Sin embargo, los astrónomos griegos se dieron cuenta de que se referían al mismo cuerpo celeste, siendo Pitágoras el primero en proponer la idea.​ A Mercurio, como una de «estrellas errantes» de la Antigüedad, se le conocía como Estilbón o Estilbonte («radiante») y se decía que era brillante y pequeño.​
+
+
+Estudio con grandes telescopios
+
+Las primeras observaciones con telescopio de Mercurio datan de Galileo en el siglo XVII. Aunque él observara las fases planetarias cuando miraba a Venus, su telescopio no era lo suficientemente potente para distinguir las fases de Mercurio. En 1631, el polímata francés Pierre Gassendi realizó las primeras observaciones del tránsito de Mercurio cruzando el Sol cuando vio el tránsito de Mercurio predicho por Johannes Kepler. En 1639, Giovanni Zupi usó un telescopio para descubrir que el planeta tenía una fase orbital similar a la de Venus y la Luna. La observación demostró de manera concluyente que Mercurio orbitaba alrededor del Sol.
+Un hecho extraño en la astronomía es que un planeta pase delante de otro (ocultación), visto desde la Tierra. Mercurio y Venus se ocultan cada varios siglos, y, el 28 de mayo de 1737, ocurrió el único e histórico registrado. El astrónomo que lo observó fue John Bevis en el Real Observatorio de Greenwich.​ La próxima ocultación ocurrirá en el año 2133.​
+En 1800, el astrónomo alemán Johann Schröter pudo hacer algunas observaciones de la superficie, pero erróneamente estimó que el planeta tenía un período de rotación similar a la terrestre, de unas 24 horas. En la década de 1880, Giovanni Schiaparelli realizó un mapa de Mercurio más correcto, y sugirió que su rotación era de 88 días, igual que su período de traslación (Rotación síncrona).​
+La teoría por la cual la rotación de Mercurio era sincrónica se hizo extensamente establecida, y fue un giro de 180° cuando los astrónomos mediante observaciones de radio en los años 1960 cuestionaron la teoría. Si la misma cara de Mercurio estuviera dirigida siempre hacia el Sol, la parte en sombra estaría extremadamente fría, pero las mediciones de radio revelaron que estaba mucho más caliente de lo esperado. En 1965, se constató que definitivamente el periodo de rotación era de 59 días. El astrónomo italiano Giuseppe Colombo notó que este valor era sobre dos terceras partes del período orbital de Mercurio, y propuso una forma diferente de la fuerza de marea que hizo que los períodos orbitales y rotatorios del planeta se quedasen en 3:2 más bien que en 1:1 (resonancia orbital).​ Más tarde, la Mariner 10 lo confirmó.​
+Las observaciones por grandes telescopios en tierra no arrojaron mucha luz sobre este mundo difícil de ver, y no fue hasta la llegada de sondas espaciales que visitaron Mercurio cuando se descubrieron y confirmaron grandes e importantes propiedades del planeta. No obstante, recientes avances tecnológicos han llevado a observaciones mejoradas: en el año 2000, el telescopio de alta resolución del Observatorio Monte Wilson de 1500 mm proporcionó las primeras imágenes que resolvieron algunos rasgos superficiales sobre las regiones de Mercurio que no fueron fotografiadas durante las misiones del Mariner.​ Imágenes recientes apuntan al descubrimiento de una cuenca de impacto de doble anillo más largo que la Cuenca de Caloris, en el hemisferio no fotografiado por la Mariner. Es informalmente conocido como Cuenca de Shinakas.
+
+
+Estudio con sondas espaciales
+Llegar hasta Mercurio desde la Tierra supone un significativo reto tecnológico, ya que la órbita del planeta está mucho más cerca que la terrestre del Sol. Una nave espacial con destino a Mercurio lanzada desde nuestro planeta deberá de recorrer unos 91 000 000 (noventa y un millones) de kilómetros por los puntos de potencial gravitatorio del Sol. Comenzando desde la órbita terrestre a unos 30 km/s, el cambio de velocidad que la nave debe realizar para entrar en una órbita de transferencia, conocida como órbita de transferencia de Hohmann (en la que se usan dos impulsos del motor cohete) para pasar cerca de Mercurio es muy grande comparado con otras misiones planetarias.
+Además, para conseguir entrar en una órbita estable el vehículo espacial debe confiar plenamente en sus motores de propulsión, puesto que el aerofrenado está descartado por la falta de atmósfera significativa en Mercurio. Un viaje a este planeta en realidad es más costoso en lo que a combustible se refiere por este hecho que hacia cualquier otro planeta del sistema solar.[cita requerida]
+
+
+Mariner 10
+
+La sonda Mariner 10 (1974‑1975), o Mariner X, fue la primera nave en estudiar en profundidad el planeta Mercurio. Había visitado también Venus, utilizando la asistencia de trayectoria gravitacional de Venus para acelerar hacia el planeta.
+Realizó tres sobrevuelos a Mercurio; el primero, a una distancia de 703 km del planeta; el segundo, a 48 069 km; y, el tercero, a 327 km. Mariner tomó en total diez mil imágenes de gran parte de la superficie del planeta. La misión finalizó el 24 de marzo de 1975, cuando se quedó sin combustible y no podía mantener control de orientación.​
+
+
+Messenger
+
+MErcury Surface, Space ENvironment, GEochemistry and Ranging (Superficie de Mercurio, Entorno Espacial, Geoquímica y Extensión) fue una sonda lanzada en agosto de 2004 para ponerse en órbita alrededor de Mercurio en marzo de 2011. Se esperaba que esta nave aumentara considerablemente el conocimiento científico sobre este planeta. Para ello, la nave había de orbitar Mercurio y hacer tres sobrevuelos —los días 14 de enero de 2008, 6 de octubre de 2008, y 29 de septiembre de 2009—. La misión estaba previsto que durase un año. El 18 de marzo de 2011, se produjo con éxito la inserción orbital de la sonda.​ Finalmente el fin de esta exitosa misión se produjo el 30 de abril de 2015, cuando la sonda se precipitó sobre la superficie del planeta produciéndose un impacto controlado.
+
+
+BepiColombo
+
+Es una misión conjunta de la Agencia Espacial Europea (ESA) y de la Agencia Japonesa de Exploración Espacial (JAXA), que consiste en dos módulos orbitantes u orbitadores que realizarán una completa exploración de Mercurio. El primero de los orbitadores será el encargado de fotografiar y analizar el planeta y el segundo investigará la magnetosfera. Su lanzamiento se realizó con éxito el día 20 de octubre de 2018,​ su llegada al planeta está prevista el 21 de noviembre de 2026., después de un sobrevuelo de la Tierra, dos de Venus y seis del propio Mercurio.​ El final de la misión está programado para un año más tarde, con una posible extensión de un año más.​
+
+
+Véase también
+ Portal:Sistema solar. Contenido relacionado con  Sistema solar.
+Colonización de Mercurio
+Tránsito de Mercurio
+Anexo:Planetas del sistema solar
+Anexo:Datos de los planetas y objetos redondeados del sistema solar
+Caloris Planitia
+
+
+Referencias
+
+
+Bibliografía
+Feinstein, A. Astronomía Fundamental, Editorial Kapelusz, 1982
+Sheehan, W. Worlds in the Sky, University of Arizona Press, 1992
+
+
+Enlaces externos
+ Wikimedia Commons alberga una galería multimedia sobre Mercurio.
+Sistema solar
+Mercurio en Nineplanets.org
+Tour de información sobre Mercurio
+Sonda MESSENGER
+Mercurio en la página de la Asociación Larense de Astronomía, ALDA.
+Mercurio. Actividad educativa: el sistema solar.
+Observación de Mercurio en la Antigüedad

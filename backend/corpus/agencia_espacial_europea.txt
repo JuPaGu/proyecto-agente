@@ -1,0 +1,225 @@
+TÍTULO: Agencia Espacial Europea
+FUENTE: https://es.wikipedia.org/wiki/Agencia_Espacial_Europea
+LICENCIA: CC BY-SA 4.0 (Wikipedia)
+
+La Agencia Espacial Europea (ESA, del inglés: European Space Agency, y ASE, del francés: Agence spatiale européenne) ​ es una agencia espacial constituida en organización internacional dedicada a la exploración del espacio, con 23 Estados miembros.​ Fue constituida el 31 de mayo de 1975.​ Emplea a unas 2200 personas (excluyendo subcontratados)​​ y tiene un presupuesto de &&&&&&&&&&&07790.&&&&&07790 millones de euros para el año 2024.​ La sede principal de la ESA está en París, Francia, aunque las estructuras de la ESA están muy descentralizadas.
+
+
+Historia
+
+
+Orígenes
+
+El 14 de junio de 1962 se establece la Organización Europea para la Investigación Espacial (ESRO),​ organismo orientado principalmente al desarrollo de satélites. Casi en el mismo periodo algunos gobiernos europeos quisieron iniciar actividades en el campo de la construcción de transportadores para satélites. Esto dio lugar a que el 29 de marzo de 1962 varios países europeos ratificasen la creación de la Organización Europea para el Desarrollo de Lanzaderas (ELDO)​ que tenía la finalidad de desarrollar el proyecto del gran transportador Europa. A principios de 1964 las dos organizaciones estaban operativas. La ELDO reunía a los Estados miembros de la Unión Europea Occidental y Australia y otros países europeos no miembros por entonces de la Unión, como España y Dinamarca, mientras que estaban excluidos países neutrales como Suiza y Suecia. La ESRO agrupaba a todos los países de Europa occidental con algunas excepciones.
+Como fruto del programa de inversiones de la ESRO, surgen el European Space Research and Technology Centre (ESTEC) en Noordwijk, Países Bajos, que se encargaría del desarrollo de satélites y vehículos espaciales, y el European Space Operations Centre (ESOC) en Darmstadt, Alemania, responsable del control de las operaciones de los satélites que orbitan la tierra actualmente. El ESRO desarrolló sus primeros satélites científicos: el ESRO I (para realizar estudios de la ionosfera y auroras polares), el ESRO II (rayos cósmicos y rayos X solares) y el HEOS A1 (viento solar y espacio interplanetario), lanzados por los cohetes estadounidenses Scout y Thor-Delta. En 1969 el ESRO tenía tres satélites en órbita y 22 experimentos en curso. El TD1, se convirtió en el primer proyecto espacial del ESRO, consistente en un satélite para el estudio de los rayos ultravioletas. En 1973, con el acuerdo global de todos los países miembros, se aprueban tres proyectos (el Spacelab, el Programa Ariane, y el Marots) y se toma una decisión fundamental: la de crear la Agencia Espacial Europea.​
+
+
+Estados miembros
+
+ 
+La ESA está formada por veintitrés Estados miembros: Alemania, Austria, Bélgica, Dinamarca, Eslovenia, España, Estonia, Finlandia, Francia, Grecia, Hungría, Irlanda, Italia, Luxemburgo, Noruega, Países Bajos, Polonia, Portugal, Reino Unido, Rumanía, Suecia y Suiza. Tres miembros asociados: Eslovaquia, Letonia y Lituania. Cuatro estados colaboradores: Bulgaria, Chipre, Croacia y Malta. Y un colaborador de larga duración: Canadá.
+En la siguiente tabla puede verse una vista general de las contribuciones a la ESA en 2023 de sus Estados miembros, así como de aquellos asociados:​
+
+Además la ESA ha firmado acuerdos de colaboración con estados no miembros:
+
+Eslovenia y Letonia ha firmado acuerdos de cooperación (Plan for European Cooperating State, PECS) en preparación para la entrada como miembro de pleno derecho a la ESA.
+Desde el 1 de enero de 1979, Canadá tiene el estatus especial de Estado cooperante con la ESA.
+La ESA interesada en la cooperación para programas espaciales y misiones científicas en colaboración con otros organismos logró un acuerdo de cooperación y trabajo conjunto con la Agencia Espacial Federal Rusa que beneficiará a ambas partes; así, Rusia es el primer socio de la ESA en sus esfuerzos para garantizar a largo plazo el acceso al espacio. El marco del acuerdo entre la Agencia Espacial Europea y el Gobierno de la Federación Rusa se fundamentó en la cooperación y asociación en la exploración y utilización del espacio exterior con fines pacíficos. Para el efecto se ha construido un complejo de lanzamiento para el cohete Ruso Soyuz-ST (Soyuz 2.1a y Soyuz 2.1b) —un lanzador diseñado hace 40 años que bate récords de seguridad y que puede ser usado para lanzar humanos al espacio— en el Puerto espacial de Kourou, situado en la Guayana Francesa; mismo lugar desde el que se efectúan los lanzamientos de los vehículos Ariane 5 de la ESA.​ Este Puerto espacial para el Soyuz-ST en Kourou es similar a los ya existentes en Baikonur y Plesetsk, aunque más moderno. Proyecto que ha supuesto un paso de gigante para la industria aeroespacial rusa, sobre todo para la empresa TsSKB Progress, fabricante de los cohetes y vehículos Soyuz. Ya se ha completado la construcción del complejo y la torre del Soyuz-ST en Kourou y se han realizado diversas pruebas. Se espera para agosto o septiembre de 2011 el primer lanzamiento del Soyuz-ST, que inaugurará la rampa con un lanzamiento dedicado a poner en órbita dos satélites del sistema de posicionamiento Galileo.​
+Desde que China comenzó a invertir más en investigación espacial, la ESA se ha convertido en uno de sus socios prioritarios tras la Agencia Espacial Federal Rusa. Esta colaboración culminó con el lanzamiento de la misión Double Star.
+
+
+El aporte español a la ESA
+
+España se comprometió en la reunión ministerial celebrada el 28 de noviembre de 2019 en Sevilla, a aportar 1200 millones de euros a la Agencia Espacial Europea hasta el año 2024, esa cifra significa un 8,3% del presupuesto que aportan los Estados miembros, y es la mayor inversión que el estado español ha contribuido a la ESA desde que se fundó en 1975.
+España podría estar a la cabeza en las misiones de observación de la Tierra para monitorizar, por ejemplo, el medio ambiente o para detectar la llegada de asteroides. En cambio será complicado que lidere el desarrollo de cohetes ni tecnologías para misiones tripuladas, según afirmó en esa conferencia el ministro de Ciencia, Innovación y Universidades, Pedro Duque.
+Hasta 2019 España ha liderado dos misiones europeas, el satélite de observación de la Tierra SMOS, lanzado en 2009 para analizar la humedad en los continentes y la salinidad en los océanos y el telescopio de búsqueda de exoplanetas Cheops.​
+
+
+Centros
+
+
+Centros notables
+HQ: sede central (París, Francia)
+CSG: Centro Espacial Guayanés (Kourou, Guayana francesa)
+ESOC: Centro Europeo de Operaciones Espaciales (Darmstadt, Alemania)
+ESTEC: Centro Europeo de Investigación y Tecnología Espacial (Noordwijk, Países Bajos)
+ESRIN: Centro de la ESA para la Observación de la Tierra (Frascati, Italia)
+EAC: Centro Europeo de Astronautas (Colonia, Alemania)
+ESAC: Centro Europeo de Astronomía Espacial (Madrid, España)​
+ECSAT: Centro Europeo para Aplicaciones Espaciales y Telecomunicaciones (Oxfordshire, Reino Unido)​
+
+
+Centros de incubación de empresas
+En mayo de 2020 existían los siguientes centros de incubación de empresas de la ESA, cada uno con la fecha de establecimiento:​
+
+2004: BIC Noordwijk, Países Bajos Países Bajos
+2005: BIC Lazio en Roma, Italia Italia
+2007: BIC Hessen & Baden-Württemberg en Darmstadt, Alemania Alemania
+2009: BIC Baviera en Oberpfaffenhofen, Núremberg y el Berchtesgaden, Alemania Alemania
+2011: BIC UK en Harwell, Reino UnidoReino Unido Reino Unido
+2018: BIC Bélgica en Redu, Geel y Mol, Bélgica ; Los BIC de Flandes y Valonia, fundados en 2012, se fusionaron en 2018 para formar BIC Bélgica, Bélgica Bélgica
+2013: BIC Sud France en Aquitania, Midi-Pyrénées y Provence-Alpes-Côte d'Azur, Francia Francia
+2014: BIC Barcelona, España España
+2014: BIC Portugal con tres ubicaciones, Portugal Portugal
+2015: BIC Comunidad de Madrid, España España
+2015: BIC Suecia, Suecia Suecia
+2016: BIC República Checa en Praga, República Checa
+2016: BIC Austria en Graz, Austria Austria
+2016: BIC Irlanda, Irlanda Irlanda
+2016: BIC Switzerland en Zúrich, Suiza Suiza
+2017: BIC Estonia en Tallin, EstoniaEstonia Estonia
+2017: BIC Finlandia, Finlandia Finlandia
+2018: BIC Nord France, Francia Francia
+2018: BIC Hungría en Budapest, Hungría Hungría
+2018: BIC Noruega, Noruega Noruega
+2023: BIC Castilla y León, España España
+La ESA también tiene oficinas en EE. UU., Moscú / Rusia y Toulouse / Francia.
+
+
+Puertos espaciales
+Puerto espacial de Kourou
+La Isla de Santa María, que forma parte del Archipiélago de las Azores (Portugal), será la primera base exclusiva para el lanzamiento y aterrizaje de nanosatélites (pequeños satélites) dentro de la Unión Europea. Pretende estar operativa para el año 2022.
+
+
+Programas
+Programas actuales clasificados por áreas presupuestarias:
+
+
+Lanzadores
+Programa Ariane
+Programa Vega
+ Programa Preparatorio de Futuros Lanzadores (FLPP) (2004-Actualidad)
+
+
+Observación de la Tierra
+Living Planet Programme (LPP)
+Programa Copérnico (1998-Actualidad)
+Misiones Sentinel-3
+Programa Meteosat
+
+
+Vuelo espacial humano
+Cuerpo Europeo de Astronautas
+Programa Aurora (2001-Actualidad) para la exploración en profundidad del Sistema solar, sobre todo la Luna y Marte
+Misión ExoMars, con lanzamiento en 2016 y 2022 (previsto)
+Misión Mars sample return, cuyo lanzamiento está previsto entre 2020 y 2030​
+Programa Terrae Novae, programa espacial tripulado de la ESA con destino órbita baja, la Luna y Marte.
+European Programme for Life and Physical Sciences in Space (ELIPS) (inglés)
+Participación en el Programa Artemisa (2017-Actualidad) como socia de la NASA
+European Large Logistics Lander (EL3) es un sistema de transporte a la Luna propuesta capaz de llevar mercancías para el Programa Artemisa y traer muestras de vuelta a la Tierra. Es una evolución del programa HERACLES. Se encuentra en fase de estudio​
+Módulo de Servicio Orión
+ESPRIT
+Módulo de Habitación Internacional
+Contribución europea a la Estación Espacial Internacional
+
+
+Programa Científico (inglés)
+Programa Cosmic Vision (2015-2025) es el ciclo actual de planificación de la ESA
+Misión S1  CHEOPS, lanzado en diciembre de 2019
+Misión S2 SMILE, cuyo lanzamiento está previsto en 2023
+Misión M1 Solar Orbiter, lanzada en 10 de febrero de 2020
+Misión M2 Euclid, lanzada en 1 de julio de 2023
+Misión M3 PLATO, cuyo lanzamiento está previsto en 2026
+Misión M4 ARIEL, cuyo lanzamiento está previsto en 2029
+Misión M5 pendiente de ser determinada
+Misión L1 JUICE, lanzada en 14 de abril de 2023
+Misión L2 ATHENA prevista para la década de 2030
+Misión L3 LISA, prevista para 2034
+Misión F1 Comet Interceptor (inglés), prevista para 2029
+Programa Horizonte 2000+ (1994-2013) es el anterior ciclo de planificación de la ESA, del cual algunas misiones aún se mantienen operativas:
+Misión Mars Express
+Misión Gaia, observatorio espacial lanzado en diciembre de 2013
+
+
+Navegación
+Programa EGNOS
+Programa Galileo
+
+
+Telecomunicaciones
+ARTES (inglés)
+
+
+Exploración robótica
+Prodex
+
+
+Soporte de tecnologías
+Programa FAST20XX (inglés)
+Programa Boost!
+
+
+Seguridad espacial
+Programa de Conciencia Situacional Espacial (SSA) (2009-Actualidad)
+
+
+Misiones
+
+
+Proceso de selección
+Un proyecto científico de la ESA (Ciencia espacial) pasa por las siguientes fases antes de que se realice:​
+
+Lluvia de ideas ( Convocatoria de ideas ): Durante esta fase, se solicita a la comunidad científica propuestas de misión. Estas propuestas son examinadas por comités de revisión por pares y se hacen recomendaciones sobre qué propuestas deben avanzar a la siguiente fase.
+Fase de evaluación (fase de evaluación ): Ahora se seleccionará un máximo de cuatro misiones del Comité del Programa Científico. El equipo de misión respectivo diseña la carga útil junto con los ingenieros de la ESA. El objetivo es mostrar el valor científico y la viabilidad técnica de la misión. El Comité Asesor de Ciencias Espaciales selecciona una de las cuatro misiones para la siguiente fase.
+Fase de definición: Aquí se deben planificar los costos y el cronograma de la misión. Al final del día, se selecciona el socio contractual encargado de la construcción de los instrumentos.
+Fase de desarrollo: En esta fase, el programa se desarrolla e implementa junto con el socio industrial seleccionado.
+
+
+Misiones actuales
+
+Integral, lanzada en 2002
+Mars Express, lanzada en 2003
+SOHO en colaboración con la NASA lanzada en 1995
+Gaia, observatorio espacial lanzado en diciembre de 2013
+XMM-Newton, lanzado en diciembre de 1999
+ExoMars, con primer lanzamiento en 2016 y segundo previsto en 2022
+Sentinel-3
+Telescopio espacial Hubble en colaboración con la NASA lanzado en 1990
+ADM-Aeolus, lanzada en 2018
+BepiColombo, lanzada en 2018
+Programa Espacial de Satélites Meteosat, comenzado en 2002
+Telescopio Espacial James Webb en colaboración con la NASA lanzado en diciembre de 2021
+
+
+Misiones futuras
+Hera componente europeo de la misión AIDA, cuyo lanzamiento está previsto para 2026​
+PROBA 3 que tiene previsto su lanzamiento en 2024. Misión demostrador de vuelo en formación y observación solar de microsatélites, siendo cuarto vuelo de la serie PROBA.
+
+
+Misiones finalizadas destacadas
+Rosetta
+Venus Express
+Cassini-Huygens en colaboración con la NASA
+LISA Pathfinder
+Vehículo de transferencia automatizado (ATV)
+
+
+Prototipos y conceptos
+La ESA difunde periódicamente conceptos o prototipos que espera sirvan de base para misiones futuras. Estos son algunos de los que ha lanzado en los últimos años:
+
+Advanced Crew Transportation System programa de vehículo espacial tripulado, basado en el Vehículo de transferencia automatizado y capaz de alcanzar órbita lunar
+Moon Village - Concepto de base lunar (2016)​
+URBAN - Prototipo de base lunar empleando tecnologías de impresión 3D (2018)​
+
+
+Véase también
+ Portal:Unión Europea. Contenido relacionado con  Unión Europea.
+Anexo:Proyectos de la Agencia Espacial Europea
+Ascensor espacial
+Colonización del Espacio
+Anexo:Agencia espacial
+ESA Televisión
+(9950) ESA
+Agencia de la Unión Europea para el Programa Espacial (EUSPA)
+
+
+Referencias
+
+
+Enlaces externos
+
+ Wikimedia Commons alberga una galería multimedia sobre Agencia Espacial Europea.
+ Wikinoticias tiene noticias relacionadas con Agencia Espacial Europea.
+Sitio web oficial
+Datos de la ESA en página web de la ESA
+Información general

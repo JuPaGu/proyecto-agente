@@ -1,0 +1,185 @@
+TÍTULO: Plutón (planeta enano)
+FUENTE: https://es.wikipedia.org/wiki/Plut%C3%B3n_(planeta_enano)
+LICENCIA: CC BY-SA 4.0 (Wikipedia)
+
+Plutón, designado (134340) Pluto, es un planeta enano del sistema solar ubicado en el cinturón de Kuiper, situado a continuación de la órbita de Neptuno y descubierto por Clyde Tombaugh el 18 de febrero de 1930 (véase Día Internacional de Plutón). Su nombre se debe al dios mitológico romano Plutón (Hades, según la mitología griega). En la Asamblea General de la Unión Astronómica Internacional (UAI) celebrada en Praga el 24 de agosto de 2006, se creó una nueva categoría llamada planeta enano, en la que se incluye a Plutón. Posteriormente, en 2008, la UAI especificó una nueva categoría para los planetas enanos similares a Plutón en órbita más allá de Neptuno, a la que llamó plutoide. Es también el prototipo de una categoría de objetos transneptunianos denominada plutinos. Plutón posee una órbita excéntrica y altamente inclinada con respecto a la eclíptica, que recorre acercándose en su perihelio hasta el interior de la órbita de Neptuno. Asimismo posee también cinco satélites: Caronte, Nix, Hidra, Cerbero y Estigia,​​ los cuales son cuerpos celestes que comparten esa misma categoría.
+Su gran distancia al Sol y a la Tierra, unida a su reducido tamaño, impide que brille por encima de la magnitud 13.8 en sus mejores momentos (perihelio orbital y oposición), por lo cual solo puede ser apreciado con telescopios a partir de los 200 mm de abertura, fotográficamente o con cámara CCD. Incluso en sus mejores momentos aparece como astro puntual de aspecto estelar, amarillento, sin rasgos distintivos (diámetro aparente inferior a 0.1 segundos de arco). No fue hasta el año 2015 cuando la sonda espacial New Horizons pasó sobre el planeta y permitió apreciar por primera vez de forma nítida su aspecto real.
+Plutón fue descubierto el 18 de febrero de 1930 por el astrónomo estadounidense Clyde William Tombaugh desde el Observatorio Lowell en Flagstaff, Arizona, y fue considerado el noveno planeta del sistema solar por la Unión Astronómica Internacional y por la opinión pública desde entonces hasta 2006, aunque su pertenencia al grupo de planetas del sistema solar fue siempre objeto de controversia entre los astrónomos. Durante muchos años existió la creencia de que Plutón era un satélite de Neptuno que había dejado de ser satélite por el hecho de alcanzar una segunda velocidad cósmica. Sin embargo, esta teoría fue rechazada en la década de 1970.​
+Tras un intenso debate, y con la propuesta de los astrónomos uruguayos Julio Ángel Fernández y Gonzalo Tancredi ante la Asamblea General de la UAI en Praga, se decidió por unanimidad reclasificar a Plutón como planeta enano,​ requiriendo que un planeta debe tener dominancia orbital. Se propuso su clasificación como planeta en el borrador de resolución, pero desapareció de la resolución final, aprobada por la Asamblea General de la UAI. Desde el 7 de septiembre de 2006 tiene el número 134340, otorgado por el Centro de Planetas Menores.
+
+
+Historia
+
+
+Descubrimiento
+
+En la década de los cuarenta del siglo XIX, Urbain Le Verrier empleó la mecánica newtoniana para predecir la posición de Neptuno tras analizar las perturbaciones en la órbita de Urano.​ Posteriores observaciones de Neptuno, a finales del siglo XIX, llevaron a los astrónomos a conjeturar que otro planeta, además de Neptuno, perturbaba la órbita de Urano.
+En 1906, Percival Lowell —un bostoniano adinerado que había fundado en 1894 el observatorio Lowell en Flagstaff (Arizona)— inició un intenso programa de búsqueda del noveno planeta, al que llamó Planeta X.​ Para 1909, él y William H. Pickering habían sugerido varias coordenadas celestes donde podría encontrarse dicho planeta.​ Lowell y los miembros de su observatorio llevaron adelante la búsqueda, sin obtener resultados hasta la muerte de aquel en 1916. Sin embargo, y sin saberlo, Lowell lo había fotografiado en sendas placas del 19 de marzo y 7 de abril de 1915, donde aparecía como un objeto débil.​ Hay otras catorce observaciones conocidas previas al descubrimiento oficial , siendo la más antigua la realizada en el observatorio Yerkes el 20 de agosto de 1909.​
+No obstante, la búsqueda del Planeta X se detuvo debido a una disputa legal de diez años con la viuda de Percival, Constance Lowell, la cual quería que una parte del legado que su marido dejó al observatorio fuese para ella.​ En 1929, el nuevo director del observatorio, Vesto Melvin Slipher, encargó la búsqueda a Clyde William Tombaugh, un joven de Kansas de veintitrés años que lo dejó impresionado con sus dibujos astronómicos.​
+La tarea de Tombaugh consistió en la toma de pares de fotografías del cielo nocturno para, a continuación, examinar cada par y determinar si algún objeto había cambiado de posición. Usó para ello un microscopio de parpadeo, aparato que creaba una ilusión de movimiento al desplazar rápidamente dos fotografías sobre sí mismas y permitía así detectar cambios en la posición de los objetos o en la apariencia de las imágenes. El 18 de febrero de 1930, tras casi un año de búsqueda, encontró un objeto que se había movido en las placas tomadas el 23 y 29 de enero de ese año. Una fotografía de menor calidad tomada el 21 ayudó a confirmar el movimiento.​ Después de que el observatorio obtuviera fotografías adicionales de confirmación, la noticia del descubrimiento se telegrafió al observatorio del Harvard College el 13 de marzo de 1930.​
+
+
+Nombre
+El descubrimiento fue noticia en todo el mundo. El observatorio Lowell, que tenía el derecho a nombrar el nuevo objeto, recibió más de mil sugerencias que iban desde «Atlas» hasta «Zymal». Tombaugh urgió a Slipher para que propusiera un nombre antes de que alguien se adelantara y lo hiciera.​ Constance Lowell sugirió primero «Zeus»; después «Percival»; y finalmente «Constance». Ninguna fue tomada en consideración.​
+El nombre «Plutón» —del dios romano del inframundo y epíteto de Hades— fue propuesto por Venetia Burney, una estudiante de Oxford interesada en la mitología clásica, durante una conversación con su abuelo Falconer Madan, miembro de la Biblioteca Bodleiana. Este pasó el nombre al astrónomo Herbert Hall Turner quien, a su vez, envió un cable a sus colegas estadounidenses con la propuesta.​
+Para elegir el nombre definitivo del objeto, a cada miembro del observatorio Lowell se le pidió que votara por una de tres propuestas: «Minerva», que ya era el nombre de un asteroide; «Cronos», que tenía mala fama por haber sido propuesto por el impopular astrónomo Thomas Jefferson Jackson See; y «Plutón». Este último recibió finalmente todos los votos.​ El nombre fue anunciado el 1 de mayo de 1930 y, tras conocerlo, Madan dio a Venetia cinco libras de recompensa.​ En la elección final del nombre ayudó que las dos primeras letras coincidieran con las iniciales de Percival Lowell. Un símbolo astronómico es una representación de dichas letras: ♇, Unicode U+2647.​ Otro símbolo es , U+2BD3.​
+El nombre caló muy pronto en la cultura popular. En 1930, Walt Disney se inspiró al parecer en él cuando presentó a Pluto —que lleva el nombre en inglés de Plutón—, compañero canino de Mickey Mouse, aunque el animador de Disney Ben Sharpsteen no fue capaz de confirmar la veracidad de esto.​ En 1941, Glenn T. Seaborg llamó «plutonio» a un nuevo elemento químico a partir del nombre del planeta. Seaborg seguía la reciente tradición de denominar a los elementos descubiertos por el nombre de los nuevos planetas del sistema solar. Así, el uranio se nombró a partir de Urano y el neptunio de Neptuno.​ La mayoría de los idiomas emplean formas propias del nombre «Plutón».​ Hōei Nojiri sugirió para el japonés la traducción «Meiōsei» (冥王星, ‘Estrella del rey del inframundo’),​ que fue tomada también por el chino y el vietnamita.​
+
+
+Naturaleza de Plutón
+Una vez descubierto, el débil brillo de Plutón y la imposibilidad de resolver su disco arrojaron dudas sobre la idea de que fuese el Planeta X de Lowell.​ Además, el valor de la masa se revisó a lo largo del resto del siglo.​ Las primeras estimaciones se hicieron tomando las supuestas perturbaciones en Urano y Neptuno. En 1931, se calculó que Plutón tenía una masa similar a la terrestre.​ Más adelante, en 1948, una nueva estimación la redujo hasta igualarla con la de Marte.​ En 1975, Dale Cruikshank, Carl Pilcher y David Morrison, de la Universidad de Hawái, calcularon por primera vez su albedo y encontraron que coincidía con el del hielo de metano. Esto significaba que Plutón tenía que ser bastante luminoso para su tamaño y que no podría tener más del 1 % de la masa de la Tierra.​ El albedo de Plutón ha resultado ser de 1.4 a 1.9 veces el terrestre.​
+El descubrimiento en 1978 de Caronte, el primer satélite de Plutón, permitió medir la masa de este directamente. Resultó ser aproximadamente un 0.2 % la masa de la Tierra, demasiado pequeña para explicar las discrepancias de la órbita de Urano. Posteriores búsquedas de una alternativa para el Planeta X fracasaron.​ En 1992, E. Myles Standish usó datos del sobrevuelo de Neptuno de la Voyager 2 —durante el cual se revisó la estimación de la masa de Neptuno a la baja en un 0.5 %, equiparable a la masa de Marte— para recalcular su efecto gravitatorio en Urano. Con las nuevas cifras, las discrepancias desaparecieron.​ Desde entonces, la mayoría de científicos coinciden en que el Planeta X no existe tal como Lowell lo describió.​ Lowell hizo una predicción de la órbita y posición del Planeta X que estuvo bastante cerca de la órbita de Plutón y su posición en el momento del descubrimiento. Ernest William Brown comentó poco después que había sido casualidad,​ opinión corroborada por posteriores estudios.​
+
+
+Reclasificación
+
+
+Controversia
+
+Desde 1992 se han descubierto numerosos cuerpos en la misma región de Plutón del sistema solar, lo que lo muestra como parte de la población de objetos del llamado cinturón de Kuiper. Esto condujo a que su condición de planeta fuese controvertida y a que muchos se cuestionasen si debía ser o no considerado junto a esa población. Algunos directores de museos y planetarios contribuyeron a la controversia omitiendo a Plutón de los modelos del sistema solar de sus instituciones. El planetario Hayden, por ejemplo, volvió a abrir sus puertas —en 2000, tras una renovación— con un modelo de solo ocho planetas. Casi un año después, era titular en algunos periódicos.​
+Debido a que se iban descubriendo objetos cuyos tamaños estaban cada vez más cerca del de Plutón, se argumentó que debería ser reclasificado como uno de los objetos del cinturón de Kuiper —de la misma forma que Ceres, Palas, Juno y Vesta perdieron la categoría de planeta tras el descubrimiento de muchos asteroides—. En 1999 el astrónomo Brian Marsden, por entonces director del Centro de Planetas Menores, llegó a proponer incluirlo en el catálogo de cuerpos menores asignándole el número (10000).​ Finalmente, la idea no fue aceptada por la Unión Astronómica Internacional y fue el asteroide 1951 SY el que recibió ese número. Posteriormente se le dio el nombre de Miriosto.​
+La controversia volvió a intensificarse a partir de 2001 con el descubrimiento relativamente frecuente de objetos similares a Plutón en el sistema solar exterior. En 2002 se descubrió Quaoar, un objeto transneptuniano cuyo diámetro es de unos 1070 km, cerca de la mitad del de Plutón.​ En 2003, a una distancia de 100 ua,​ se encontró Sedna, con un diámetro de aproximadamente 1000 km.​
+El 29 de junio de 2005, astrónomos del Caltech anunciaron el descubrimiento de un nuevo objeto transneptuniano, Eris, más masivo que Plutón y el más masivo descubierto en el sistema solar desde que lo fuera Tritón en 1846.​ Tanto sus descubridores como la prensa lo llamaron el décimo planeta, aunque no hubo acuerdo inicial en la comunidad astronómica de si debía ser un planeta. Otros astrónomos lo consideraron el argumento más firme para reclasificar a Plutón como un planeta menor.​
+
+
+Planeta enano
+
+El debate llegó a su culmen el 24 de agosto de 2006 con la propuesta de los astrónomos uruguayos Julio Ángel Fernández y Gonzalo Tancredi​ en la UAI en la que se modificaba la definición oficial de planeta. De acuerdo con su propuesta, hay tres condiciones que ha de cumplir un objeto para que sea considerado un planeta:
+
+El objeto debe estar en órbita alrededor del Sol.
+El objeto debe ser lo bastante masivo como para que su gravedad lo haya redondeado. Más concretamente, su propia gravedad debe llevarlo al equilibrio hidrostático.
+El objeto debe haber limpiado la vecindad de su órbita.​
+
+Plutón no cumple la tercera condición debido a que su masa es solo 0.07 veces la masa de los otros objetos de su órbita —en comparación, la masa de la Tierra es 1.7 millones de veces la de su región orbital—,​ por lo que la UAI decidió además que los cuerpos que cumplen solo los dos primeros criterios pasarían a denominarse «planetas enanos».​ Así, el 13 de septiembre de 2006 se clasificó a Plutón, Ceres y Eris en la nueva categoría.​
+Ha habido cierta resistencia en la comunidad astronómica contra la reclasificación.​ Alan Stern, investigador principal de la misión New Horizons, ridiculizó públicamente la resolución de la UAI afirmando que «la definición apesta por razones técnicas».​ La explicación de Stern fue que la Tierra, Marte, Júpiter y Neptuno —todos ellos comparten órbita con asteroides u objetos transneptunianos— serían excluidos según la nueva definición.​ Además, argumentó que los grandes satélites, incluida la Luna, deberían ser considerados asimismo planetas.​ Por último, mencionó que, debido a que menos del cinco por ciento de los astrónomos votaron, la decisión no era representativa de toda la comunidad astronómica.​ Marc Buie, por entonces miembro del observatorio Lowell, expresó su opinión en contra de la nueva definición en su sitio web. Otros astrónomos han apoyado a la UAI.​ Michael E. Brown, descubridor de Éride, dijo que «a través de todo este alocado procedimiento circense, se tropezó de alguna manera con la respuesta correcta. Ya era hora. La ciencia al final se corrige a sí misma, incluso cuando se involucran fuertes emociones».​
+La recepción popular de la decisión de la UAI fue variada, y  aunque muchos la aceptaron, algunos trataron de anularla con peticiones en la red en las que instaban a la UAI a considerar la restauración de la categoría de planeta. Una resolución presentada por algunos miembros de la asamblea del estado de California, decía medio en broma que la decisión era una «herejía científica».​ La Cámara de Representantes de Nuevo México aprobó una resolución en honor de Tombaugh, antiguo residente del estado, en la que declaraba que Plutón se considerará siempre un planeta desde el momento en que sea visible desde el estado, y que el 13 de marzo de 2007 será el Día del Planeta Plutón.​ El Senado de Illinois —estado de nacimiento de Tombaugh— aprobó una resolución similar en 2009 según la cual Plutón fue «injustamente degradado a planeta enano» por la UAI.​ Parte de la opinión pública también ha rechazado el cambio citando el desacuerdo de la comunidad científica sobre el asunto o por razones sentimentales, pues siempre han conocido a Plutón como planeta y continuarán haciéndolo independientemente de la decisión de la UAI.​
+Varios investigadores que respaldaban las dos posiciones del debate, se reunieron del 14 al 16 de agosto de 2008 en el Laboratorio de Física Aplicada de la Universidad Johns Hopkins para dar una conferencia que incluía conversaciones cara a cara sobre la definición actual de planeta de la UAI.​ Bajo el título «El Gran Debate Planetario»,​ la conferencia publicó posteriormente un comunicado de prensa en el que indicaba que los científicos no pudieron llegar a un acuerdo respecto a la definición de planeta.​ Antes de la conferencia, el 11 de junio de 2008, la UAI anunció en un comunicado de prensa que el término «plutoide» se usaría para referirse a Plutón y otros objetos transneptunianos —cuyos semiejes mayores son superiores al de Neptuno— que tuviesen una masa suficiente para conseguir la forma esférica.​
+
+
+Origen
+El origen y naturaleza de Plutón tuvo a los astrónomos largo tiempo desconcertados. Una primera hipótesis proponía que fue un satélite que había escapado de Neptuno sacado de órbita por Tritón. Esta idea fue rechazada posteriormente después de que estudios dinámicos demostrasen que era imposible: las trayectorias de Plutón y Neptuno nunca se aproximan.​
+El auténtico lugar de Plutón en el sistema solar comenzó a revelarse a partir de 1992, cuando los astrónomos empezaron a encontrar pequeños objetos helados más allá de Neptuno similares a Plutón no solo en las características orbitales, sino también en cuanto a tamaño y composición. Se piensa que esta población transneptuniana es la fuente de muchos cometas de periodo corto. En la actualidad Plutón es el miembro más grande del cinturón de Kuiper, una región estable que se encuentra entre 30 y 50 ua del Sol —Eris, más masivo, pertenece a los objetos del disco disperso, un grupo considerado en ocasiones distinto—.​
+En 2011, casi se había completado el escrutinio de objetos del cinturón de Kuiper hasta una magnitud de 21 y no se esperaba descubrir ningún objeto del tamaño de Mercurio a menos de 100 ua del Sol.​ Al igual que otros objetos del cinturón de Kuiper, Plutón comparte características cometarias; por ejemplo, el viento solar está desgastando poco a poco su superficie y enviándola al espacio.​ Se ha llegado a afirmar que si Plutón estuviese tan cerca del Sol como la Tierra, desarrollaría una cola al igual que los cometas.​ Esta afirmación se ha puesto en duda con el argumento de que la velocidad de escape es demasiado alta para que esto suceda.​
+Aunque Plutón es el mayor objeto descubierto en el cinturón de Kuiper,​ Tritón, que es similar tanto geológica como atmosféricamente y es probablemente un objeto del cinturón capturado por Neptuno, es un poco mayor.​ Eris, de tamaño similar, pertenece a la población de objetos del disco disperso. 
+Muchos objetos del cinturón de Kuiper están en resonancia orbital 2:3 con Neptuno al igual que Plutón, por lo que han recibido la denominación de «plutinos», del nombre en inglés de Plutón.​
+
+
+Características orbitales
+
+
+Órbita
+ La órbita de Plutón es muy excéntrica y, durante 20 de los 248 años que tarda en recorrerla, se encuentra más cerca del Sol que Neptuno.​
+Es también mucho más inclinada respecto al plano de la eclíptica que cualquiera de la de los planetas del sistema solar, siendo su inclinación de 17°, por ello no hay peligro alguno de una colisión con Neptuno. Cuando las órbitas se cruzan lo hacen cerca de los extremos de manera que, en sentido perpendicular a la eclíptica, les separa una gran distancia.​
+Plutón llegó por última vez a su perihelio en septiembre de 1989 y continuó desplazándose por el interior de la órbita de Neptuno hasta marzo de 1999.​ Actualmente se aleja del Sol y no volverá a estar a menor distancia del Sol que Neptuno hasta septiembre de 2226. Debido a su amplitud de su órbita, Plutón sólo ha recorrido 1/3 de la misma desde su descubrimiento en 1930.
+
+
+Rotación
+El periodo de rotación de Plutón es igual a 6.39 días terrestres (153 horas con 21 minutos).​ Al igual que Urano, Plutón gira acostado sobre un lado en su plano orbital, con una inclinación axial de 120°, por lo tanto, su variación estacional es extrema. Durante los solsticios plutonianos, en una cuarta parte de la superficie es continuamente de día mientras que en otra cuarta parte es noche continua.​
+
+
+Características físicas
+
+
+Geografía
+
+
+Sistema de coordenadas y elementos rotacionales
+La Unión Astronómica Internacional, (IAU), a través del Grupo de Trabajo para la definición de Coordenadas Cartográficas y Elementos Rotacionales de Planetas y Satélites, definió en 1979 los polos y coordenadas geográficas de Plutón, que, como planeta que estaba considerado en ese momento, su polo norte se definía como orientado en el mismo sentido que el de la Tierra, en el lado norte del Plano invariable del sistema solar, y eso hacía de su rotación que fuese retrógrada. El meridiano cero estaba situado arbitrariamente en la época B1950.0. La única actualización a esta definición tuvo lugar en 1991 cuando se definió el meridiano cero como aquel situado en el eje Plutón-Caronte y en la cara enfrentada al satélite.​
+Sin embargo, en la literatura sobre Plutón estas definiciones se ignoraron, y se utilizó la dirección del polo alineada con el vector de momento angular de acuerdo con la regla de la mano derecha, es decir, se definió como norte el contrario al que definía la IAU, dando de esta manera un sentido directo a la rotación del planeta. De igual manera, en lugar de longitud geográfica, se utilizaron diversas definiciones de fases de rotación calculadas desde una cierta época dada en fecha juliana, y referidas a eventos como máximos y mínimos de curvas de luz o posiciones relativas de Caronte respecto de Plutón. La dificultad de estas definiciones es que los datos de diferentes artículos no se pueden comparar si no están referidas a las mismas épocas y a los mismos eventos. Cuando fue necesario definir una longitud, esta se definió como planetocéntrica, creciente hacia el este desde el meridiano cero, en vez de planetográfica, creciente en sentido contrario al de la rotación, que es la recomendación de la IAU. A partir de 2000 con el auge de programas informáticos para el cálculo de efemérides, que devuelven cálculos en las coordenadas oficiales de la IAU, estas empezaron a ser más utilizadas y ambos sistemas convivieron en los trabajos sobre Plutón.[cita requerida]
+En 2006, con la reclasificación de Plutón como planeta enano, la definición de la IAU que le aplicaba pasaba a ser la relativa a Cuerpos menores, que define como polo positivo el alineado con el vector del momento angular de Plutón de acuerdo a la regla de la mano derecha y una definición de longitud planetocéntrica,​ es decir, el mismo sistema de coordenadas que había sido usado ampliamente con anterioridad. Por conveniencia al polo positivo se le sigue denominando polo norte.​
+
+
+Geología
+
+Se encuentra hielo de metano (CH4), más brillante con un albedo de 0.65, en ciertas áreas de la superficie a más de 1.5 km de altura. En zonas ecuatoriales de Plutón, comprendidas entre 20.º N y 10 S, dentro de la región de Cthulhu, se presenta en las cumbres y laderas orientadas al norte de las Pigafetta Montes y Elcano Montes, que tienen una altura de 4 km respecto de la altitud media de Plutón y entre 2.5 y 3.5 km respecto de la superficie circundante, dando lugar a un paisaje similar a las cumbres nevadas de la Tierra,​ y bordes de cráteres, Edgeworth, y escarpes, Virgil Fossa. Al norte, en Venera Terra y Viking Terra, también se encuentra en las paredes de los cráteres, pero esta vez preferentemente en las orientadas al sur. También las cumbres de Al-Idrisi Montes y Tenzing Montes presentan escarcha de metano a gran altitud.
+La presencia de esta capa de hielo de metano en zonas elevadas se debe a que la concentración relativa de este compuesto en la atmósfera de Plutón es mayor a una altitud de 4 km respecto a la superficie, dando lugar a una zona de mayor temperatura, por absorción de radiación solar dado que es un gas que genera un importante efecto invernadero, que en la superficie. La superficie permanece igual de fría independientemente de la altura ya que la atmósfera es demasiado fina para afectarla. Por tanto, el aire más cercano a la superficie se enfría y fluye ladera abajo, al contrario que en la Tierra, permitiendo que el metano en altura se condense sobre las cumbres y zonas elevadas de montañas y cráteres. En la región de Cthulhu, a pesar de su bajo albedo de 0.1, su temperatura superficial nocturna es tan fría, 40-42 K, que permite que se acumule una cantidad de escarcha que la sublimación diurna no puede compensar. Este mecanismo también explicaría la textura cortada de la región de Tartarus Dorsa, región que consiste en depósitos masivos de metano que se encuentran a casi exclusivamente en elevaciones mayores de 2 km por encima del radio medio de Plutón. Este proceso no se da en zonas cuya superficie esté mayormente compuesta por hielo de nitrógeno (N2), como Sputnik Planitia, porque la sublimación del nitrógeno es capaz de enfriar la atmósfera hasta una altura de varios kilómetros sobre la superficie.​​
+
+
+Atmósfera
+
+Plutón posee una atmósfera extremadamente tenue, formada por nitrógeno, metano y monóxido de carbono, que se congela y colapsa sobre su superficie a medida que el planeta se aleja del Sol.​​ Es esta evaporación y posterior congelamiento lo que causó las variaciones en el albedo del planeta, detectadas por medio de fotómetros fotoeléctricos en la década de 1950 (Kuiper y otros). A medida que el planeta se aproximó, los cambios se fueron haciendo menores, disminuyendo cuando se encontró en el perihelio orbital (1989). Se espera que estos cambios de albedo se repitan, pero a la inversa, a medida que el planeta se aleje del Sol rumbo a su afelio.​
+
+
+Satélites
+
+Al principio se consideró que Plutón no poseía satélites (caso similar a Mercurio y Venus). En 1978 fue cuando se descubrió su primer satélite (Caronte). De todas las lunas del sistema solar, Caronte es la más grande en comparación con su planeta anfitrión, es decir, ninguna otra luna es de un tamaño tan próximo al del planeta que orbita. El tamaño tan parecido que tienen Plutón y Caronte hace que aparezca el efecto planeta doble, esto es, el centro de las órbitas en torno al que se mueven ambos cuerpos no está situado en el interior de ninguno de ellos, en oposición al sistema «satélite-planeta» que es el caso de la Tierra y la Luna, en el que el centro está situado a aproximadamente 1700 km bajo la superficie de la Tierra.​
+Hoy se sabe que, además de Caronte, existen otros cuatro satélites que orbitan Plutón: Hidra, Nix, Cerbero y Estigia. Todos son mucho más pequeños que Caronte. Sus nombres provisionales fueron S/2005 P 1, S/2005 P 2, S/2011 P 1 y S/2012 P 1, respectivamente.
+
+
+Caronte
+
+Caronte es el primer satélite descubierto de Plutón. Tiene 1208 km de diámetro y está a 19 640 km del planeta. Desde que se descubrió en 1978 se les ha considerado como un planeta doble, pues sus masas son similares y el baricentro queda fuera de Plutón, el cuerpo de mayor masa. De esta manera ambos orbitan en torno a dicho punto. Parece como si estuvieran unidos por una barra invisible y girasen alrededor de un centro situado en esa barra o eje, más cercano a Plutón, puesto que tiene siete veces más masa que Caronte.
+Tras la Asamblea General de la UAI de 2006, la categoría de Caronte es incierta. Se le considera posible candidato a planeta enano, pero la definición no deja claro cómo realizar la distinción entre satélite o sistema binario, por lo que se le sigue considerando un satélite del planeta enano Plutón.
+Con el tiempo, la gravedad ha frenado las rotaciones de Caronte y Plutón, que son únicas en el sistema solar, por lo que ahora presentan siempre la misma cara el uno al otro.​
+
+
+Nix e Hidra
+
+El 31 de octubre de 2005 el Telescopio Espacial Hubble anunció el posible descubrimiento de dos satélites adicionales de menor tamaño.​ Estas lunas fueron observadas en mayo de 2005 y confirmada su existencia en junio de 2006. Han recibido los nombres de Nix (nombre provisional S/2005 P1) e Hidra (nombre provisional S/2005 P2).
+El nombre de ambos satélites fue escogido de forma conjunta, ya que sus iniciales NH rinden tributo a la sonda espacial New Horizons, que despegó en 2006 con destino a Plutón. Las observaciones preliminares son consistentes con ambos cuerpos orbitando en el mismo plano que Caronte, y a distancias dos y tres veces superiores. Nix tiene 42 km de largo y 36 de ancho, mientras que Hidra tiene 55 km de largo.​​
+En 2015 un nuevo estudio elaborado con todos los datos disponibles del telescopio espacial Hubble permitió averiguar que Nix e Hidra no están rotando sobre sus ejes, sino que lo hacen de una forma caótica al mismo tiempo que orbitan alrededor de Plutón y de su satélite principal, Caronte.​​
+
+
+Cerbero y Estigia
+
+El 20 de julio de 2011 se anunció el descubrimiento del cuarto satélite de Plutón, P4 (S/2011 P 1), también gracias al telescopio espacial Hubble, cuyo periodo orbital en torno al planeta enano es de 31 días.​ Del 29 de junio al 9 de julio de 2012 fue detectado en imágenes separadas el quinto satélite de Plutón, S/2012 (134340) 1, o P5. Se estima que es de forma irregular, de entre 10 y 25 km de diámetro. Se encuentra en una órbita circular de 95 000 km de diámetro alrededor de Plutón, posiblemente en el mismo plano que otras lunas de Plutón conocidas.​​
+El 2 de julio de 2013 estos satélites recibieron sendos nombres relacionados con Hades y el Inframundo: Cerbero (perro de tres cabezas guardián del inframundo) y Estigia (río que separa la tierra del inframundo), respectivamente. Con la llegada de la sonda New Horizons se pudo tener mejores imágenes de ambos satélites, y se descubrió que tienen un tamaño que ronda los 12 km. Cerbero tiene dos lóbulos, seguramente formado por la unión de dos satélites.​​
+
+Sus órbitas son muy exteriores, por lo que son satélites del sistema Plutón-Caronte, y sus órbitas son estables, ya que están en una solución del problema de cuatro cuerpos (órbitas lejanas en torno al baricentro del sistema). El descubrimiento del quinto satélite ofrece pistas adicionales para desvelar cómo el sistema de Plutón se formó y evolucionó. La teoría más favorecida es que todas las lunas son reliquias de una colisión entre Plutón y un gran objeto del Cinturón de Kuiper miles de millones de años atrás.​
+
+
+Exploración
+
+
+Misión New Horizons
+
+Plutón fue el segundo planeta enano en ser visitado por una sonda espacial, tras Ceres. El 6 de julio de 2015, la misión New Horizons de la NASA se encontraba a 9 000 000 km de él,​ el 13 de julio se encontraba a 768 000 km de la superficie obteniendo la imagen más detallada del cuerpo celeste hasta su máximo acercamiento previsto que tuvo lugar el 14 de julio de 2015.​ Las observaciones científicas empezaron cinco meses antes del acercamiento y continuaron al menos un mes después del mismo, teniendo como objetivo caracterizar la geología y la morfología de Plutón y algunas de sus lunas, así como estudiar la composición de su superficie y de su atmósfera.​​
+
+
+Plutón en la ficción
+
+En la serie de novelas de los Mitos de Cthulhu de H. P. Lovecraft, Plutón es descrito como un mundo habitado por una especie extraterrestre no nativa de este planeta, conocida como Mi-go, que llama «Yuggoth» al planeta Plutón.​
+En la serie de animé japonesa Sailor Moon, una de las guerreras encargadas de proteger al sistema solar, «Sailor Pluto» proviene de Plutón.​
+
+
+Galería de imágenes
+
+
+Videos
+
+
+Véase también
+
+ Portal:Sistema Solar. Contenido relacionado con  Sistema Solar.
+Ceres
+definición de planeta
+Día Internacional de Plutón
+Eris
+geología de Plutón
+objeto transneptuniano
+quasar
+redefinición de planeta de 2006
+(90377) Sedna
+(90482) Orcus
+Planeta Nueve
+Planeta enano
+
+
+Referencias
+
+
+Citas
+
+
+Bibliografía
+Croswell, Ken (1997). Planet Quest: The Epic Discovery of Alien Solar Systems (en inglés). The Free Press. ISBN 978-0-684-83252-4. 
+
+
+Enlaces externos
+
+ Wikimedia Commons alberga una galería multimedia sobre Plutón.
+«(134340) Pluto» (en inglés). Minor Planet Center. Consultado el 16 de julio de 2015. 
+Datos sobre Plutón - Asociación Larense de Astronomía (ALDA)
+Plutón Actividad educativa: El sistema solar
+Plutón, cada vez más rojo
+Gráficos interactivos de la misión "New Horizons". La NASA, rumbo a Plutón. Diario El Mundo de 24 de agosto de 2006. Consultado el 7 de abril de 2013.

@@ -1,0 +1,165 @@
+TÍTULO: Carrera espacial
+FUENTE: https://es.wikipedia.org/wiki/Carrera_espacial
+LICENCIA: CC BY-SA 4.0 (Wikipedia)
+
+La carrera espacial fue una pugna entre Estados Unidos y la Unión Soviética por la conquista del espacio que duró del 4 de octubre de 1957 al 17 de julio de 1975. Supuso el esfuerzo paralelo de ambos países de explorar el espacio exterior con satélites artificiales y de enviar humanos al espacio y a la superficie lunar.
+Aunque el conflicto se remonta a las primeras tecnologías de cohetes y a las tensiones internacionales tras la Segunda Guerra Mundial, el inicio de la carrera espacial se hizo efectivo con el lanzamiento soviético del Sputnik 1 el 4 de octubre de 1957. El término se acuñó de forma análoga al de la carrera armamentística. La carrera espacial constituyó uno de los ejes principales de rivalidad cultural y tecnológica entre la URSS y los Estados Unidos durante la Guerra Fría. La tecnología espacial se convirtió en una arena particularmente importante en este conflicto, tanto por sus potenciales aplicaciones militares como por sus efectos sobre la opinión pública de uno y otro país.​
+La carrera espacial acabó el 17 de julio de 1975, día en que se acoplaron las naves Apolo CSM-111 (Estados Unidos) y Soyuz 19 (Unión Soviética), marcando el fin de la competencia espacial entre ambas naciones.​
+
+
+Antecedentes de la carrera espacial
+
+
+Influencias militares iniciales
+
+Los cohetes han sido objeto de interés de científicos y aficionados desde hace siglos. Los chinos los utilizaron como armas desde el siglo X.​ El científico ruso Konstantín Tsiolkovski teorizó en la década de 1880 sobre cohetes compuestos por varias etapas y propulsados por combustible líquido que podrían llegar al espacio.​ Pero no fue hasta 1926 cuando el estadounidense Robert Goddard diseñara un cohete de combustible líquido de uso práctico.​​
+Goddard realizó sus trabajos sobre cohetes en la clandestinidad, ya que era objeto de burla de la comunidad científica, el público e incluso el diario The New York Times.​ La Segunda Guerra Mundial hizo que las tecnologías de motores cohete ganaran notoriedad. A partir de entonces, cualquier carrera espacial quedaría vinculada a las ambiciones militares de las naciones implicadas, a pesar de su impulso a la ciencia y a la tecnología.
+
+
+Contribuciones alemanas
+A mediados de la década de 1920, científicos alemanes empezaron a experimentar con cohetes propulsados por combustibles líquidos que podían alcanzar altitudes y distancias relativamente altas.​​ En 1932, el Reichswehr, predecesor de la Wehrmacht, mostró interés por los cohetes como artillería de largo alcance.​ Wernher von Braun, un científico de cohetes que empezaba a destacar, se unió a la investigación y los desarrolló para su uso en la Segunda Guerra Mundial por la Alemania nazi. Von Braun adoptó muchas ideas de la investigación original de Robert Goddard; estudió sus cohetes y los mejoró considerablemente.​​
+El cohete A4 alemán, lanzado en 1942, fue el primer proyectil balístico de combate y el primer artefacto de la Historia en realizar un vuelo suborbital.​​ En 1943, se renombró como cohete V2 y Alemania inició su producción en masa. El cohete V2, con un alcance de 300 km y una ojiva de 1000 kg, se considera origen de todos los cohetes modernos.​ La Wehrmacht disparó miles de cohetes V2 contra las naciones aliadas, causando daños y numerosas muertes.​
+
+
+Raíces en la Guerra Fría
+Culminada la Segunda Guerra Mundial, los científicos alemanes que trabajaron en el V2 fueron capturados tanto por Estados Unidos (Operación Paperclip) como por la Unión Soviética (Operación Osoaviajim). Los Estados Unidos y la Unión Soviética se embarcaron en una Guerra Fría de espionaje y propaganda, alimentada por la exploración espacial y la tecnología de satélites en ambos frentes. El equipamiento a bordo de satélites podía espiar a otros países, con cámaras de fotos y señales de radar, mientras que los logros espaciales servían de propaganda política, para demostrar la capacidad científica y el potencial militar de un país.
+Los mismos motores cohete que podían poner en órbita un satélite o alcanzar la Luna, podían lanzar una bomba atómica a una ciudad enemiga cualquiera, haciendo uso de misiles balísticos intercontinentales (ICBM). Gran parte del desarrollo tecnológico requerido para el viaje espacial se aplicaba tanto a los cohetes de guerra como a los ICBM. Las dos superpotencias trabajaron para ganar ventaja en la investigación espacial, incrementando la capacidad de sus lanzadores, naves y satélites artificiales.
+
+
+Satélites artificiales
+En el año 1955, tanto Estados Unidos como la Unión Soviética anunciaron públicamente su intención de lanzar satélites artificiales al espacio en el corto plazo, como contribución al Año Geofísico Internacional, que se daba lugar entre los años 1957 y 1958.​​
+
+
+Sputnik 1
+
+El 4 de octubre de 1957, la URSS lanzó con éxito el Sputnik 1, el primer satélite artificial en lograr ponerse en órbita, dando así comienzo a la carrera espacial.​​ En la Unión Soviética, el lanzamiento del Sputnik y el subsiguiente programa de exploración espacial fueron vistos con gran interés por el público. En respuesta al Sputnik, Estados Unidos emplearía un enorme esfuerzo en mejorar su capacidad tecnológica y modernizar los planes de estudio con la esperanza de producir más científicos brillantes. A esta reacción se la conoce hoy en día como la crisis del Sputnik.​
+
+Casi cuatro meses después del lanzamiento del Sputnik 1, el 1 de febrero de 1958, Estados Unidos consiguió lanzar su primer satélite, el Explorer 1.​ Durante ese tiempo se habían producido varios lanzamientos fallidos de cohetes Vanguard desde Cabo Cañaveral.​ Estos dos primeros satélites se utilizaron con fines científicos. Sputnik 1 ayudó a determinar la densidad de la atmósfera superior y los datos de vuelo del Explorer 1 llevaron al descubrimiento de James Van Allen de los cinturones de radiación terrestres.​
+
+
+Satélites de comunicaciones
+El primer satélite de comunicaciones, el SCORE, lanzado el 18 de diciembre de 1958, retransmitió desde órbita un mensaje de Navidad pregrabado del presidente Eisenhower durante 12 días.​ Se recogen en la siguiente tabla otros ejemplos notables durante la carrera espacial.
+
+
+Seres vivos en el espacio
+
+
+Animales en el espacio
+
+El primer animal que se puso en órbita fue la perra Laika, que viajó a bordo de la nave soviética Sputnik 2 en el año 1957.​ Laika murió de estrés y sobrecalentamiento poco después de llegar al espacio; no obstante, todavía no existía la tecnología para recuperarla de vuelta.​ En 1960, las perras Belka y Strelka orbitaron la Tierra a bordo de la cápsula soviética Sputnik 5 y consiguieron regresar con éxito.​ El programa espacial estadounidense importó chimpancés del continente africano y envió al menos a dos al espacio, siendo Ham el Chimpancé el primer homínido en viajar al espacio, en el año 1961.​ En junio de 1997, la Fuerza Aérea anunció que se desharía de sus últimos chimpancés mediante una subasta pública autorizada por el Congreso. Dos meses después de su transferencia un laboratorio de investigación de Nuevo México llamado The Coulston Foundation, la ONG Save the Chimps (Salva a los Chimpancés) inició un pleito para liberarlos, consiguiendo finalmente trasladarlos a un santuario del sur de Florida.​ En el año 1968, los soviéticos lanzaron la nave Zond 5, cuya misión consistió en orbitar la Luna y regresar a la Tierra. En su interior se encontraban tortugas, huevos de moscas de vino, plantas, bacterias y semillas.​
+
+
+Humanos en el espacio
+El 12 de abril de 1961, el soviético Yuri Gagarin se convirtió en el primer ser humano en llegar al espacio, en un vuelo orbital a bordo de la nave Vostok 1. Análogamente, el 5 de mayo de ese mismo año, 23 días después, Alan Shepard fue el primer estadounidense en llegar al espacio, realizando una trayectoria suborbital a bordo del cohete Mercury Redstone 3.​ El 20 de febrero de 1962, el estadounidense John Glenn pasó a ser el tercer ser humano en llegar al espacio y el segundo en orbitar la Tierra, completando tres órbitas a los mandos de la nave Friendship 7.​
+
+ 
+Entre los días 11 y 15 de agosto de 1962, la Unión Soviética realizó la primera misión con dos humanos en órbita, en sendas cápsulas Vostok 3 y Vostok 4, separadas entre sí unos pocos cientos kilómetros. El 16 de junio de 1963, la soviética Valentina Tereshkova se convirtió en la primera mujer en llegar al espacio a bordo de la Vostok 6.​ El ingeniero jefe soviético Koroliov había planeado más misiones Vostok de mayor duración. Sin embargo, tras el anuncio del Programa Apolo por parte de Estados Unidos, el primer secretario Nikita Jrushchov demandó más primeros puestos para los soviéticos.​ 
+El 12 de octubre de 1964, la Unión Soviética lanzó la Vosjod 1, tripulada por los cosmonautas Komarov, Feoktistov y Yegorov, la primera que llevaba a bordo más de un tripulante, la primera en la que no se llevaron trajes espaciales y la primera en llevar a un ingeniero o físico al espacio.​ El 18 de marzo de 1965, Alexei Leonov llevó a cabo el primer paseo espacial en la Vosjod 2, con algunos fallos durante la misión. Leonov tuvo serias dificultades para entrar de nuevo en la cápsula, ya que su traje se había inflado. Además, la nave aterrizó a 1600 kilómetros de su objetivo debido a una deficiencia en el retropropulsor.​ En 1964, Jrushchov abandonó su cargo, pasando el testigo a un nuevo liderazgo menos comprometido con la consecución de hitos.​
+
+
+Misiones lunares
+A pesar de los logros tecnológicos y políticos de ambas superpotencias, el clima ideológico entre estos países aseguró que la carrera espacial continuaría al menos hasta que el primer humano caminara sobre la Luna.​ Para lograrlo, en un primer momento enviaron naves no tripuladas para explorar la Luna y demostrar la capacidad de alunizar de forma segura.
+
+
+Sondas no tripuladas
+
+El 4 de enero de 1959, el programa Luna soviético arrancó con el lanzamiento de la sonda Luna 1, convirtiéndose en la primera sonda en llegar a la Luna.​ Tras el éxito soviético de colocar el primer satélite en órbita, Estados Unidos impulsó el programa Pioneer para enviar una sonda a la Luna.​ Entre los años 1958 y 1960, enviaron nueve sondas lunares, con escasa tasa de éxito.​ Además del programa Pioneer, los estadounidenses crearon los programas Ranger, Lunar Orbiter y Surveyor, con el objetivo de buscar lugares de alunizaje potenciales para el futuro programa Apolo.​​​
+
+
+Los alunizajes
+Aunque los soviéticos ganaron a los estadounidenses en casi todos los hitos de la carrera espacial al inicio, no fue así a la hora de posar un humano en la Luna. Tras los primeros éxitos soviéticos, el gobierno estadounidense presentó el programa Apolo.​ Con él, se prometía defender los programas sociales, con beneficios económicos en varios estados clave para la siguiente legislatura, además de los técnicos y científicos, y la defensa un proyecto más cercano al ámbito militar, cerrando la brecha de los misiles reclamada por Kennedy durante las elecciones de 1960 mediante un uso doble de la tecnología.​
+En una conversación con el administrador de la NASA, James E. Webb, Kennedy dijo:
+
+ 
+
+Después de que Johnson se convirtiera en presidente en 1963, su apoyo continuado permitió el éxito del programa Apolo. Kennedy y Johnson consiguieron cambiar la opinión pública: en 1965, el 75% de los estadounidenses apoyaban el programa Apolo, en contraste con el 62% de 1963.​ 
+La URSS mostró una mayor ambivalencia sobre el envío de misiones tripuladas a la Luna. El líder soviético Nikita Jrushchov no quería ni ser vencido por otra potencia, pero tampoco asumir los gastos de un proyecto tan costoso.[cita requerida] En octubre de 1963, afirmó que la Unión Soviética «no planeaba en la actualidad ningún vuelo de cosmonautas a la Luna», al tiempo que añadía que no habían abandonado la carrera.​ Un año después, la URSS se comprometió a intentar dos alunizajes, el primero sin tripulación y el segundo con ella.​
+
+Kennedy propuso programas conjuntos, como el alunizaje de astronautas de ambos países y la mejora de los satélites meteorológicos.​​ Jrushchov lo percibió como un intento de robar la tecnología espacial soviética, por lo que rechazó sus propuestas.​ Serguéi Koroliov, homólogo soviético de Wernher von Braun, fue el ingeniero jefe que diseñó el cohete R-7 con el objetivo de enviar cosmonautas a la Luna.​ Koroliov aseveraba que las naves Soyuz y el lanzador N-1 podían alunizar con tripulación.​ Jrushchov ordenó a la oficina de diseño de Koroliov que consiguiera nuevos hitos modificando la tecnología existente del programa Vostok, mientras que un segundo equipo empezó a construir el cohete Protón y la sonda Zond, completamente nuevos, con el objetivo de realizar un vuelo sublunar tripulado en 1966. En 1964, la nueva cúpula soviética le dio a Koroliov el respaldo para el proyecto de alunizaje tripulado y pusieron el resto de proyectos tripulados bajo su mando.[cita requerida]
+
+En el año 1967, con la muerte de Koroliov y el fracaso del primer vuelo de la Soyuz, la coordinación del programa de alunizaje soviético se deshizo rápidamente. Los soviéticos construyeron un módulo de alunizaje y seleccionaron cosmonautas para la misión que habría de colocar a Alexei Leonov sobre la superficie lunar. Sin embargo, con los sucesivos fracasos de lanzamiento del cohete N-1 en 1969, los planes para el alunizaje tripulado sufrieron sucesivos retrasos que llevaron a su cancelación,​ aunque las sondas sin tripular soviéticas llegaron a la Luna antes que cualquier nave de Estados Unidos. No obstante, el 20 de julio de 1969, el estadounidense Neil Armstrong se convirtió en la primera persona en caminar sobre la superficie lunar, tras haber alunizado el día anterior.​ Como comandante de la misión Apolo 11, Armstrong recibió apoyo del piloto del módulo de comando Michael Collins y del piloto del módulo lunar Buzz Aldrin, en un evento presenciado por 700 millones de personas en todo el mundo.​​ Los cronistas sociales reconocen ampliamente este alunizaje como uno de los momentos más relevantes del siglo XX y las palabras de Armstrong al poner el primer pie sobre la superficie de la Luna se han hecho igualmente memorables.​
+A diferencia de otras rivalidades internacionales, la carrera espacial no estaba motivada por el deseo de expansión territorial. Tras sus exitosos aterrizajes en la Luna, Estados Unidos renunció explícitamente al derecho de propiedad de cualquier parte de la Luna.​
+En 1970, la sonda soviética Lunojod 1 logró posarse sobre la Luna.​ Su finalidad principal era investigar el suelo lunar. La energía de la sonda provenía de un panel solar durante el día lunar que almacenaba energía para la noche lunar, durante la cual se ayudaba de un reactor nuclear incorporado al vehículo.​ Lunojod 1 se controlaba desde la Tierra y el mayor problema al que se enfrentaba el controlador era el retardo de la señal, con un refresco de la imagen cada 5 segundos.​ La URSS incorporaría algunas mejoras al Lunojod 1 y mandaría una nueva versión en 1973, la sonda Lunojod 2.​​
+
+
+Otros logros de la carrera espacial
+
+
+Misiones a otros planetas
+La Unión Soviética fue la primera en enviar sondas planetarias a Venus y a Marte, en 1960. Los días 19 y 20 de mayo de 1961, la cápsula Venera 1 sobrevoló Venus a unos cien mil kilómetros de distancia, sin ser capaz de transmitir datos.​ El 14 de diciembre de 1962, la nave estadounidense Mariner 2 fue la primera en sobrevolar Venus con éxito.​ Envió datos sorprendentes sobre la alta temperatura de la superficie y la densidad del aire de Venus, aunque no llevaba cámaras consigo.​
+La sonda Venera 7 soviética, lanzada en 1971, fue la primera en mandar datos desde la superficie de Venus.​ En 1975, Venera 9 transmitió las primeras imágenes de la superficie del propio Venus.​​ El resto de sondas del programa Venera también realizaron operaciones de sobrevuelo y aterrizaje.​ Por su parte, Estados Unidos lanzó la Mariner 10 en 1974, que sobrevoló sobre Venus en su trayectoria hacia Mercurio.​ Se convirtió en la primera nave en sobrevolar Mercurio, un hito que no se repetiría hasta el lanzamiento en 2004 de la sonda Messenger.​
+Los viajes a Marte comenzaron en 1962, con el lanzamiento de la sonda soviética Mars 1. El día 19 de junio de 1963, la nave pudo aproximarse hasta una distancia aproximada de 193 000 kilómetros, sin conseguir enviar datos.​ La cápsula estadounidense Mariner 4, lanzada en 1965, fue la primera sonda en sobrevolar y fotografiar Marte con éxito, causando sorpresa con las imágenes transmitidas. Mars 2 y Mars 3, lanzadas en 1971, lograron posarse sobre la superficie de Marte, la primera de forma abrupta y la segunda se estropeó a los 20 segundos de aterrizar suavemente, por lo que no consiguieron enviar datos.​​ Sí lo lograron en 1976 las sondas estadounidenses Viking 1 y Viking 2, que transmitieron las primeras imágenes del planeta.​
+Estados Unidos logró ser el primero en sobrevolar los planetas exteriores del sistema solar. La sonda Pioneer 10 sobrevoló Júpiter con éxito en 1973, la Pioneer 11 se aproximó a Saturno en 1979 y la Voyager 2 realizó los primeros sobrevuelos de Urano y Neptuno, en 1986 y 1989, respectivamente.​​
+
+
+Lanzamientos y acoplamientos
+El 15 de diciembre de 1965, tuvo lugar el primer encuentro espacial entre las naves Gemini 6 y Gemini 7, ambas estadounidenses.​ Su sucesora, la Gemini 8, realizó el primer acoplamiento espacial con el vehículo Agena el 16 de marzo de 1966.​ El 30 de octubre de 1967, el primer acoplamiento espacial realizado de forma automática involucró a las naves soviéticas Cosmos 186 y Cosmos 188, dos cápsulas Soyuz no tripuladas.​
+El primer lanzamiento desde el mar tuvo lugar con el cohete sonda estadounidense Scout B, el 26 de abril de 1967, lanzado desde la base italiana de San Marco.​ La primera estación espacial, la soviética Salyut 1, comenzó sus operaciones el 7 de junio de 1971.​
+
+
+Primera película
+
+La primera película largometraje de ficción en la historia rodada en el espacio fue Visov (en ruso: Вызов, lit. 'El desafío') dirigida por Klim Shipenko. Parte de la película fue filmada en la Estación Espacial Internacional a la que viajaron el director y la actriz Yulia Peresild tras preparase para el viaje en el Centro de Entrenamiento de Cosmonautas Gagarin. La película se estrenó en 2023 adelantándose al proyecto de Tom Cruise.​
+
+
+Competencia militar
+La campaña para desarrollar la tecnología espacial para usos militares siguió en paralelo los esfuerzos científicos de la carrera espacial. Antes del lanzamiento del Sputnik 1, tanto Estados Unidos como la Unión Soviética empezaron a desarrollar planes para lanzar satélites de observación terrestre con misiles ICBM.​ La nave soviética Zenit tenía un diseño similar a la Vostok y su misión principal consistía en la observación del territorio estadounidense y europeo.​ Compitió con la serie Discoverer de los servicios de inteligencia estadounidenses.​ El 10 de agosto de 1960, la misión Discoverer 13 supuso la primera reentrada y recuperación exitosa del espacio de una cápsula —nueve días antes de la primera recuperación soviética de la cápsula Sputnik 5— con las películas de fotografías tomadas sobre territorio enemigo.​​
+Tanto Estados Unidos como la Unión Soviética desarrollaron importantes programas espaciales militares. A menudo seguían un patrón por el cual Estados Unidos solo llegaba a completar maquetas, mientras que los soviéticos construían e incluso ponían en órbita su programa análogo. La Fuerza Aérea estadounidense propuso utilizar el misil ICBM Titán para lanzar el planeador hipersónico Dyna-Soar, con el fin de interceptar satélites enemigos, en el primer plan para el desarrollo de un programa espacial de la Iniciativa de Defensa Estratégica.​ Los planes para este vehículo se reemplazaron por los del laboratorio orbital tripulado, utilizando hardware basado en el programa Gemini para llevar a cabo misiones de vigilancia, pero este también quedó cancelado.​ La URSS encargó el programa Almaz para una estación espacial militar tripulada similar, que se fundió con el programa Salyut, la estación militar Polyus se quedó solamente como un proyecto.​​
+
+
+El final de la carrera espacial
+
+La NASA tenía planes ambiciosos con los que dar continuidad a la exploración espacial tripulada, una vez alcanzasen la Luna. Sin embargo, pronto descubrieron que ya habían consumido la mayor parte del capital político del que disponían para hacerlo.​ 
+En el año 1969, el presidente Richard Nixon percibía una pérdida de apoyo político para un nuevo programa al estilo del Apolo, que había disminuido notablemente con el primer alunizaje. Buscó relajar la tensión con la Unión Soviética y con China y recortó el presupuesto de la NASA para dedicarlo prácticamente por completo al desarrollo del transbordador espacial.​​ 
+Al Apolo 11 le siguieron otras seis misiones tripuladas a la superficie lunar, todas exitosas a excepción del Apolo 13, cuyos fallos durante el vuelo impidieron alunizar a la tripulación, en abril de 1970.​ En el año 1972, el programa Apolo concluía así con la misión Apolo 17, ya que los recortes presupuestarios obligaron a la agencia a cancelar la misión Apolo 18. La opción de llevar a cabo las misiones Apolo 19 y 20 ya había sido abandonada tras las restricciones presupuestarias de 1971.​ En el año 1973, se lanzó la estación Skylab 1, construida en órbita a partir de una etapa superior del cohete Saturno V.​ 
+Por su parte, la Unión Soviética pasó a centrar sus esfuerzos en el desarrollo de estaciones espaciales en órbita terrestre. En 1971 lanzó la primera de la historia, un laboratorio en órbita llamado Saliut 1.​ El programa Saliut continuó hasta 1986, sentando las bases para la creación de futuras estaciones compuestas por varios módulos como la Mir y la Estación Espacial Internacional.​ 
+En el año 1975, los Estados Unidos y la Unión Soviética participaron en un programa conjunto llamado Apolo-Soyuz, donde la nave soviética Soyuz 19 y la estadounidense Apolo atracaron por sus bases, permitiendo a los astronautas pasar a la nave contraria y participar en experimentos conjuntos.​ A partir de entonces, la carrera espacial fue perdiendo importancia - generalmente se considera que esta misión conjunta puso fin a la misma. A principios de los 80, el nacimiento de la Iniciativa de Defensa Estratégica por parte del presidente estadounidense Ronald Reagan intensificó más la competencia, que solo se resolvió con la disolución de la Unión Soviética en 1991.​
+
+
+Cronología (1957-1988)
+
+
+Legado
+
+
+Muertes
+
+Cuando el Apolo 15 abandonó la Luna, los astronautas dejaron un monumento conmemorativo a los astronautas de ambas naciones que habían perdido la vida en el intento.​ En Estados Unidos, los primeros astronautas que murieron durante la participación directa en el viaje espacial o su preparación sirvieron en el Apolo 1. El comandante Virgil «Gus» Grissom, el piloto senior Edward White y el piloto Roger Chaffee murieron en un incendio producido durante una prueba en tierra el 27 de enero de 1967.​
+Los vuelos de la Soyuz 1 y la Soyuz 11 soviéticas también tuvieron como resultado la muerte de cosmonautas. La Soyuz 1, puesta en órbita el 23 de abril de 1967, estaba tripulada por un solo cosmonauta, el coronel Vladímir Komarov, que murió al estrellarse la nave tras su reentrada en la atmósfera terrestre.​ En 1971, los cosmonautas de la Soyuz 11 Gueorgui Dobrovolski, Viktor Patsayev, y Vladislav Vólkov murieron asfixiados durante la reentrada.​
+Hubo otras muertes de astronautas por causa de maniobras relacionadas con los programas espaciales. Cuatro estadounidenses perdieron la vida en tres accidentes distintos del avión de caza T-38 Talon, entre los años 1964 y 1967.​​​ En el año 1968, el soviético Yuri Gagarin falleció al estrellarse con el caza MiG-15 que pilotaba, durante un vuelo de entrenamiento.​
+
+
+Avances en tecnología y educación
+Los avances logrados a lo largo de la carrera espacial alcanzaron disciplinas como la ingeniería aeroespacial, las tecnologías de telecomunicación, la física y la astronomía. Invenciones como los detectores de humo, las mantas isotérmicas e incluso las gafas de esquí antiniebla tienen sus raíces en las tecnologías desarrolladas durante la carrera espacial.​​​ Actualmente más de mil satélites artificiales orbitan la Tierra, retransmitiendo comunicaciones alrededor del planeta y facilitando la medición de datos sobre el clima, la vegetación y los movimientos humanos.​
+Las preocupaciones de los estadounidenses de quedarse rezagados en la carrera espacial llevaron a los legisladores y los educadores a enfatizar en las asignaturas de carácter científico. El National Defense Education Act (Ley Nacional de Defensa de la Educación) de 1958 aumentó los fondos para conseguir estos objetivos, desde la educación primaria hasta el posgrado.​ En la actualidad, más de 1200 institutos de Estados Unidos conservan sus planetarios, una situación sin parangón en otro país del mundo, consecuencia directa de la carrera espacial.​ La Unión Soviética permaneció como líder indiscutible en tecnología de lanzadores, incluso hasta el final de la Guerra Fría. Estados Unidos se hizo superior en electrónica, medición remota, control de vehículos y control robótico.[cita requerida]
+
+
+Evolución tras la carrera espacial
+
+Aunque su ritmo ha disminuido, la exploración espacial continúa avanzando mucho después del fin de la carrera espacial. El 12 de abril de 1981, coincidiendo con el 20 aniversario del vuelo de Yuri Gagarin, Estados Unidos lanzó la primera nave espacial reutilizable, el transbordador espacial Columbia.​ El 15 de noviembre de 1988, la Unión Soviética lanzó el transbordador Burán, la primera y única nave espacial reutilizable con aterrizaje automático.​ En 1991, la URSS quedó disuelta y Rusia heredó la gran mayoría de los restos de su programa espacial. Estados Unidos y Rusia colaboran juntos en el programa Shuttle-Mir y de nuevo en la Estación Espacial Internacional (EEI).​ La familia de cohetes soviéticos R-7, que lanzó el primer Sputnik al comienzo de la carrera espacial, sigue en uso en la actualidad. Da servicio a la Estación Espacial Internacional como lanzador de las cápsulas Soyuz y Progress.​ Por otra parte, el programa comercial de vuelos tripulados a la EEI pretende acabar con la dependencia de Rusia por parte de Estados Unidos para llevar astronautas a la Estación Espacial Internacional.​
+Otros programas como el de la Agencia Espacial Europea (ESA) o el programa espacial chino contribuyen a la exploración espacial desde otros frentes. La ESA invierte principalmente en proyectos de observación de la Tierra, navegación por satélite y en el nuevo lanzador Ariane 6.​ China, por su parte, centra sus esfuerzos en la nave tripulada Shenzhou, las estaciones espaciales Tiangong y la exploración lunar.​​​ Además, un nuevo advenimiento de iniciativas privadas bajo la filosofía del NewSpace pretende impulsar el turismo espacial, disminuir los costes de lanzamiento y crear valor a partir de constelaciones de satélites estandarizados por lo general más pequeños.​​​
+
+
+Véase también
+Carrera espacial latinoamericana
+ICBM
+Guerra Fría
+Estación Espacial Internacional
+
+
+Referencias
+
+
+Bibliografía
+
+
+Enlaces externos
+La conquista del espacio, edición de 1976 del programa de TVE La clave, con José Luis Balbín.
+
+
+En inglés
+Space Race Exhibition Archivado el 1 de enero de 2006 en Wayback Machine. en el Museo Nacional del Aire y el Espacio de Estados Unidos. (en inglés)
+TheSpaceRace.com – Programas espaciales Mercury, Gemini y Apolo. (en inglés)
+Cronología de la carrera espacial a la Luna 1960 – 1969 Archivado el 19 de noviembre de 2005 en Wayback Machine. (en inglés)
+Shadows of the Soviet Space Age (en inglés)
+Chronology:Moon Race en russianspaceweb.com (en inglés)

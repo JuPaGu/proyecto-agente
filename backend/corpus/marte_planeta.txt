@@ -1,0 +1,461 @@
+TÍTULO: Marte (planeta)
+FUENTE: https://es.wikipedia.org/wiki/Marte_(planeta)
+LICENCIA: CC BY-SA 4.0 (Wikipedia)
+
+Marte es el cuarto planeta en orden de distancia al Sol y el segundo más pequeño del sistema solar, después de Mercurio. Recibió su nombre en homenaje al homónimo dios de la guerra de la mitología romana (Ares en la mitología griega), y también es conocido como «el planeta rojo»​​ debido a la apariencia rojiza​ que le confiere el óxido de hierro predominante en su superficie. Marte es el planeta interior más alejado del Sol. Es un planeta telúrico con una atmósfera delgada de dióxido de carbono, y tiene dos satélites pequeños y de forma irregular, Fobos y Deimos (hijos del dios griego), que podrían ser asteroides capturados​​ similares al asteroide troyano (5261) Eureka. Sus características superficiales recuerdan tanto a los cráteres de la Luna como a los valles, desiertos y casquetes polares de la Tierra.
+El periodo de rotación y los ciclos estacionales son similares a los de la Tierra, ya que la inclinación es lo que genera las estaciones. Marte alberga el Monte Olimpo, la montaña y el volcán más grande y alto conocido en el sistema solar, y los Valles Marineris, uno de los mayores cañones del sistema solar. La llana cuenca Boreal en el hemisferio norte cubre el 40 % del planeta y puede ser característica de un gigantesco impacto.​​ Aunque en apariencia podría parecer un planeta muerto, no lo es. Sus campos de dunas siguen siendo mecidos por el viento marciano, sus casquetes polares cambian con las estaciones e incluso parece que hay algunos pequeños flujos estacionales de agua.​
+Las investigaciones en curso estudian la habitabilidad pasada del planeta y su potencial para albergar vida en la actualidad. Se planean futuras investigaciones astrobiológicas, entre ellas, la Mars 2020 de la NASA y ExoMars de la ESA.​​​​ El agua en estado líquido no puede existir en la superficie de Marte debido a su baja presión atmosférica, que es unas 100 veces inferior a la de la Tierra,​ excepto en las zonas menos elevadas durante cortos periodos de tiempo.​​ Sus dos casquetes polares parecen estar formados en su mayor parte por agua.​​ El volumen de agua helada del casquete polar sur, si se derritiera, sería suficiente como para cubrir la superficie planetaria al completo con una profundidad de 11 metros (36 pies).​
+Marte se puede observar fácilmente a simple vista desde la Tierra, así como su coloración rojiza. Su magnitud aparente alcanza −2.97,​ y es solamente superada por Júpiter, Venus, la Luna y el Sol. Los telescopios ópticos terrestres suelen estar limitados por la atmósfera terrestre​ a una resolución aproximada de 300 km (190 millas) cuando la Tierra y Marte se encuentran en su máxima cercanía.
+El astrónomo danés del siglo XVI Tycho Brahe midió con gran precisión el movimiento de Marte en el cielo. Los datos sobre el movimiento retrógrado aparente (los llamados «lazos»)​ permitieron a Kepler hallar la naturaleza elíptica de su órbita y determinar las leyes del movimiento planetario conocidas como leyes de Kepler.
+Marte forma parte de los planetas superiores a la Tierra, ya que su órbita nunca atraviesa la de la Tierra alrededor del Sol. Sus fases (porción iluminada vista desde la Tierra) están poco marcadas, hecho que es fácil de demostrar geométricamente. Considerando el triángulo Sol-Tierra-Marte, el ángulo de fase es el que forman el Sol y la Tierra vistos desde Marte; este alcanza su valor máximo en las cuadraturas cuando el triángulo STM es rectángulo en la Tierra. Si llamamos 
+  
+    
+      
+        
+          a
+          
+            1
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle a_{1}=1}
+  
+ UA al radio medio orbital de la Tierra y 
+  
+    
+      
+        
+          a
+          
+            2
+          
+        
+        =
+        1.5237
+      
+    
+    {\displaystyle a_{2}=1.5237}
+  
+ UA al radio medio orbital de Marte el ángulo de fase máximo se calcula mediante​ :
+
+  
+    
+      
+        
+          F
+          
+            M
+          
+        
+        =
+        arcsin
+        ⁡
+        
+          (
+          
+            
+              
+                
+                  a
+                  
+                    1
+                  
+                
+                
+                  a
+                  
+                    2
+                  
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle F_{M}=\arcsin \left({\dfrac {a_{1}}{a_{2}}}\right)}
+  
+
+Y el valor de la fase mínima mediante:
+
+  
+    
+      
+        
+          K
+          
+            m
+          
+        
+        =
+        
+          
+            
+              
+                
+                  a
+                  
+                    2
+                  
+                
+                +
+                
+                  
+                    
+                      a
+                      
+                        2
+                      
+                      
+                        2
+                      
+                    
+                    −
+                    
+                      a
+                      
+                        1
+                      
+                      
+                        2
+                      
+                    
+                  
+                
+              
+              
+                2
+                
+                  a
+                  
+                    2
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle K_{m}={\dfrac {a_{2}+{\sqrt {a_{2}^{2}-a_{1}^{2}}}}{2a_{2}}}}
+  
+
+Para Marte, este ángulo de fase no es nunca mayor de 42° y la fase nunca menor del 87.7 %. Y entonces su aspecto de disco giboso es análogo al que presenta la Luna 3.5 días antes o después de la Luna llena. Esta fase, visible con un telescopio de aficionado, no pudo ser vista por Galileo, quien solamente supuso su existencia. Fue el astrónomo polaco Johannes Hevelius el primero que logró observar la fase de Marte en 1645, tres años después del fallecimiento de Galileo.
+
+
+Características físicas
+
+Marte es ligeramente elipsoidal, con un diámetro ecuatorial de 6794.4 km y polar de 6752.4 km (aproximadamente la mitad que la Tierra), y una superficie total algo inferior a la de las tierras emergidas de nuestro planeta.​ Medidas micrométricas muy precisas han mostrado un achatamiento tres veces mayor que el de la Tierra, con un valor de 0.01. A causa de este achatamiento, el eje de rotación está afectado por una lenta precesión debida a la atracción del Sol sobre el abultamiento ecuatorial del planeta. La precesión lunar, que en la Tierra es dos veces mayor que la solar, no tiene su equivalente en Marte.​
+Con este diámetro, su volumen es un 15 % del terrestre y su masa aproximadamente un 11 %. En consecuencia, la densidad de Marte es menor a la de la Tierra y la gravedad de Marte es un 38 % de la gravedad terrestre. La apariencia rojo-anaranjada de su superficie se debe al óxido de hierro III o herrumbre.​ Puede parecer color tofe, y también de otros colores como dorado, marrón, beige o verdoso, dependiendo de los minerales presentes en su superficie.​
+
+
+Estructura interna
+Al igual que la Tierra, Marte tiene diferenciados un denso núcleo metálico recubierto por materiales menos densos.​ Los modelos actuales sugieren un núcleo con un radio de aproximadamente 1794 ± 65 kilómetros), consistente principalmente en níquel y hierro con aproximadamente un 16-17 % de azufre.​ Se cree que este núcleo de sulfuro de hierro (II) contiene el doble de elementos ligeros que el de la Tierra.​ El núcleo está rodeado por un manto de silicato donde se formaron muchas de las características tectónicas y volcánicas del planeta, ahora en estado latente. Junto con el silicio y el oxígeno, los elementos más abundantes en la corteza de Marte son hierro, magnesio, aluminio, calcio y potasio. El grosor medio de la corteza del planeta es de unos 50 km, con un grosor máximo de 125 km. El grosor medio de la corteza de la Tierra es 40 km.​
+
+
+Geología
+
+Marte es un planeta rocoso compuesto por minerales que contienen silicio, oxígeno, metales y otros elementos que normalmente componen las rocas. La superficie de Marte está compuesta principalmente por basalto toleítico​ con un alto contenido en óxidos de hierro que proporcionan el característico color rojo de su superficie. Por su naturaleza se asemeja a la limonita, óxido de hierro muy hidratado. Así como en las cortezas de la Tierra y de la Luna predominan los silicatos y los aluminatos, en el suelo de Marte son preponderantes los ferrosilicatos. Sus tres constituyentes principales son, por orden de abundancia, el oxígeno, el silicio y el hierro. Contiene: 20.8 % de sílice, 13.5 % de hierro, 5 % de aluminio, 3.8 % de calcio, y también titanio y otros componentes menores.[cita requerida] Algunas zonas son más ricas en sílice que en basalto y pueden ser similares a las rocas andesitas de la Tierra o al vidrio de sílice. En partes de las zonas montañosas del sur hay cantidades detectables de piroxenos de alto contenido en calcio. Se han detectado también concentraciones localizadas de hematitas y olivinos.​ La mayor parte de su superficie está profundamente cubierta de polvo de grano fino de óxido de hierro (III).​​
+Marte es un planeta notablemente más pequeño que la Tierra. Sus principales características, en proporción con las del globo terrestre, son las siguientes: diámetro 53 %, superficie 28 %, masa 11 %. Como los océanos cubren alrededor del 70 % de la superficie terrestre y Marte carece de ellos, ambos planetas poseen aproximadamente la misma cantidad de superficie pisable.
+
+Aunque en Marte no hay evidencias de una estructura global de campo magnético,​ partes de la corteza planetaria muestran evidencias de haber estado magnetizadas, lo que sugiere la alternancia de inversión de polaridad de su campo dipolar en el pasado. Este paleomagnetismo de minerales susceptibles magnéticamente es similar al de las franjas alternas halladas en los fondos oceánicos terrestres. Una teoría, publicada en 1999 y revisada en octubre de 2005 (con ayuda de la Mars Global Surveyor), es que estas franjas sugieren actividad de la tectónica de placas de Marte hace 4000 millones de años, antes de que la dínamo planetaria dejara de funcionar y el campo magnético del planeta se desvaneciese.​
+Se cree que Marte se creó, durante la formación del sistema solar, como resultado de un proceso estocástico de acumulación de material del disco protoplanetario que orbitaba alrededor del Sol. Marte tiene muchas características químicas peculiares debido a su posición en el sistema solar. Elementos con puntos de ebullición relativamente bajos, como el cloro, el fósforo y el azufre, son mucho más comunes en Marte que en la Tierra; estos elementos fueron probablemente expelidos por el enérgico viento solar del joven Sol.​
+Tras la formación de los planetas, todos fueron sometidos al denominado bombardeo intenso tardío. Alrededor del 60% de la superficie de Marte muestra un registro de impactos de esa época,​​ mientras que el resto de la superficie restante está probablemente bajo inmensos cráteres de impacto producidos por esos acontecimientos. Hay evidencia de una enorme cuenca de impacto en el hemisferio norte de Marte que abarca entre 10 600 por 8500 km (6600 por 5300 mi), o aproximadamente cuatro veces el tamaño de la cuenca Aitken en el polo sur de la Luna, la mayor cuenca de impacto descubierta hasta el momento.​​ Esta teoría sugiere que Marte fue impactado por un cuerpo del tamaño de Plutón hace unos cuatro mil millones de años. El suceso, que se cree que es la causa de la dicotomía hemisférica marciana, creó la cuenca Borealis que cubre el 40 % del planeta.​​
+La superficie de Marte esta notablemente diferenciada en sus hemisferios, mientras que el hemisferio norte es bastante homogéneo y uniforme en cuanto a su paisaje; el hemisferio sur es de terreno caótico, presenta fallas tectónicas extensas, abismos y depresiones colosales, y cada región de ese hemisferio presenta un aspecto geológico difícil de modelar con escalas terrestres.
+La escala geológica de Marte se puede dividir en muchos periodos, siendo los tres principalesː​
+
+Periodo Noeico (llamado así por Noachis Terra)ː desde la formación de Marte hasta hace 3500 millones de años. Las áreas de esta época están marcadas por grandes y numerosos cráteres de impacto. Se cree que durante este periodo se formó Tharsis, la altiplanicie volcánica, y que hubo grandes inundaciones por agua líquida al final del mismo.
+Periodo Hespérico (por Hesperia Planum)ː hace entre 3500 ~3300 y 2900 millones de años. Este periodo está marcado por la formación de extensas llanuras de lava.
+Periodo Amazónico (por Amazonis Planitia)ː entre 3300 y 2900 millones de años hasta la actualidad. Los cráteres de impacto son escasos aunque bastante variados. Durante este periodo se formó el monte Olimpo, junto con coladas de lava en otros lugares de Marte.
+La actividad geológica continúa teniendo lugar en Marte. Athabasca Valles es la base de los mantos de lava formados hace 200 millones de años. Las corrientes de agua en las fosas tectónicas llamadas Cerberus Fossae ocurrieron hace menos de 20 millones de años, indicando intrusiones volcánicas relativamente recientes.​ La actividad sísmica detectada por la nave InSight de la NASA posada cerca del ecuador del planeta concluyó que el subsuelo de Elysium Planitia alberga una zona con actividad volcánica reciente, en términos geológicos.​
+Gracias a las imágenes tomadas por la cámara HiRISE, montada en la Mars Reconnaissance Orbiter, en órbita desde marzo de 2006, se han puesto de manifiesto muchas de las principales características morfológicas de su superficie.​ La superficie de Marte presenta características morfológicas tanto de la Tierra como de la Luna: cráteres de impacto, campos de lava, volcanes, cauces secos de ríos y dunas de arena.[cita requerida]
+
+Desde la Tierra, mediante telescopios, se observan unas manchas oscuras y brillantes que no se corresponden a accidentes topográficos sino que aparecen si el terreno está cubierto de polvo oscuro (características de albedo). Estas pueden cambiar lentamente cuando el viento arrastra el polvo. La mancha oscura más característica es Syrtis Major, una pendiente menor del 1 % y sin accidentes resaltables.
+La superficie de Marte presenta también unas regiones brillantes de color naranja rojizo, que reciben el nombre de desiertos, y que se extienden por las tres cuartas partes de la superficie del planeta, dándole su coloración rojiza característica. Estos desiertos en realidad se asemejan más a un inmenso pedregal, ya que el suelo se halla cubierto de piedras, cantos y bloques.
+Un enorme escalón, cercano al ecuador, divide a Marte en dos regiones claramente diferenciadas: un norte llano, joven y profundo y un sur alto, viejo y escarpado, con cráteres similares a las regiones altas de la Luna. En contraste, el hemisferio norte tiene llanuras mucho más jóvenes, y con una historia más compleja. Parece haber una brusca elevación de varios kilómetros en el límite. Las razones de esta dicotomía global son desconocidas.
+Hay cráteres de impacto distribuidos por todo Marte, pero en el hemisferio sur hay una vieja altiplanicie de lava basáltica semejante a los mares de la Luna, sembrada de cráteres de tipo lunar. Sin embargo el aspecto general del paisaje marciano difiere al que presenta nuestro satélite como consecuencia de la existencia de atmósfera. En concreto, el viento cargado de partículas sólidas produce una ablación que, en el curso de los tiempos geológicos, ha arrasado muchos cráteres. Estos son, por consiguiente, mucho menos numerosos que en la Luna y la mayor parte de ellos tienen las murallas más o menos desgastadas por la erosión. Por otra parte, los enormes volúmenes de polvo arrastrados por el viento cubren los cráteres menores, las anfractuosidades del terreno y otros accidentes poco importantes del relieve. Entre los cráteres de impacto destacados del hemisferio sur está la cuenca de impacto Hellas Planitia, con 6 km de profundidad y 2000 km de diámetro. Muchos de los cráteres de impacto más recientes tienen una morfología que sugiere que la superficie estaba húmeda o llena de barro cuando ocurrió el impacto.
+El campo magnético marciano es muy débil, con un valor de unas 2 milésimas del terrestre y polaridad invertida respecto a la de la Tierra.
+
+
+Suelo
+
+La sonda Phoenix proporcionó datos acerca de que el suelo marciano es un sustrato oxidado, ligeramente alcalino y contiene elementos como magnesio, sodio, potasio y cloro. Estos nutrientes se encuentran en los suelos terrestres, y son necesarios para el crecimiento de las plantas.​ Los experimentos realizados por la sonda espacial mostraron que el suelo marciano tiene un pH básico de 7.7 y contiene un 0.6 % de sales de perclorato.​​​​
+Las estrías son comunes a lo largo de Marte y con frecuencia aparecen nuevas rayas en las pendientes escarpadas de los cráteres, en las depresiones y los valles. Estas rayas son al principio oscuras y con el tiempo se van aclarando. Pueden empezar en un área minúscula y luego extenderse cientos de metros. Se ha observado que bordean los peñascos y otros obstáculos a su paso. Las teorías comúnmente aceptadas sugieren que se trata de capas oscuras del subsuelo puestas a descubierto tras avalanchas de nubes de polvo o diablos de polvo.​ Se han propuesto algunas otras explicaciones, entre ellas las concernientes al agua o incluso al desarrollo de organismos.​​
+
+
+Geografía
+
+La ciencia que estudia la superficie de Marte se llama aresgrafía (no confundir con aerografía), nombre que proviene de Ares (dios de la guerra entre los griegos).
+La superficie de Marte es caótica en muchos sectores y conserva las huellas de grandes cataclismos que no tienen equivalente en la Tierra:
+Una característica del hemisferio norte es la existencia de un enorme abultamiento que contiene el complejo volcánico de Tharsis. En él se encuentra el Monte Olimpo, el mayor volcán del sistema solar. Tiene una altura calculada entre 21 y 26 km​ (más de dos veces y media la altura del Everest sobre un globo mucho más pequeño que el de la Tierra) y su base tiene una anchura de 600 km. Las coladas de lava han creado un zócalo cuyo borde forma un acantilado de 6 km de altura. Hay que añadir la gran estructura colapsada de Alba Patera. Las áreas volcánicas ocupan el 10 % de la superficie del planeta. Algunos cráteres muestran señales de reciente actividad y tienen lava petrificada en sus laderas. A pesar de estas evidencias, no fue hasta mayo de 2007 cuando el Spirit, descubrió, con un grado alto de certeza, el primer depósito volcánico signo de una antigua actividad volcánica en la zona denominada Home Plate,​ (una zona con lecho rocoso de unos dos metros de altura y fundamentalmente basáltica, que debió formarse debido a flujos de lava en contacto con el agua líquida), situada en la base interior del cráter Gusev. Una de las mejores pruebas es la que los investigadores llaman bomb sag (la marca de la bomba). Cuando se encuentran la lava y el agua, la explosión lanza hacia arriba trozos de roca, algunos de los cuales vuelven a caer y se encajan en depósitos más blandos.
+
+Cercano al ecuador y con una longitud superior a los 3000 km, una anchura de hasta 600 km y una profundidad de hasta 8 km, Valles Marineris es un cañón que deja pequeño al Cañón del Colorado. Se formó por el hundimiento del terreno a causa de la formación del abultamiento de Tharsis.​
+Hay una clara evidencia de erosión en varios lugares de Marte, tanto por el viento como por el agua. Existen en la superficie largos valles sinuosos que recuerdan lechos de ríos (actualmente secos pues el agua líquida no puede existir en la superficie del planeta en las actuales condiciones atmosféricas). Esos inmensos valles pueden ser el resultado de fracturas a lo largo de las cuales han corrido raudales de lava y, más tarde, de agua.
+La superficie del planeta conserva verdaderas redes hidrográficas, hoy secas, con sus valles sinuosos entallados por las aguas de los ríos, sus afluentes, sus brazos, separados por bancos de aluviones que han subsistido hasta nuestros días. Todos estos detalles de la superficie sugieren un pasado con otras condiciones ambientales en las que el agua causó estos lechos mediante inundaciones catastróficas. Algunos sugieren la existencia, en un pasado remoto, de lagos e incluso de un vasto océano en la región boreal del planeta. Todo parece indicar que fue hace unos 4000 millones de años y por un breve período, en la denominada era Noeica.
+Al igual que la Luna y Mercurio, Marte no presenta tectónica de placas activa, como la Tierra. No hay evidencias de movimientos horizontales recientes en la superficie tales como las montañas por plegamiento tan comunes en la Tierra. No obstante la Mars Global Surveyor en órbita alrededor de Marte ha detectado en varias regiones del planeta extensos campos magnéticos de baja intensidad. Este hallazgo inesperado de un probable campo magnético global, activo en el pasado y hoy desaparecido, puede tener interesantes implicaciones para la estructura interior del planeta.
+
+Recientemente, estudios realizados con ayuda de las sondas Mars Reconnaissance Orbiter y Mars Global Surveyor han mostrado que muy posiblemente el hemisferio norte de Marte es una enorme cuenca de impacto de forma elíptica, conocida como Cuenca Borealis, de 8500 kilómetros de diámetro que cubre un 40 % de la superficie del planeta (la mayor del sistema solar, superando con mucho a la Cuenca Aitken de la Luna), que pudo haberse formado hace 3900 millones de años por el impacto de un objeto de unos 2000 kilómetros de diámetro.
+Posterior a la formación de dicha cuenca, surgieron volcanes gigantes a lo largo de su borde, que han hecho difícil su identificación.[cita requerida]
+
+
+Atmósfera
+
+La atmósfera de Marte es muy tenue, con una presión superficial de solo 7 a 9 hPa frente a los 1013 hPa de la atmósfera terrestre. Esto representa una centésima parte de la terrestre. La presión atmosférica varía considerablemente con la altitud, desde casi 9 hPa en las depresiones más profundas, hasta 1 hPa en la cima del Monte Olimpo. Los recientes descubrimientos respecto a la exploración marciana permiten concluir que los datos sobre la presión atmosférica deben ser revisados. Concretamente porque con tales datos de presión atmosférica sería inviable el uso de grandes paracaídas para el aterrizaje de los módulos enviados a Marte (ver Mars Science Laboratory).
+Sobre la base de datos observados fundamentalmente desde la órbita marciana se ha deducido que la composición atmosférica del planeta es fundamentalmente: dióxido de carbono en un 95.3 %, con un 2.7 % de nitrógeno, 1.6 % de argón y trazas de oxígeno molecular (0.15 %), monóxido de carbono (0.07 %) y vapor de agua (0.03 %). La proporción de otros elementos es ínfima y escapa su dosificación a la sensibilidad de los instrumentos hasta ahora empleados. No obstante, debido a la confirmación en 2015 de la presencia de agua estacional en la superficie marciana por la NASA, los datos sobre la proporción de oxígeno y vapor de agua atmosféricos deben ser revisados. Con criterio temporal también se ha supuesto que el contenido de ozono es mil veces menor que en la Tierra, por lo que esta capa, que se encuentra a 40 km de altura, sería incapaz de bloquear la radiación ultravioleta.
+La atmósfera es lo bastante densa como para albergar vientos muy fuertes y grandes tormentas de polvo que, en ocasiones, pueden abarcar el planeta entero durante meses. Este viento es el responsable de la existencia de dunas de arena en los desiertos marcianos. Las nubes pueden presentarse en tres colores: blancas, amarillas y azules. Las nubes blancas son de vapor de agua condensada o de dióxido de carbono en latitudes polares. Las amarillas, de naturaleza pilosa, son el resultado de las tormentas de polvo y están compuestas por partículas de tamaño en torno a una micra. La bóveda celeste marciana es de un suave color rosa salmón debido a la dispersión de la luz por los granos de polvo muy finos procedentes del suelo ferruginoso.
+En invierno, en las latitudes medias, el vapor de agua se condensa en la atmósfera y forma nubes ligeras de finísimos cristales de hielo. En las latitudes extremas, la condensación del anhídrido carbónico forma otras nubes que constan de cristales de nieve carbónica.
+La débil atmósfera marciana produce un efecto invernadero que aumenta la temperatura superficial unos 5°; mucho menos que lo observado en la Tierra.
+La luz diurna en Marte es como usar gafas de sol en la Tierra, como se aprecia en las fotografías tomadas por los rovers. Hay suficiente radiación difusa del cielo como para que las sombras no parezcan particularmente oscuras. Marte se encuentra a una y media unidades (1,524 Unidades Astronómicas) y la luminosidad es en su superficie menos de la mitad (0,431) comparada con la terrestre, que se toma como 1,0. 
+La atmósfera marciana ha sufrido un proceso de evolución considerable por lo que es una atmósfera de segunda generación.​ La atmósfera primigenia, formada poco después que el planeta, ha dado paso a otra, cuyos elementos provienen de su actividad geológica. Así, el vulcanismo vierte a la atmósfera determinados gases, entre los cuales predominan el gas carbónico y el vapor de agua. El primero queda en la atmósfera, en tanto que el segundo tiende a congelarse en el suelo frío. El nitrógeno y el oxígeno no son producidos en Marte más que en ínfimas proporciones. Por el contrario, el argón es relativamente abundante en la atmósfera marciana. Esto no es de extrañar: los elementos ligeros de la atmósfera (hidrógeno, helio, etc.) son los que más fácilmente se escapan en el espacio interplanetario dado que sus átomos y moléculas alcanzan la velocidad de escape; los gases más pesados acaban por combinarse con los elementos del suelo; el argón, aunque ligero, es lo bastante pesado como para que su escape hidrodinámico hacia el espacio interplanetario sea difícil y, por otra parte, al ser un gas neutro o inerte, no se combina con los otros elementos por lo que va acumulándose con el tiempo.
+
+En los inicios de su historia Marte pudo haber sido muy parecido a la Tierra. Al igual que en nuestro planeta la mayor parte de su dióxido de carbono se utilizó para formar carbonatos en las rocas. Pero al carecer de una tectónica de placas es incapaz de reciclar hacia la atmósfera nada de este dióxido de carbono y así no puede mantener un efecto invernadero significativo.
+No existe cinturón de radiación, aunque sí una débil ionosfera que tiene su máxima densidad electrónica a 130 km de altura.
+La atmósfera de Marte escapa al espacio exterior lentamente, pero de forma continua, a lo largo del tiempo. La principal causa de este escape es el viento solar. Al no existir un campo magnético significativo, las partículas cargadas eléctricamente del viento solar penetran en la atmósfera. El magnetismo de estas partículas interactúa con los iones de la atmósfera y les da suficiente aceleración como para que algunas logren la velocidad de escape y abandonen el planeta. También golpean las partículas neutras, dándoles también una aceleración semejante en algunos casos. En 2015 la sonda espacial MAVEN midió la tasa de pérdida de la atmósfera, y el resultado fue que cada segundo escapa al espacio exterior más de 100 gramos de la atmósfera de Marte, siendo entre 10 y 20 veces superior la pérdida durante las erupciones solares.​
+Aunque no hay evidencia de actividad volcánica actual, recientemente la nave europea Mars Express y medidas terrestres obtenidas por el telescopio Keck desde la Tierra han encontrado trazas de gas metano en una proporción de 10 partes por 1000 millones. Este gas solamente puede tener un origen volcánico o biológico. El metano no puede permanecer mucho tiempo en la atmósfera; se estima en 400 años el tiempo que tarda en desaparecer de la atmósfera de Marte, lo que implica que hay una fuente activa que lo produce. La pequeña proporción de metano detectada, muy poco por encima del límite de sensibilidad instrumental, impide por el momento dar una explicación clara de su origen, ya sea volcánico y/o biológico.​ La misión del aterrizador Mars Science Laboratory (Curiosity) incluye equipo para comparar las proporciones de los isótopos C-12, C-13 y C-14, presentes en dióxido de carbono y en metano, para así determinar el origen de este último.
+
+
+El agua en Marte
+
+El agua en estado líquido, bajo las actuales condiciones, no puede existir en Marte debido a la baja presión atmosférica, que es menos del 1% de la Tierra,​ excepto en las superficies más bajas por periodos cortos.​​ Los dos casquetes polares parecen estar formados en gran parte por agua.​​ El volumen de agua helada del casquete polar sur sería suficiente, si se derritiera, como para cubrir toda la superficie del planeta con una profundidad de 11 m.​ Un manto permafrost se extiende desde el polo hasta latitudes de unos 60°.​ Se cree que grandes cantidades de agua helada están atrapadas en la gruesa capa de la criosfera de Marte. Los datos de los radares de la Mars Express y de la Mars Reconnaissance Orbiter mostraron grandes cantidades de agua helada en ambos polos (julio de 2005)​ y en latitudes medias (noviembre de 2008).​ La sonda Phoenix tomó directamente muestras de agua helada en la superficie del suelo de Marte el 31 de julio de 2008.​
+Un estudio publicado en septiembre de 2013, basado en los datos recopilados por el rover Curiosity, afirma que en la superficie de Marte habría entre un 1.5 y un 3 % de agua.​ No obstante, hoy día este cálculo se queda corto y se contempla como erróneo o susceptible de revisión después del anuncio en 2006 y la confirmación en 2015 por la NASA, de la presencia de agua líquida en la superficie de Marte que aparece estacionalmente en ciertas regiones del planeta.​​
+A lo largo del tiempo se han realizado numerosos descubrimientos de indicios que sugieren la probable existencia de agua líquida en el pasado. Un estudio publicado en 2015 por la NASA concluyó que hace 4300 millones de años, y durante 1500 millones de años,​ el planeta tuvo un extenso océano en el hemisferio norte​ con un volumen mayor que el del Ártico,​ suficiente para cubrir todo el territorio marciano con 130 m de agua.​
+
+En las imágenes tomadas por la sonda orbital Mars Reconnaissance Orbiter se detectaron vetas superficiales descendentes con variaciones estacionales en las colinas marcianas, lo que se interpretó como el indicio más prometedor de la existencia de corrientes de agua líquida en el planeta.​ El 14 de febrero de 2014, en fotografías tomadas por los orbitadores marcianos, se observaron pruebas de que existen flujos de agua en las llamadas líneas de pendiente recurrentes (RSL, siglas en inglés).​ El 28 de septiembre de 2015, durante una rueda de prensa, la NASA anunció que había hallado pruebas sólidas de que agua líquida, probablemente mezclada con sales percloradas, fluye intermitentemente por la superficie de Marte.​
+En diciembre de 2013 se anunció la posibilidad de que hace unos 3600 millones de años, en la denominada Bahía Yellowknife, en el cráter Gale, cerca del ecuador del planeta, habría existido un lago de agua dulce que pudo albergar algún tipo de vida microbiana.​
+La posibilidad de que haya agua en Marte está condicionada por varios aspectos físicos. El punto de ebullición depende de la presión y si esta es excesivamente baja, el agua no puede existir en estado líquido. Eso es lo que ocurre en Marte: si el planeta tuvo abundantes cursos de agua fue porque contaba también con una atmósfera mucho más densa que proporcionaba también temperaturas más elevadas. Al disiparse la mayor parte de esa atmósfera en el espacio, y disminuir así la presión y bajar la temperatura, el agua desapareció de la superficie de Marte. Ahora bien, subsiste en la atmósfera, en estado de vapor, aunque en escasas proporciones, así como en los casquetes polares, constituidos por grandes masas de hielos perpetuos.
+Todo permite suponer que entre los granos del suelo existe agua congelada, fenómeno que, por lo demás, es común en las regiones muy frías de la Tierra. En torno a ciertos cráteres marcianos se observan unas formaciones en forma de lóbulos, cuya formación solamente puede ser explicada admitiendo que el suelo de Marte está congelado. También se dispone de fotografías de otro tipo de accidente del relieve perfectamente explicado por la existencia de un gelisuelo. Se trata de un hundimiento del suelo de cuya depresión parte un cauce seco con la huella de sus brazos separados por bancos de aluviones.
+Se encuentra también en paredes de cráteres o en valles profundos donde no incide nunca la luz solar, accidentes que parecen barrancos formados por torrentes de agua y los depósitos de tierra y rocas transportados por ellos. Solo aparecen en latitudes altas del hemisferio sur.
+La comparación con la geología terrestre sugiere que se trata de los restos de un suministro superficial de agua similar a un acuífero. De hecho, la sonda Mars Reconnaissance Orbiter ha detectado grandes glaciares enterrados con extensiones de docenas de kilómetros y profundidades del orden de un kilómetro, los cuales se extienden desde los acantilados y las laderas de las montañas y que se hallan a latitudes más bajas de lo esperado. Esa misma sonda también ha descubierto que el hemisferio norte de Marte tiene un mayor volumen de agua helada.​
+Otra prueba a favor de la existencia de grandes cantidades de agua en el pasado marciano, en la forma de océanos que cubrían una tercera parte del planeta, ha sido obtenida por el espectrómetro de rayos gamma de la sonda Mars Odyssey, el cual ha delimitado lo que parecen ser las líneas de costa de dos antiguos océanos.​
+También subsiste agua marciana en la atmósfera del planeta, aunque en proporción tan ínfima (0.01 %) que, de condensarse totalmente sobre la superficie de Marte, formaría sobre ella una película líquida cuyo espesor sería aproximadamente de la centésima parte de un milímetro. A pesar de su escasez, ese vapor de agua participa de un ciclo anual. En Marte, la presión atmosférica es tan baja que el vapor de agua se solidifica en el suelo, en forma de hielo, a la temperatura de −80 °C. Cuando la temperatura se eleva de nuevo por encima de ese límite, el hielo se sublima, convirtiéndose en vapor sin pasar por el estado líquido.
+El análisis de algunas imágenes muestra lo que parecen ser gotas de agua líquida que salpicaron las patas de la sonda Phoenix tras su aterrizaje.​
+
+
+Casquetes polares
+
+La superficie del planeta presenta diversos tipos de formaciones permanentes, entre las cuales las más fáciles de observar son dos grandes manchas blancas situadas en las regiones polares, una especie de casquetes polares del planeta. Cuando llega la estación fría, el depósito de hielo perpetuo empieza por cubrirse con una capa de escarcha debido a la condensación del vapor de agua atmosférico. Luego, al seguir bajando la temperatura desaparece el agua congelada bajo un manto de nieve carbónica que sobrepasa el casquete polar hasta rebasar a veces el paralelo de los 60°. Ello es así porque se congela parte de la atmósfera de CO2. Recíprocamente en el hemisferio opuesto, la primavera hace que la temperatura suba por encima de −120 °C, lo cual provoca la sublimación de la nieve carbónica y el retroceso del casquete polar; luego, cuando el termómetro se eleva a más de −80 °C, se sublima, a su vez, la escarcha; solo subsisten entonces los hielos permanentes, pero ya el frío vuelve y estos no sufrirán una ablación importante.
+La masa de hielo perpetuo tiene un tamaño de unos 100 km de diámetro y unos 10 m de espesor. Así pues los casquetes polares están formados por una capa muy delgada de hielo de CO2 («hielo seco») y quizá debajo del casquete Sur haya hielo de agua. En cien años de observación el casquete polar Sur ha desaparecido dos veces por completo, mientras el Norte no lo ha hecho nunca.
+Los casquetes polares muestran una estructura estratificada con capas alternas de hielo y distintas cantidades de polvo oscuro.
+La masa total de hielo del casquete polar Norte equivale a la mitad del hielo que existe en Groenlandia. Además el hielo del polo Norte de Marte se asienta sobre una gran depresión del terreno estando cubierto por «hielo seco».
+El 19 de junio de 2008 la NASA afirmó que la sonda Phoenix debió haber encontrado hielo al realizar una excavación cerca del Polo Norte de Marte. Unos trozos de material sublimaron después de ser descubiertos el 15 de junio por un brazo de robot.​​
+El 31 de julio de 2008 la NASA confirmó que una de las muestras de suelo marciano introducidas en uno de los hornos del TEGA (Thermal and Evolved-Gas Analyzer), un instrumento que forma parte de la sonda, contenía hielo de agua.​
+
+
+Géiseres en el polo sur
+
+Durante 1998‑1999 el sistema orbital Mars Global Surveyor de la NASA detectó manchas oscuras en las dunas de la capa de hielo del polo sur, entre las latitudes 60°‑80°. La peculiaridad de estas manchas es que el 70% de ellas recurre anualmente en el mismo lugar del año anterior. Las manchas de las dunas aparecen al principio de cada primavera y desaparecen al principio de cada invierno, por lo que un equipo de científicos de Budapest ha propuesto que estas manchas podrían ser de origen biológico y de carácter extremófilo.​​
+Por su parte, la NASA ha concluido que las manchas son producto de erupciones frías de géiseres, los cuales son alimentados no por energía geotérmica sino por energía solar. Científicos de la NASA explican que la luz del sol calienta el interior del hielo polar y lo sublima a una profundidad máxima de un metro, creando una red de túneles horizontales con gas de dióxido de carbono (CO2) bajo presión. Finalmente, el gas escapa por una fisura y acarrea consigo partículas de arena basáltica a la superficie.​​​​​
+
+
+Climatología
+
+No se dispone todavía de datos suficientes sobre la evolución térmica marciana. Por hallarse Marte mucho más lejos del Sol que la Tierra, sus climas son más fríos, y tanto más por cuanto la atmósfera, al ser tan tenue, retiene poco calor: de ahí que la diferencia entre las temperaturas diurnas y nocturnas sea más pronunciada que en nuestro planeta. A ello contribuye también la baja conductividad térmica del suelo marciano.
+La temperatura en la superficie depende de la latitud y presenta variaciones estacionales. La temperatura media superficial es de unos 218 K (−55 °C). La variación diurna de las temperaturas es muy elevada como corresponde a una atmósfera tan tenue. Las máximas diurnas, en el ecuador y en verano, pueden alcanzar los 20 °C o más, mientras las mínimas nocturnas pueden alcanzar fácilmente −80 °C. En los casquetes polares, en invierno las temperaturas pueden bajar hasta −130 °C.[cita requerida]
+Pueden surgir de repente enormes tormentas de polvo, que persisten durante semanas e incluso meses, oscureciendo todo el planeta, que están causadas por vientos de más de 150 km/h. y pueden alcanzar dimensiones planetarias.
+Durante un año marciano parte del CO2 de la atmósfera se condensa en el hemisferio donde es invierno, o se sublima del polo a la atmósfera cuando es verano. En consecuencia la presión atmosférica tiene una variación anual.
+
+
+Las estaciones en Marte
+
+Al igual que en la Tierra, el ecuador marciano está inclinado respecto al plano de la órbita en un ángulo de 25.19°. La primavera comienza en el hemisferio Norte en el equinoccio de primavera cuando el Sol atraviesa el punto Vernal pasando del hemisferio Sur al Norte (Ls = 0 y creciendo). En el caso de Marte esto tiene también un sentido climático. Los días y las noches duran igual y comienza la primavera en el hemisferio Norte. Esta dura hasta que Ls = 90° solsticio de verano en que el día tiene una duración máxima en el hemisferio Norte y mínima en el Sur.
+Análogamente, Ls = 90°, 180°, y 270° indican para el hemisferio Norte el solsticio de verano, equinoccio otoñal, y el solsticio invernal, respectivamente mientras que en el hemisferio Sur es al revés. Por ser la duración del año marciano aproximadamente el doble que el terrestre, también lo es la duración de las estaciones.
+La diferencia entre sus duraciones es mayor porque la excentricidad de la órbita marciana es mucho mayor que la terrestre. La comparación con las estaciones terrestres muestra que, así como la duración de estas difiere a lo sumo en 4.5 días (excentricidad de menos de un 2 %), en Marte, debido a la gran excentricidad de la órbita, la diferencia llega a ser primeramente de 51 días (excentricidad de casi un 10 %).
+Actualmente el hemisferio Norte goza de un clima más benigno que el hemisferio Sur. La razón es evidente: el hemisferio Norte tiene otoños e inviernos cortos y además cuando el Sol está en el perihelio lo cual, dada la excentricidad de la órbita del planeta, hace que sean más benignos. Además la primavera y el verano son largos, pero estando el Sol en el afelio son más fríos que los del hemisferio Sur. Para el hemisferio Sur la situación es la inversa. Hay pues una compensación parcial entre ambos hemisferios debido a que las estaciones de menos duración tienen lugar estando el planeta en el perihelio y recibe más luz y calor del Sol. Debido a la retrogradación del punto Vernal y al avance del perihelio, la situación se va decantando cada vez más.
+
+
+Clima marciano en el pasado
+Hay un gran debate respecto a la historia pasada de Marte. Para unos Marte albergó en un pasado grandes cantidades de agua y tuvo un pasado cálido, con una atmósfera mucho más densa, y agua fluyendo por la superficie y excavando los grandes canales que surcan su superficie.
+La orografía de Marte presenta un hemisferio norte que es una gran depresión y donde los partidarios del Marte húmedo sitúan el Oceanus Borealis, un mar cuyo tamaño sería similar al mar Mediterráneo.
+El agua de la atmósfera marciana posee cinco veces más deuterio que el de la Tierra.​​ Esta anomalía, también registrada en Venus, se interpreta como que los dos planetas tenían mucha agua en el pasado pero que acabaron perdiéndola, pues el agua de mayor peso tiene mayor tendencia a permanecer en el planeta y no perderse en el espacio.
+Los recientes descubrimientos del robot de la NASA Opportunity, avalan la hipótesis de un pasado húmedo.
+A finales de 2005 surgió la polémica sobre las interpretaciones dadas a determinadas formaciones de rocas que exigían la presencia de agua, proponiéndose una explicación alternativa que rebajaba la necesidad de agua a cantidades mucho menores y reducía el gran mar o lago ecuatorial a una simple charca donde nunca había existido más de un palmo de agua salada. Algunos científicos han criticado el hecho de que la NASA solamente investigara en una dirección buscando evidencias de un Marte húmedo y descartando las demás hipótesis.
+Así pues, tendríamos en Marte tres eras. Durante los primeros 1000 millones de años un Marte calentado por una atmósfera que contenía gases de efecto invernadero suficientes para que el agua fluyese por la superficie y se formaran arcillas, la era Noeica, que sería el antiguo reducto de un Marte húmedo y capaz de albergar vida. La segunda era duró de los 3800 a los 3500 millones de años y en ella ocurrió el cambio climático. La era más reciente y larga, que dura casi toda la historia del planeta y que se extiende de los 3500 millones de años a la actualidad, con un Marte tal como lo conocemos hoy, frío y seco.[cita requerida]
+En resumen, el paradigma de un Marte húmedo que explicaría los accidentes orográficos de Marte está dejando paso al paradigma de un Marte seco y frío donde el agua ha tenido una importancia mucho más limitada.
+
+
+Traslación y rotación
+La distancia media entre Marte y el Sol es aproximadamente 230 millones de kilómetros, y su periodo orbital es 687 días terrestres. El día solar de Marte es solo un poco mayor que el de la Tierraː 24 horas, 39 minutos y 35.244 segundos.​ Un año en Marte equivale a 1.8809 años terrestres, o 1 año, 320 días y 18.2 horas.​
+
+
+Órbita
+La inclinación axial de Marte es de 25.19° con respecto a su plano orbital, similar a la inclinación axial de la Tierra.​ En consecuencia, Marte tiene estaciones como la Tierra, aunque allí son casi el doble de largas debido a que su periodo orbital es mucho mayor. En la actualidad, la orientación del polo norte marciano es parecido a la de la estrella Deneb.​
+Marte tiene una excentricidad orbital relativamente pronunciada de aproximadamente 0.09​ entre su afelio y su perihelio, la distancia del planeta al Sol difiere en unos 42.4 millones de kilómetros. De los restantes planetas del sistema solar solo Mercurio presenta una excentricidad orbital mayor. Este efecto tiene una gran influencia en el clima marciano; la diferencia de distancias al Sol causa una variación de temperatura de unos 30 °C en el punto subsolar entre el afelio y el perihelio. Gracias a las excelentes observaciones de Tycho Brahe, Kepler se dio cuenta de esta separación y llegó a descubrir la naturaleza elíptica de las órbitas planetarias, consideradas hasta entonces como circulares. Se sabe que en el pasado la órbita de Marte era mucho más circular. Hace 1.35 millones de años terrestres, la excentricidad orbital de Marte era de apenas 0.002, muy inferior a la de la Tierra en la actualidad.​
+
+
+Distancia entre Marte y la Tierra
+La distancia entre Marte y la Tierra varía según sus posiciones relativas. Las mayores distancias, de unos 399 millones de kilómetros, ocurren cuando los planetas están en conjunción, es decir, que el sol se encuentra entre ellos. El diámetro aparente de Marte es reducido, tan solo unos 3.5″. Las menores distancia, entre 90 y 56 millones de kilómetros, ocurren en un intervalo de ± 8½ días respecto a la oposición entre ellos.​ Cuando la distancia es menor a los 60 millones de kilómetros, el diámetro aparente de Marte es de 25″, alcanzando una magnitud de −2.8, siendo entonces el planeta más brillante con excepción de Venus. Dada la pequeñez del globo marciano, su observación telescópica presenta interés especialmente entre los períodos que preceden y siguen a las oposiciones.
+El 27 de agosto de 2003, Marte realizó su mayor acercamiento a la Tierra en aproximadamente 60 000 años, a tan solo 55.76 millones de kilómetros. La última vez que había estado tan cerca, según los cálculos del astrónomo italiano Dr. Aldo Vitagliano, fue en el año 57 617 a. C., y la próxima vez que Marte esté más cerca que lo que estuvo en el año 2003 será el 28 de agosto de 2287.
+En general, en sus órbitas alrededor del Sol, la Tierra se adelanta a Marte una vez cada 780 días (26 meses). Las últimas oposiciones de Marte sucedieron el 8 de abril de 2014,​ el 22 de mayo de 2016, y el 27 de julio de 2018. La menor distancia entre los planetas para esa oposición fue de 57.28 millones de kilómetros y ocurrió cinco días después, el 31 de julio de 2018.
+
+
+Rotación
+
+Se conoce con exactitud lo que tarda la rotación de Marte debido a que las manchas que se observan en su superficie, oscuras y bien delimitadas, son excelentes puntos de referencia. Fueron observadas por primera vez en 1659 por Christiaan Huygens que asignó a su rotación la duración de un día. En 1666, Giovanni Cassini la fijó en 24 h 40 min, valor muy aproximado al verdadero. Trescientos años de observaciones de Marte han dado por resultado establecer el valor de 24 h 37 min 22.7 s para el día sideral (el periodo de rotación de la Tierra es de 23 h 56 min 4.1 s. ).
+Marte rota en sentido antihorario, al igual que la Tierra.​
+De la duración del día sideral se deduce que el día solar tiene en Marte una duración de 24 h 39 min 35.3 s. El día solar medio o tiempo entre dos pasos consecutivos del Sol medio por el meridiano del lugar, dura 24 h 41 min 18.6 s. El día solar en Marte tiene, igual que el de la Tierra, una duración variable. No obstante, en Marte la variación es mayor por su elevada excentricidad. La rotación de Marte es cada vez más rápida, sin que se haya podido averiguar su causa.​
+Para mayor comodidad operativa, los responsables de las misiones estadounidenses de exploración de Marte mediante sondas robóticas han decidido unilateralmente dar al día marciano el nombre de sol, pese a tener otros significados en otros idiomas (‘suelo’ en francés, o el nombre de nuestra estrella en español).
+
+
+Traslación
+El año marciano dura 1 año, 321 días y 7 horas terrestres, o 668.6 días marcianos.
+
+
+Oblicuidad orbital
+Los polos de Marte están señalados por dos casquetes polares de color blanco deslumbrante, que han facilitado mucho la determinación del ángulo que forma el ecuador del planeta con el plano de su órbita, ángulo equivalente para Marte a la oblicuidad de la eclíptica en la Tierra. Las medidas realizadas por Camichel sobre fotografías obtenidas por el observatorio francés del Pic du Midi, han dado para este ángulo 24°48′. Desde la exploración espacial se acepta un valor de 25.19°[cita requerida], un poco mayor que la oblicuidad de la eclíptica (23°27′), motivo por el cual Marte tiene períodos estacionales similares a los de la Tierra, aunque sus estaciones son más largas, dado que un año marciano es casi el doble de largo que un año terrestre.
+
+
+Periodo orbital sinódico
+Es el periodo de su ciclo sinódico o periodo que transcurre entre dos oposiciones con la Tierra. El promedio es de 779.96 días o 780 días (prácticamente 111 semanas) durante los que la Tierra da dos órbitas y el 14 % de otra, y Marte una y el 14 % de otra. Tal es el promedio de 7 intervalos de 7 oposiciones cada 14.9 años (15 años menos 2 semanas). Los intervalos son irregulares, lo cual se debe a que la órbita marciana es muy excéntrica, con lo que su velocidad de traslación es muy variable y cada paso de la Tierra por delante de Marte (oposición de Marte visto desde la Tierra) ocurre con semanas de adelanto o de retraso. La diferencia ente la duración máxima y mínima de sus ciclos sinódicos llega a ser de prácticamente 6 semanas, más un ciclo sinódico de la Luna. Esto permite a que a veces ocurra la coincidencia de que el ciclo sinódico marciano sincronice con el ciclo sinódico lunar, o que dos oposiciones consecutivas de Marte coincidan en fase llena de la Luna, como por ejemplo las del 21 de mayo de 2016 y el 27 de julio de 2018 que ocurren entre 797 días que son exactamente 27 meses lunares.
+El periodo sinódico de Marte es usado en la astronomía maya en relación con dos ciclos: el Tzolkin y el Ahau. El periodo equivale tres ciclos de 260 días, lo que en términos mayas son 3 Tzolkin, denominado 'Calendario Sagrado'. También, uno de los subciclos del ciclo maya es el Ahau de 93 600 días (360 Tzolkin) que son exactamente 120 periodos de 780 días, es decir 120 ciclos sinódicos de Marte. A su vez el Ahau es la 20.ª parte de la Cuenta Larga (5.ª parte del ciclo completo y 1800 Tzolkin) con lo que cada Cuenta Larga equivale a 2400 ciclos sinódicos. A su vez, la Cuenta Larga es la 5.ª parte del ciclo maya, con lo que durante este —100 ciclos Ahau— ocurren 12 000 ciclos sinódicos de Marte.
+
+
+Satélites naturales
+
+Marte posee dos pequeños satélites naturales, llamados Fobos y Deimos, cuyas órbitas están muy próximas al planeta. Se cree que son dos asteroides capturados. Ambos fueron descubiertos en 1877 por Asaph Hall.
+Sus nombres le fueron puestos en honor a los dos personajes de la mitología griega que acompañaban a Ares (Marte para la mitología romana).
+Desde la superficie de Marte, Deimos, el más lejano y pequeño, sale por el Este como la Luna. Sin embargo, Fobos, más grande y cercano, se mueve alrededor del planeta más rápidamente de lo que el mismo planeta rota. Por este motivo aparece en el occidente, se mueve comparativamente, en forma rápida a través del cielo (en 4 horas 15 minutos o menos) y se pone por el Este, aproximadamente dos veces por cada día marciano (cada 11 horas y 6 minutos).
+
+
+Asteroides troyanos
+Marte posee, como Júpiter, algunos asteroides troyanos en los puntos de Lagrange L4 y L5; los tres asteroides reconocidos oficialmente por la Unión Astronómica Internacional y el Centro de Planetas Menores son: 5261 Eureka, 101429 VF31 y el 121514 UJ7. También se han descubierto en Marte los siguientes asteroides troyanos: 1999 UJ7 (en el punto L 4), 1998 VF31, 2001 DH47, 2001 FG24, y 2001 FR127 (en el punto L 5). Los asteroides coorbitales 1998 QH56 y 1998 SD4 no se consideran como troyanos porque no son estables y serán alejados por la gravitación de Marte en los próximos 500 000 años.
+
+
+Vida
+
+Hasta ahora no se ha encontrado indicio de vida tal como la conocemos en Marte, los Rovers Perseverance y Curiosity no han hallado pruebas de ello, por lo que se le considera un planeta estéril.​  La esperanza hoy por hoy radica en hallar indicios de vida en épocas primigenias del planeta rojo.
+Las teorías actuales que predicen las condiciones en las que se puede encontrar vida requieren la disponibilidad de agua en estado líquido, por lo que es tan importante su búsqueda. Un estudio publicado en 2015 por la NASA concluyó que hace 4300 millones de años y durante 1500 millones de años,​ el planeta tuvo un extenso océano en el hemisferio norte,​ con un volumen mayor que el del Ártico,​ suficiente para cubrir todo el territorio marciano con 130 m de profundidad.​
+En 2003 fueron detectadas trazas de gas metano en la atmósfera del planeta,​​​​​ lo cual es considerado un misterio, ya que bajo las condiciones atmosféricas de Marte y la radiación solar, el metano es inestable y desaparece después de varios años, lo que indicaría que debe de existir en Marte una fuente productora de metano que mantiene esa concentración en su atmósfera y que produce un mínimo de 150 toneladas de metano cada año.​​ La sonda Mars Science Laboratory (conocida por su apodo «Curiosity») incluye un espectrómetro de masas que busca medir la diferencia entre 14C y 12C para determinar si el metano es de origen biológico o geológico.​
+No obstante, en el pasado existió agua líquida en abundancia y una atmósfera más densa y protectora; estas son las condiciones que se creen más favorables para que se hubiera desarrollado la vida en Marte. El meteorito ALH84001, que se considera originario de Marte, fue encontrado en la Antártida en diciembre de 1984 por un grupo de investigadores del proyecto ANSMET y algunos investigadores consideran que las formas regulares podrían ser microorganismos fosilizados.​​​
+
+
+Observación
+
+Christiaan Huygens hizo las primeras observaciones de áreas oscuras en la superficie de Marte en 1659 y también fue uno de los primeros en detectar los casquetes polares. Otros astrónomos que contribuyeron al estudio de Marte fueron G. Cassini (calculó en 1666 la rotación del planeta en 24 horas y 40 minutos y en 1672 dedujo la existencia de una atmósfera en el planeta), W. Herschel (descubrió la oblicuidad del eje de rotación de Marte y observó nubes marcianas), y J. Schroeter.
+
+En 1837, los astrónomos alemanes Beer y Mädler publicaron el primer mapamundi de Marte, con datos obtenidos de sus observaciones telescópicas, al que seguirían los del británico Dawes a partir de 1852.
+El año 1877 Marte presentó una posición muy cercana a la Tierra, por lo que fue un año clave para los estudios del planeta. El astrónomo estadounidense A. Hall descubrió los satélites Fobos y Deimos, mientras el astrónomo italiano G. Schiaparelli se dedicó a cartografiar cuidadosamente Marte; en efecto, hoy en día, se usa la nomenclatura inventada por él para los nombres de las regiones marcianas (Syrtis Major; Mare Tyrrhenum; Solis Lacus, etc.). Schiaparelli también creyó observar unas líneas finas en Marte, a las cuales bautizó como canali (‘canales’).
+Sin embargo, esta última palabra fue traducida al inglés como canals, palabra que implica algo artificial, lo que despertó la imaginación de mucha gente, especialmente las del astrónomo C. Flammarion y del aristócrata P. Lowell. Estos se dedicaron a especular con la posibilidad de vida en Marte, los marcianos. Lowell estaba tan entusiasmado con esta idea que construyó en 1894 su propio observatorio en Flagstaff, Arizona, para estudiar el planeta. Sus observaciones lo convencieron de que no solo había vida en Marte, sino que era vida inteligente: Marte era un planeta que se estaba secando y una sabia y antigua civilización marciana había construido esos canales para drenar agua de los casquetes polares y enviarla hacia las sedientas ciudades.
+Sin embargo, el gran astrónomo barcelonés Josep Comas i Solà, basándose un sus propias observaciones, fue uno de los primeros astrónomos de prestigio de todo mundo que defendió que en realidad los canales marcianos de Schiaparelli no existían. Primero en artículos científicos como el publicado en 1901 en el Bulletin de la Société Astronomique de France y más tarde también en artículos de prensa, como el publicado el 16 de agosto de 1903 en el diario barcelonés La Vanguardia​, en donde decía: «[…] Inútil es, pues, que perdamos el tiempo en torturar nuestra imaginación, buscando hipótesis que nos den cuenta más o menos satisfactoria de los canales de Marte. Estos, por lo menos en el sentido con que se habían aceptado hasta ahora, no existen. Existirán detalles que en sus líneas generales ofrecerán cierto aspecto geométrico, pero esto ya lo observamos en nuestro propio planeta, y obedece solo a leyes naturales, ya sean geológicas, mecánicas, cristalográficas, etcétera, sin intervenir en ello para nada los trabajos humanos […]». Posteriormente, el otro gran astrónomo que también refutó la existencia de los canales, basándose en las precisas observaciones que realizó con el telescopio de 83 cm del Observatorio de Meudon en la oposición de 1909, fue el francés Eugène Antoniadi.
+Con el paso del tiempo el furor de los canales marcianos se fue disipando, ya que muchos astrónomos ni siquiera podían verlos; de hecho, los canales fueron una ilusión óptica. Hacia los años 1950 ya casi nadie creía en civilizaciones marcianas, pero muchos estaban convencidos de que sí que había vida en Marte en forma de musgos y líquenes primitivos, hecho que se puso en duda cuando Marte fue visitado por primera vez por una nave espacial en 1965.
+
+
+Exploración
+
+La primera sonda que visitó Marte fue la soviética Mars 1, que pasó a 193 000 km de Marte el 19 de junio de 1963, sin conseguir enviar información.
+
+La Mariner 4 en 1965 sería la primera en transmitir desde sus cercanías. Junto a las Mariner 6 y 7 que llegaron a Marte en 1969 solamente consiguieron observar un Marte lleno de cráteres y parecido a la Luna. Fue la Mariner 9 la primera sonda que consiguió situarse en órbita marciana. Realizó observaciones en medio de una espectacular tormenta de polvo y fue la primera en atisbar un Marte con canales que parecían redes hídricas, vapor de agua en la atmósfera, y que sugería un pasado de Marte diferente. La primera nave en aterrizar y transmitir desde Marte fue la soviética Mars 3, que tocó la superficie a 45°S y 158°O a las 13:50:35 GMT del 2 de diciembre de 1971. Posteriormente lo harían las Viking 1 y Viking 2 en 1976. La NASA concluyó como negativos el resultado de sus experimentos biológicos.
+El 4 de julio de 1997, la Mars Pathfinder aterrizó con pleno éxito en Marte y probó que era posible que un pequeño robot se pasease por el planeta. En 2004 una misión científicamente más ambiciosa llevó a dos robots, Spirit y Opportunity, que aterrizaron en dos zonas de Marte diametralmente opuestas para analizar las rocas en busca de agua, encontrando indicios de un antiguo mar o lago salado.
+La Agencia Espacial Europea (ESA) lanzó la sonda Mars Express en junio de 2003, que actualmente orbita en Marte. A este último satélite artificial de Marte se le suma la nave de la NASA Mars Odyssey, en órbita alrededor de Marte desde octubre de 2001. La NASA lanzó el 12 de agosto de 2005 la sonda Mars Reconnaissance Orbiter, que llegó a la órbita de Marte el 10 de marzo de 2006 y tiene como objetivos principales la búsqueda de agua, pasada o presente, y el estudio del clima.
+El 25 de mayo de 2008, la sonda Phoenix aterrizó cerca del polo norte de Marte; su objetivo primario fue desplegar su brazo robótico y hacer prospecciones a diferentes profundidades para examinar el subsuelo, determinar si hubo o pudo haber vida en Marte, caracterizar el clima de Marte, estudiar la geología de Marte y efectuar estudios de la historia geológica del agua, factor clave para descifrar el pasado de los cambios climáticos del planeta.
+El 26 de noviembre de 2011, fue lanzada la Mars Science Laboratory (abreviada MSL), conocida como Curiosity. Se trata de una misión espacial que incluye un astromóvil de exploración marciana dirigido por la NASA y que se centra en colocar sobre la superficie marciana un vehículo explorador de tipo rover. Este vehículo será tres veces más pesado y dos veces más grande que los vehículos utilizados en la misión Mars Exploration Rover, que aterrizaron sobre Marte en el año 2004, y portará los instrumentos científicos más avanzados. La comunidad internacional proporcionará algunos de estos instrumentos y se tiene planeado lanzarlo a través de un cohete Atlas V 541. Después de aterrizar, el rover tomará docenas de muestras de suelo y polvo rocoso marciano para su análisis. La duración de la misión será de un año marciano (1.88 años terrestres), y con un rango de exploración superior a los enviados anteriormente, investigará la capacidad pasada y presente de Marte para alojar vida.​
+El día 6 de agosto de 2012, ocho meses después de su lanzamiento, el Curiosity aterrizó en la superficie de Marte, concretamente en el cráter Gale, tras pasar por los denominados 7 minutos del pánico, periodo de tiempo durante el cual el Curiosity atravesó la atmósfera de Marte y durante los cuales el equipo técnico encargado de supervisar el viaje no pudo hacer nada, debido al retraso de 14 minutos experimentado por las señales emitidas por el rover antes de llegar a la Tierra desde Marte.​
+
+
+Meteoritos
+Desde 2008 la NASA mantiene un catálogo de 57 meteoritos considerados provenientes de Marte y recuperados en varios países.​ Estos son extremadamente valiosos ya que son las únicas muestras físicas de Marte disponibles para analizar. Los tres meteoritos listados a continuación exhiben características que algunos investigadores consideran indicios de posibles moléculas orgánicas naturales o probables fósiles microscópicos:
+
+
+Meteorito ALH84001
+
+El meteorito ALH84001 fue encontrado en la Antártida en diciembre de 1984 por un grupo de investigadores del proyecto ANSMET y pesa 1.93 kg.​ Algunos investigadores asumen que las formas regulares podrían ser microorganismos fosilizados, similares a los nanobios o nanobacterias.​​​ En él se ha detectado contenido de una magnetita que en la Tierra solamente se encuentra en relación con ciertos microorganismos.​
+
+
+Meteorito Nakhla
+
+El meteorito Nakhla, proveniente de Marte, cayó en la Tierra en 28 de junio de 1911, aproximadamente a las 09:00 AM en la localidad de Nakhla, Alejandría, Egipto.​​
+Un equipo de la NASA, de la división de Johnson Space Center, obtuvo una pequeña muestra de este meteorito en marzo de 1998, la cual fue analizada por medio de microscopía óptica y un microscopio electrónico y otras técnicas para determinar su contenido; los investigadores observaron partículas esféricas de tamaño homogéneo.​ Asimismo, realizaron análisis mediante cromatografía de gases y espectrometría de masas, (GC-MS) para estudiar los hidrocarburos aromáticos de alto peso molecular. Además, se identificaron en el interior «estructuras celulares y secreciones exopolimericas». Los científicos de la NASA concluyeron que «al menos un 75 % del material orgánico no puede ser contaminación terrestre».​​
+Esto causó interés adicional por lo que en 2006, la NASA pidió una muestra más grande del meteorito Nakhla al Museo de Historia Natural de Londres. En este segundo espécimen, se observó un alto contenido de carbón en forma de ramificaciones. Al publicarse las imágenes respectivas en 2006, se abrió un debate por parte de investigadores independientes que consideran la posibilidad de que el carbón sea de origen biológico. Sin embargo, otros investigadores han recalcado que el carbón es el cuarto elemento más abundante del Universo, por lo que encontrarlo en curiosas formas o patrones, no sugiere la posibilidad de origen biológico.​​
+
+
+Meteorito Shergotty
+El meteorito Shergotty, de origen marciano y con masa de 4 kg, cayó en Shergotty, India el 25 de agosto de 1865, donde testigos lo recuperaron inmediatamente.​ Está compuesto de piroxeno y se calcula que fue formado en Marte hace 165 millones de años, y fue expuesto y transformado por agua líquida durante muchos años. Ciertas características de este meteorito sugieren la presencia de restos de membranas o películas de posible origen biológico, pero la interpretación de sus formas mineralizadas varía.​
+
+
+Astronomía desde Marte
+
+
+Observación del Sol
+
+Visto desde Marte, el Sol tiene un diámetro aparente de 21′ (en lugar de 31.5′ a 32.6′ que tiene visto desde la Tierra). Los científicos que manejaron el Spirit y Opportunity hicieron que observara una puesta solar. Se pudo observar como el Sol desaparece oculto entre el polvo en suspensión en la atmósfera.
+
+
+Observación de los satélites
+
+Marte tiene dos minúsculos satélites, dos peñascos de forma irregular: Fobos que mide 27 × 21 × 19 km; y orbita el planeta a 6100 km sobre su superficie; y Deimos, que mide 15 × 12 × 11 km, y orbita a 20 000 km de altitud.
+A pesar de hallarse tan próximos, estos satélites solo son visibles en el cielo marciano como puntos luminosos muy brillantes. El brillo de Deimos puede ser comparable al de Venus visto desde la Tierra; el de Fobos es varias veces más intenso.
+Fobos da una vuelta en torno a Marte en 7 h 39 min 14 s. Al ser su revolución mucho más rápida que la rotación del planeta sobre sí mismo, parece como si el satélite describiera un movimiento retrógrado: se le ve amanecer por el Oeste y ponerse por el Este. Deimos invierte 30 h 17 min 55 s en recorrer su órbita. Su revolución es, por consiguiente, un poco más larga que la rotación del planeta, lo cual hace que el satélite se mueva lentamente en el cielo: tarda 64 horas entre su salida, por el Este y su puesta, por el Oeste. Lo más curioso es que durante ese tiempo en que permanece visible, desarrolla dos veces el ciclo completo de sus fases. Otra particularidad de estos satélites es que, por gravitar en el plano ecuatorial del planeta y tan cerca de la superficie de este, son totalmente invisibles desde las regiones polares: Deimos no puede ser visto desde más arriba del paralelo 82° y Fobos desde las latitudes de más de 69°. Dadas sus pequeñas dimensiones, estos minúsculos satélites apenas pueden disipar las tinieblas de la noche marciana, y ello durante cortos períodos, ya que, al gravitar tan cerca del planeta y en órbitas ecuatoriales, pasan la mayor parte de la noche ocultos en el cono de sombra proyectada por el planeta, o sea sin ser iluminados por la luz solar.
+Se ha observado que Fobos sufre una aceleración secular que lo acerca lentamente a la superficie del planeta (tan lentamente que pueden transcurrir aún cien millones de años antes de que se produzca su caída). Esta aceleración es producida por el efecto de las mareas. También se plantea a los astrónomos el problema de los orígenes de esos pequeños astros, ya que ciertas razones se oponen a que sean asteroides capturados y otras a que sean cuerpos formados en torno al planeta al mismo tiempo que él. Además, Fobos presenta características que sugieren que este satélite puede ser un fragmento separado de otro astro mayor.
+
+
+Observación de los eclipses solares
+
+Las cámaras de la nave Opportunity captaron el 10 de marzo de 2004 el eclipse parcial de Sol causado por el satélite Fobos. El satélite tapa una gran parte del Sol a causa de que es más grande que Deimos y orbita mucho más cerca de Marte. El eclipse de Deimos captado el 4 de marzo de 2004 es comparable a un tránsito de un planeta.
+
+
+Observación de la Tierra
+
+Vista desde Marte por los futuros astronautas, la Tierra sería un magnífico lucero azulino y tan brillante como lo es Júpiter visto desde la Tierra, por lo menos durante los períodos favorables (conjunciones inferiores de la Tierra), ya que nuestro globo presentará, visto desde Marte, las mismas fases que Venus visto desde la Tierra. También, al igual que Venus y Mercurio, la Tierra es un astro alternativamente matutino y vespertino. Con un telescopio instalado en Marte podría apreciarse el espectáculo resultante de la conjugación de los movimientos de la Tierra y de la Luna, así como de la combinación de las fases de ambos astros: paso de la media luna sobre la mitad oscura del disco terrestre; paso del sistema Tierra-Luna ante el disco solar durante los eclipses.
+
+
+Tránsitos de la Tierra por el disco solar
+El 10 de noviembre del 2084, ocurrirá el próximo tránsito de la Tierra por el disco solar visto desde Marte. Estos tránsitos se repiten aproximadamente cada 79 años. Los tránsitos de octubre-noviembre ocurren cuando el planeta Marte está en oposición y cerca del nodo ascendente; los tránsitos de abril-mayo, cuando está en el nodo descendente. El tránsito del 11 de mayo de 1984, previsto por J. Meeus, sirvió de inspiración al escritor Arthur C. Clarke para escribir, con trece años de antelación (1971), su relato Transit of Earth, en el que un astronauta abandonado en Marte describe el raro fenómeno astronómico, poco antes de morir debido a la falta de oxígeno.[cita requerida]
+
+
+Marte en la cultura popular
+
+
+Origen del nombre del planeta Marte
+Marte era el dios romano de la guerra, y su equivalente griego se llamaba Ares. En la Antigüedad clásica a Marte se le consideraba una de las «estrellas errantes» y se le daba el nombre de Piroidés o Piréis («ardiente»).​ El color rojo del planeta Marte, relacionado con la sangre, favoreció que se le considerara desde tiempos antiguos como un símbolo del dios de la guerra. En ocasiones se hace referencia a Marte como el Planeta Rojo. La estrella Antares, próxima a la eclíptica en la constelación de Scorpio, recibe su nombre como rival (ant-) de Marte, por ser sus brillos parecidos en algunos de sus acercamientos. 
+
+
+Presencia en la literatura
+Además de la ya mencionada Transit of Earth, existen numerosas referencias a Marte en la ciencia ficción, tales como:
+
+Crónicas Marcianas, de R. Bradbury, donde los humanos, cansados de las guerras y contaminación en la Tierra, deciden colonizar Marte;
+Homo Plus, de Frederik Pohl. Astronautas terrestres son genéticamente alterados para sobrevivir en la superficie hostil de Marte;
+Trilogía marciana: Marte Rojo, Marte Verde y Marte Azul, de Kim Stanley Robinson. Trilogía de novelas en las que se narra, de forma realista, la colonización y terraformación de Marte junto con las implicaciones tecnológicas, sociales y filosóficas que ello conllevaría en la humanidad;
+Serie marciana: Una princesa de Marte, Los dioses de Marte, El guerrero de Marte, Thuvia, la doncella de Marte y El ajedrez vivo de Marte, de Edgar Rice Burroughs. El creador de Tarzán relata las aventuras de John Carter en el planeta Marte;
+Diversas novelas y relatos de Philip K. Dick tienen lugar en Marte, como Tiempo de Marte o Podemos recordarlo por usted al por mayor;
+Venus Prime 3: juego del escondite de Arthur C. Clarke, La acción se traslada al planeta Marte y a su luna Fobos después de que la placa marciana localizada en la ciudad marciana de Labyrinth City fuera robada.
+En la película The Martian de Andy Weir, Seis astronautas se encuentran en la superficie de Marte cuando su misión es cancelada debido a una tormenta de arena demasiado fuerte como para que el vehículo que los sacará del planeta permanezca intacto. Una antena derribada por la tormenta hace desaparecer a uno de los astronautas y la comandante de la misión tiene que abandonarlo para salvar al resto del equipo.
+
+
+Mapa interactivo de Marte
+
+
+Véase también
+
+
+Notas
+
+
+Referencias
+
+
+Bibliografía
+Raeburn, Paul. (2003). Marte: descubriendo los secretos del planeta rojo. RBA Revistas. Barcelona, España. ISBN 84-8298-130-7.
+Asimov, Isaac. (2001). Marte, el planeta rojo. Colección El libro de Bolsillo, 1169. Alianza Editorial. Madrid, España. ISBN 84-206-0169-1.
+Observar Marte: descubrir y explorar el planeta rojo. (2005). Spes Editorial. Barcelona, España. ISBN 84-8332-706-6.
+Lizondo Fernández, Joaquín (1999). El enigmático Marte. Editorial Telstar. Barcelona, España. ISBN 84-7237-033-X.
+Raeburn, Paul. (2003). Marte: descubriendo los secretos del planeta rojo. RBA Revistas. Barcelona, España. ISBN 84-8298-130-7.
+Sersic, José Luis. (2002). La exploración a Marte. Colección Labor. Editorial Labor. Sardañola del Vallés, España. ISBN 84-335-2400-3.
+Lizondo Fernández, Joaquín. (2000). : Más allá de los horizontes de la tierra: Marte, la nueva frontera. Editorial Ronsel. Barcelona, España. ISBN 84-88413-19-X.
+
+
+Enlaces externos
+ Multimedia en Commons.
+ Definiciones en Wikcionario.
+ Citas en Wikiquote.
+ Noticias en Wikinoticias.
+Sistema Solar Web
+Video de alta resolución de Marte con sus características explicadas
+Video: Triángulo formado por Marte, Saturno y Spica
+35 imágenes de Marte en alta resolución obtenidas gracias a la cámara HiRISE (High Resolution Imaging Science Experiment) a bordo de la MRO (Mars Reconnaissance Orbiter) de la NASA
+Mars Odissey Mission. NASA
+Google Mars - Geografía de Marte
+Marte Actividad educativa: el sistema solar
+New Papers about Martian Geomorphology

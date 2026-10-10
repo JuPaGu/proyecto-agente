@@ -1,0 +1,86 @@
+TÍTULO: Onda gravitatoria
+FUENTE: https://es.wikipedia.org/wiki/Onda_gravitatoria
+LICENCIA: CC BY-SA 4.0 (Wikipedia)
+
+En física una onda gravitatoria es una fluctuación invisible,​ extremadamente rápida, que se producen en el  espacio-tiempo desplazándose a la velocidad de la luz.​ esta es  producida por un cuerpo masivo acelerado así mismo esta se pueden generar por una explosión asimétrica de una estrella supernova, dos estrellas grandes que se orbitan una a la otra y dos agujeros negros que orbitan entre sí y se fusionan​ La existencia de ese tipo de onda, que consiste en la propagación de una perturbación gravitatoria , fue predicha por Albert Einstein en su teoría de la relatividad general.​​​El hecho de que las ondas gravitatorias puedan propagarse grandes distancias sin sufrir casi alteración resulta de gran importancia en la cosmología.​
+La primera observación directa de las ondas gravitatorias se logró el 14 de septiembre de 2015; los autores de la detección fueron los científicos del detector subterráneo LIGO​ y el interferómetro Virgo que, tras un análisis minucioso de los resultados, anunciaron el descubrimiento al público el 11 de febrero de 2016, cien años después de que Einstein predijera la existencia de las ondas.​ La detección de ondas gravitatorias constituye una nueva e importante validación de la teoría de la relatividad general.
+Antes de su descubrimiento solo se conocían pruebas indirectas de ellas, como el decaimiento del período orbital observado en un púlsar binario.​En marzo de 2014, el experimento BICEP2​ anunció la detección de modos‑B en la polarización del fondo cósmico de microondas, lo que sugería una prueba indirecta de ondas gravitatorias primordiales.​
+Los estudios combinados con el telescopio PLANCK revelaron que los resultados de BICEP2 podían ser explicados por la interferencia del polvo cósmico por lo que fueron dejados de lado a falta de más evidencias.​
+Las ondas gravitatorias constituyen fluctuaciones generadas en la curvatura del espacio-tiempo que se propagan como ondas a la velocidad de la luz. La radiación gravitatoria se genera cuando dichas ondas son emitidas por ciertos objetos o por sistemas de objetos que gravitan entre sí. Los fenómenos gravitatorios con simetría esférica no emiten radiación gravitatoria.​
+
+
+Fondo teórico
+La teoría de la relatividad general. Describe las fuerzas gravitatorias como una manifestación de la curvatura del espacio-tiempo; La curvatura del espacio-tiempo influye de manera crucial para entender de que manera se propagan los rayos de luz, así del como se trata el significado de la curvatura en una variedad podemos pensar en una que sólo tenga dimensiones espaciales,​ esto significa que los cambios en el campo gravitatorio no pueden ocurrir en todas partes instantáneamente: deben propagarse. De acuerdo a la relatividad general, estas se propagan a exactamente la misma velocidad que las ondas electromagnéticas por el vacío: a la velocidad de la luz. A estos cambios que se propagan se les llama ondas gravitatorias.​
+La radiación gravitatoria es una predicción central de la relatividad general y su detección es una prueba clave de la integridad de la estructura teórica de la obra de Einstein. Sin embargo, es probable que en el largo plazo sea aún más importante como instrumento para la observación astronómica. Las observaciones del sistema púlsar binario Hulse-Taylor​ han proporcionado excelentes evidencias de que las predicciones de la relatividad general sobre la radiación gravitatoria son cuantitativamente correctas. Aun así, la información de la astronomía sobre las posibles fuentes de radiación detectable es incompleta.
+Cada vez que una nueva banda de ondas electromagnéticas se abría a la observación astronómica con nuevos observatorios en esa longitud de onda tenía lugar el descubrimiento de fenómenos totalmente inesperados y parece probable que  eso vuelva a ocurrir con el despliegue de los observatorios de ondas gravitatorias, en especial porque esas ondas llevan algunos tipos de información que la radiación electromagnética no puede transmitir. Las ondas gravitatorias son generadas por los movimientos aparentes de las masas, que codifican las distribuciones de masa y velocidades. Son coherentes y sus frecuencias bajas reflejan los tiempos dinámicos de sus fuentes.
+En una publicación se informa que, según los expertos, las ondas cuya captación se dio a conocer el 11 de febrero de 2016  provienen de la colisión de dos agujeros negros, uno veintinueve veces más grande que el Sol y el otro con un tamaño treinta y seis veces mayor, que crearon un nuevo agujero de una magnitud equivalente a sesenta y dos veces la masa de la estrella solar.​ Ese suceso pudo ser «escuchado» por LIGO​ y después de varios meses de revisar y corroborar los datos los investigadores acaban de comunicar con seguridad que se trata de las ondas gravitatorias.​ Hasta ahora los objetos del espacio se habían podido estudiar con ondas electromagnéticas, es decir con la radiación que emitían. Sin embargo, esos objetos también emiten las ondas resultantes de las perturbaciones que se han detectado de modo que a partir de su descubrimiento los físicos podrán mirar los objetos con las ondas electromagnéticas y «escucharlos» con las gravitatorias. En la última publicación mencionada​ se informa que según una científica que participó en el proyecto, el descubrimiento  de las ondas gravitatorias marca el comienzo  de una nueva era de la astronomía, es una herramienta que permitirá estudiar el Universo y todos los objetos astrofísicos que existen y  no es un instrumento para expandir un poco más el espectro electromagnético sino un espectro nuevo. Esa experta señala que con las ondas electromagnéticas se puede recibir información del Universo cuando tenía una edad de 300 000 años mientras que con las ondas gravitatorias se pueden ver las que se emitieron cuando el Universo «tenía apenas un segundo de edad».​
+
+
+Diferencias y similitudes con ondas electromagnéticas
+
+En contraste, las ondas electromagnéticas vienen de electrones individuales que ejecutan movimientos complejos y, en parte, al azar dentro de sus fuentes. Son incoherentes y fotones individuales deben ser interpretados como muestras del gran conjunto estadístico de los fotones que se emiten. Sus frecuencias son determinadas por microfísica en ellos. A partir de observaciones electromagnéticas, podemos provocar inferencias acerca de esta estructura solo a través de una cuidadosa modelación de la fuente. Las ondas gravitatorias, por el contrario, llevan información cuya conexión a la estructura de la fuente y el movimiento es bastante directa.
+Un buen ejemplo es el de los agujeros negros masivos en los núcleos galácticos.​ A partir de observaciones que abarcan todo el espectro electromagnético, desde las ondas de radio a los rayos X, los astrofísicos han inferido que los agujeros negros de masas hasta mil millones de masas solares son responsables de las emisiones de cuásares y controlan los chorros que alimentan las regiones de emisión de radio gigantes. La evidencia de un agujero negro es muy indirecta: ningún otro objeto conocido puede contener tanta masa en un volumen tan pequeño. Observaciones de ondas gravitatorias nos hablarían de la dinámica de los propios agujeros negros, ofreciendo firmas únicas de las que se podrían medir sus masas y sus frecuencias vibratorias. Resulta evidente que la interacción de las observaciones electromagnéticas y gravitatorias enriquecerá muchas ramas de la astronomía.
+En cuanto a la polarización de las ondas gravitatorias, a diferencia de las ondas electromagnéticas, que admiten múltiples polarizaciones, las gravitatorias admiten solo dos tipos de polarización independiente. En la Teoría General de la Relatividad de Einstein las ondas gravitatorias solo admiten la polarización plus y la polarización cruzada; de modo que, el ángulo entre ambas es de π/4.​
+
+
+Objetos emisores de ondas gravitatorias
+
+La amplitud predicha para estas ondas y los efectos observables son muy débiles, de modo que su detección directa es extremadamente difícil. La amplitud, de hecho, es muy inferior al ruido vibracional procedente de otras fuentes. Tan solo los fenómenos más violentos del universo producen ondas gravitatorias susceptibles de ser detectadas.
+Los objetos que deberían emitir ondas de gravedad detectables de manera directa son objetos muy masivos sometidos a fuertes aceleraciones o cuerpos masivos no homogéneos rotando a gran velocidad. Se espera poder encontrar ondas gravitatorias producidas en fenómenos cataclísmicos como:
+
+La explosión de una supernova.
+La formación de un agujero negro.
+El choque de cuerpos masivos como estrellas de neutrones o la coalescencia de agujeros negros.
+La rotación de una estrella de neutrones heterogénea.
+Radiación gravitatoria remanente del Big Bang. Este último caso ofrecería datos únicos sobre la formación del universo en el periodo anterior a la edad oscura del universo en la que el universo era opaco a la radiación electromagnética.
+(Cualquier objeto con masa y aceleración produce ondas gravitatorias, dependerá de la precisión del equipo para poder cuantificarlas, actualmente solo hemos logrado captarlas con sucesos de una energía muy elevada).
+
+
+Evidencia experimental
+La historia de la detección de ondas gravitatorias se inició en la década de 1960 con J. Webber en la Universidad de Maryland, donde se construyó el primer detector de barras: era un cilindro masivo de aluminio (~ 2·103 kg) que funcionaba a temperatura ambiente (300 K) con una frecuencia de resonancia de aproximadamente 1600 Hz. Este primer prototipo tenía una sensibilidad moderada de alrededor 10-13 m o 10-14 m.
+A pesar de esta baja sensibilidad, a finales de 1960 Webber anunció la detección de una población de eventos coincidentes entre dos barras similares a una tasa mucho más alta de lo esperado si la fuente fuera el ruido instrumental. Esta noticia estimuló a otros grupos en Glasgow, Múnich, París, Roma, los Laboratorios Bell, Stanford, Rochester, LSU, MIT, Beijing y Tokio para construir y desarrollar detectores de barras para comprobar los resultados de Weber. Desgraciadamente, para Webber y para la idea de que las ondas gravitatorias eran fáciles de detectar, ninguno de los otros grupos confirmó las observaciones, que nunca se pudieron explicar. Sin embargo, la falta de confirmación no supuso evidencia contraria a la existencia de las ondas gravitatorias, ya que los cálculos teóricos pronosticaban que las señales serían demasiado débiles para que se pudieran observar con estos detectores.
+Desde 1980 hasta 1994, el desarrollo de detectores tomó dos direcciones diferentes:
+
+Detectores de barras criogénicas, desarrollado principalmente en Roma / Frascati, Stanford , LSU y Perth (Australia). El mejor de estos detectores alcanza una sensibilidad de 10-19.
+El interferómetro, desarrollado en el MIT, Garching, Glasgow, Caltech y Tokio. La sensibilidad típica de estos prototipos era de 10-18 metros, la milésima parte del tamaño de un protón. El experimento de Glasgow/Garching en 1989 fue el primero realizado con estos detectores.
+Este descubrimiento experimental se considera como la demostración de la existencia de ondas gravitatorias. Por este motivo, Hulse y Taylor recibieron el Premio Nobel de Física del año 1993. Más recientemente (2005), se ha descubierto un segundo púlsar binario, PSR J0737-3039, cuyo comportamiento parece confirmar también las predicciones de la relatividad general con respecto a la energía emitida en forma de ondas gravitatorias. El púlsar binario tiene una órbita cuya distancia decae en unos 7 mm por día.
+En marzo de 2014, astrónomos del Centro de Astrofísica Harvard-Smithsoniano (CFA) anunciaron la detección por primera vez las ondas gravitatorias durante el período explosivo de crecimiento del universo llamado inflación. Los hallazgos fueron realizados con la ayuda del BICEP2, un telescopio situado en el Polo Sur, durante experimentos llevados a cabo desde 2006 que buscaban anomalías en la polarización de la radiación de fondo de microondas. Sin embargo, más adelante, otros grupos señalaron la presencia de unos artefactos experimentales que podrían afectar a las observaciones.​
+El 11 de enero de 2016, saltaron rumores de una detección directa realizada en el LIGO. Un mes después de la filtración, la detección fue confirmada por investigadores del LIGO, el 11 de febrero de 2016. Estas ondas gravitatorias fueron observadas por primera vez el 14 de septiembre de 2015, a las 5:51 a. m. ET por ambos detectores LIGO, asignándole el nombre GW150914 (GW, por onda gravitatoria, seguido del año, del mes y del día) . La fuente de emisión de GW150914 se identificó como la fusión en un agujero negro de un sistema binario de agujeros negros que tuvo lugar hace 1300 millones de años, a diferencia de las detecciones pasadas que fueron indirectas esta es la primera vez que se confirma la detección directa de ondas gravitatorias.​​
+
+
+Desarrollos posteriores (2016–presente)
+Desde 2015 se han publicado decenas de eventos adicionales por las colaboraciones LIGO y Virgo (y más tarde KAGRA), incluyendo fusiones de **agujeros negros binarios** y de **estrellas de neutrones**; entre ellas, GW170817 destacó por su observación multimensajero con contrapartida electromagnética (kilonova) y emisión de rayos gamma. [cita requerida]
+El Premio Nobel de Física de 2017 fue otorgado a Rainer Weiss, Barry C. Barish y Kip S. Thorne por contribuciones decisivas al detector LIGO y la observación de ondas gravitatorias. [cita requerida]
+En 2023 se difundieron indicios consistentes con un **fondo estocástico de ondas gravitatorias** a frecuencias nanohertz detectado mediante **matrices de sincronización de púlsares** (NANOGrav, EPTA, PPTA e InPTA). [cita requerida]
+
+
+Observatorios de ondas gravitatorias
+Actualmente existen diferentes proyectos de observación de ondas gravitatorias, como LIGO (Estados Unidos), TAMA 300 (Japón), GEO 600 (Alemania y Reino Unido), o Virgo (Francia e Italia).​​​​ 
+[actualizar]
+Una misión espacial denominada LISA se encuentra en fase de estudio para constituir el primer observatorio espacial de ondas gravitatorias y podría estar operativo alrededor del 2030. Otro observatorio espacial de ondas gravitatorias propuesto es DECIGO, que podría ser lanzado en Japón en 2027. Se prevé localizar un Interferómetro en uno de los puntos de Lagrange entre la Tierra, la Luna y el Sol.​​
+
+
+Véase también
+Detección de ondas gravitatorias
+Pruebas de la relatividad general
+Fondo estocástico de ondas gravitatorias
+
+
+Referencias
+
+
+Bibliografía
+Hawking, Stephen; and Ellis, G. F. R. (1973). The Large Scale Structure of Space-Time. Cambridge: Cambridge University Press. ISBN 0-521-09906-4. 
+Misner, Thorne and Wheeler, Gravitation, Freeman, (1973), ISBN 0-7167-0344-0.
+Robert M. Wald, General Relativity, Chicago University Press, ISBN 0-226-87033-2.
+Steven Weinberg, Gravitation and Cosmology: principles and applications of the general theory of relativity, Wiley (1972), ISBN 0-471-92567-5.
+
+
+Enlaces externos
+LISA: Laser Interferometer Space Antenna Project
+LIGO Lab | Caltech | MIT
+Home | GEO 600 Portal
+Noticias sobre el descubrimiento de las ondas gravitatorias en EFEfuturo
+Einstein@Home
+Horizonte de Sucesos - Ondas Gravitacionales
+Primeras evidencias de la inflación cósmica

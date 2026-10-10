@@ -1,0 +1,298 @@
+TÍTULO: Materia oscura
+FUENTE: https://es.wikipedia.org/wiki/Materia_oscura
+LICENCIA: CC BY-SA 4.0 (Wikipedia)
+
+En astrofísica y cosmología física, se denomina materia oscura a un tipo de materia que se estima aproximadamente en un 85% de la materia del universo,​ y que no es energía oscura, materia bariónica (materia ordinaria) ni neutrinos. Su nombre hace referencia a que se considera que no emite ningún tipo de radiación electromagnética (como la luz). De hecho, no interactuaría en ninguna forma con la radiación electromagnética, siendo completamente transparente en todo el espectro electromagnético.​ Su existencia se puede inferir a partir de sus efectos gravitacionales en la materia bajo la consideración de la mecánica newtoniana, tales como el movimiento de las estrellas o las galaxias, así como en las anisotropías del fondo cósmico de microondas presente en el universo. 
+La materia oscura fue propuesta por Fritz Zwicky en 1933, ante la evidencia de una «masa no visible» que influiría en las velocidades orbitales de los cúmulos en las galaxias. Posteriormente, otras observaciones han indicado la posible presencia de materia oscura en el universo, las cuales incluyen la citada velocidad de rotación de las galaxias, así como los lentes gravitacionales de los objetos por los cúmulos de galaxias, tales como el Cúmulo Bala (1E 0657-56); igualmente, la distribución de la temperatura del gas caliente en galaxias, cúmulos de galaxias y nebulosas. Otra hipótesis alternativa, propuesta por los físicos Stephen Hawking y Bernard Carr en 1974, es la existencia de agujeros negros primordiales posteriores al Big Bang que representan toda la materia oscura en el universo.​​​
+La materia oscura también desempeña un papel central en la formación de estructuras y la evolución de galaxias y tiene efectos medibles en la anisotropía de la radiación de fondo cósmico  de microondas. Todas estas pruebas sugieren que las galaxias, los cúmulos de galaxias y todo el Universo contendría mucha más materia que la que interactúa con la radiación electromagnética: lo restante es llamado «el componente de materia oscura».
+La composición de la materia oscura se desconoce. Algunos de los candidatos a materia oscura pueden ser neutrinos ordinarios y pesados, partículas elementales recientemente postuladas como los WIMPs y los axiones, cuerpos astronómicos como las estrellas enanas, los objetos astronómicos (colectivamente llamados MACHO) y las nubes de gases no luminosos. Las pruebas actuales favorecen los modelos en que el componente primario de la materia oscura son las nuevas partículas elementales llamadas colectivamente materia oscura no bariónica.
+El componente de materia oscura tiene bastante más masa que el componente «visible» del Universo.​ Actualmente se estima que la densidad de bariones ordinarios y la radiación en el Universo equivalen aproximadamente a un átomo de hidrógeno por metro cúbico de espacio. Aproximadamente solo el 5% de la densidad de energía total en el Universo (inferido de los efectos gravitacionales) se puede observar directamente. Se estima que en torno al 23% está compuesto de materia oscura. El 72% restante consistiría en energía oscura, un componente incluso más extraño, distribuido difusamente en el espacio.​ Alguna materia bariónica difícil de detectar contribuye a la materia oscura, aunque algunos autores defienden que constituye solo una pequeña porción.​​ Aun así, hay que tener en cuenta que del 5% de materia bariónica estimada (la mitad de ella todavía no detectada) se puede considerar materia oscura bariónica: todas las estrellas, galaxias y gas observables reúnen menos de la mitad de los bariones que se supone debería haber. Se cree que toda esta materia puede distribuirse en filamentos gaseosos de baja densidad, formando una red por todo el universo, en cuyos nodos se encuentran los diversos cúmulos de galaxias. En mayo de 2008, el telescopio XMM-Newton de la agencia espacial europea encontró pruebas de la existencia de dicha red de filamentos.​
+La determinación de la naturaleza de esta masa no visible es una de las cuestiones más importantes de la cosmología moderna y la física de partículas. Las denominaciones «materia oscura» y «energía oscura» expresan principalmente nuestro desconocimiento, casi como los primeros mapas en los que algunas zonas se etiquetaban como «terra incógnita».​
+
+
+Pruebas de observaciones
+La primera persona en proporcionar pruebas y deducir la existencia del fenómeno que se ha llamado «materia oscura» fue el astrofísico suizo Fritz Zwicky, del Instituto Tecnológico de California (Caltech), en 1933.​
+Aplicó el teorema del virial al cúmulo de galaxias Coma y obtuvo pruebas de masa no visible. Zwicky estimó la masa total del cúmulo basándose en los movimientos de las galaxias cercanas a su borde. Cuando comparó esta masa estimada con la estimación del número de galaxias y con el brillo total del cúmulo, encontró que había unas 400 veces más masa de la esperada. La gravedad de las galaxias visibles en el cúmulo era muy poca para tal velocidad orbital, por lo que se necesita mucha más. Esto se conoce como el «problema de la masa desaparecida». Basándose en estas conclusiones, Zwicky dedujo que tendría que haber alguna forma de «materia no visible» que proporcionaría suficiente masa y gravedad para constituir todo el cúmulo.
+Muchas de las evidencias de la existencia de materia oscura provienen del estudio de los movimientos de las galaxias. Muchas de estas parecen ser bastante uniformes, con lo que el teorema del virial de la energía cinética total debería ser la mitad del total de la energía gravitacional de las galaxias. Sin embargo, experimentalmente se ha hallado que la energía cinética total es mucho mayor: en particular, asumiendo que la masa gravitacional se debe solo a la materia visible de la galaxia, las estrellas alejadas del centro de las galaxias tienen velocidades mucho mayores que las predichas por el teorema del virial. La curva de rotación galáctica que muestra la velocidad de rotación frente a la distancia del centro de la galaxia, no se puede explicar solo mediante la materia visible. La explicación más sencilla es suponer que la materia visible conforma solo una pequeña parte del cúmulo. Las galaxias muestran indicios de estar compuestas principalmente de un halo de materia oscura concentrado en su centro, con simetría casi esférica, con la materia visible concentrada en un disco central. Las galaxias de brillo débil superficial son importantes fuentes de información para el estudio de la materia oscura, ya que tienen una baja proporción de materia visible respecto de la materia oscura, y tienen varias estrellas brillantes en el centro que facilita la observación de la curva de rotación de estrellas periféricas.
+De acuerdo con los resultados publicados en agosto de 2006, la materia oscura se ha detectado por separado de la materia ordinaria​​ a través de medidas del Cúmulo Bala, realmente dos cúmulos de galaxias cercanos que colisionaron hace unos 150 millones de años.​ Los investigadores analizaron los efectos de las lentes gravitacionales para determinar la masa total de la distribución de ambas y la compararon con los mapas de rayos X de gases calientes, que se pensaba que constituían la mayor parte de la materia ordinaria en los cúmulos. Los gases calientes interactuaron durante la colisión y permanecieron cerca del centro. Las galaxias individuales y la materia oscura no interactuaron y están más alejadas del centro.
+
+
+Curvas de rotación galáctica
+
+Casi 40 años después de las observaciones iniciales de Zwicky, ninguna otra observación las había corroborado, indicando que la relación masa-luminosidad fuera distinta de la unidad (una alta relación masa-luminosidad indica la presencia de la materia oscura). Pero a finales de los años 1960 y 1970, Vera Rubin, una astrónoma del Departamento de Magnetismo Terrestre del Carnegie Institution of Washington presentó hallazgos basados en un nuevo espectrógrafo muy sensible que podía medir la curva de velocidad de galaxias espirales con un grado de precisión mayor que cualquier otro anterior. En un encuentro en 1975 de la American Astronomical Society, junto con su compañero de personal Kent Ford, Rubin anunció el asombroso descubrimiento de que muchas estrellas en distintas órbitas de galaxias espirales giraban a casi la misma velocidad angular, lo que implicaba que sus densidades eran muy uniformes más allá de la localización de muchas de las estrellas (el bulbo galáctico). Este resultado sugiere que incluso la gravedad newtoniana no se aplica universalmente o que, conservativamente, más del 50% de la masa de las galaxias estaba contenida en el relativamente oscuro halo galáctico. Este descubrimiento inicialmente despertó escepticismo, pero Rubin insistió en que las observaciones eran correctas. Posteriormente otros astrónomos empezaron a corroborar su trabajo y se logró determinar muy bien el hecho de que muchas galaxias estuvieran dominadas por «materia oscura». Las excepciones parecían ser las galaxias con relaciones masa-luz cercanas a las de las estrellas. Como consecuencia, numerosas observaciones han indicado la presencia de materia oscura en varias partes del cosmos. Junto con los hallazgos de Rubin para las galaxias espirales y el trabajo de Zwicky sobre los cúmulos de galaxias, durante décadas se han recopilado más evidencias relacionadas con la materia oscura,  hasta el punto de que hoy muchos astrofísicos aceptan su existencia. Como un concepto unificador, la materia oscura es una de las características dominantes consideradas en el análisis de estructuras a escala galáctica y mayores.
+
+
+Dispersiones de velocidad en galaxias
+El trabajo pionero de Rubin ha resistido la prueba del tiempo. Las medidas de las curvas de velocidad en galaxias espirales se continuaron pronto con mediciones de dispersiones de velocidad en galaxias elípticas. Aunque algunas veces resultan menores relaciones masa-luminosidad, las medidas de elípticas siguen indicando un contenido relativamente alto de materia oscura. Asimismo, las medidas de los medios interestelares difusos encontrados en el borde de las galaxias indican no solo las distribuciones de materia oscura que se extienden más allá del límite visible de las galaxias, sino también de que las galaxias son virializadas por encima de diez veces su radio visible. Esto supuso elevar la proporción de la materia oscura respecto a la suma total de masa de gravitación, desde el 50% medido por Rubin hasta la actualmente estimada de casi el 95%.
+Hay lugares donde la materia oscura parece ser un pequeño componente o estar totalmente ausente. Los cúmulos globulares no muestran evidencias de contener materia oscura, aunque sus interacciones orbitales con las galaxias muestran pruebas de materia oscura galáctica. Durante algún tiempo las mediciones del rango de velocidad de las estrellas parecían indicar la concentración de la materia oscura en el disco galáctico de la Vía Láctea. Sin embargo, ahora parece que la alta concentración de la materia bariónica en el disco de la galaxia (especialmente en el medio interestelar) puede influir en este movimiento. Se cree que los perfiles de las masas de las galaxias parecen muy diferentes de los perfiles de la luz. El modelo típico para las galaxias de materia oscura es una distribución lisa y esférica en halos virializados. Ese tendría que ser el caso para evitar los efectos dinámicos a pequeña escala (estelar). Las investigaciones realizadas en enero de 2006 en la Universidad de Massachusetts, Amherst explicarían la previamente misteriosa curvatura en el disco de la Vía Láctea por la interacción de la Grande y la Pequeña Nube de Magallanes y la predicción de un incremento de 20 veces la masa de la Vía Láctea teniendo en cuenta la materia oscura.
+En 2005 los astrónomos de la Universidad de Cardiff anunciaron el descubrimiento de una galaxia compuesta casi enteramente de materia oscura, a 50 millones de años luz del Cúmulo de Virgo, que fue denominada VIRGOHI21.​ Inusualmente, VIRGOHI21 no parece contener ninguna estrella visible: fue vista con observaciones de radiofrecuencia de hidrógeno. Basándose en los perfiles de rotación, los científicos estimaron que este objeto contiene aproximadamente 1000 veces más materia oscura que hidrógeno y tiene una masa total de un décimo de la Vía Láctea. Por comparación, se cree que la Vía Láctea tiene unas diez veces más materia oscura que ordinaria. Los modelos del Big Bang y de la Estructura a gran escala del Universo sugieren que tales galaxias oscuras deberían ser muy comunes en el Universo, pero no se ha detectado ninguna. Si se confirmase, la existencia de estas galaxias oscuras proporcionaría una gran prueba para la teoría de la formación de las galaxias y plantearía problemas para explicaciones alternativas a la materia oscura.
+
+
+Materia oscura en cúmulos de galaxias
+
+La materia oscura también afecta a las agrupaciones galácticas. Las medidas de rayos X del caliente gas intracumular se corresponden estrechamente con las observaciones de Zwicky de las relaciones masa-luminosidad para grandes cúmulos de casi 10 a 1. Muchos de los experimentos del Observatorio de rayos X Chandra utilizan esta técnica para determinar independientemente la masa de los cúmulos.
+El cúmulo de galaxias Abell 2029 se compone de miles de galaxias envueltas en una nube de gas caliente y una cantidad de materia oscura equivalente a más de 1014 soles. En el centro de este cúmulo hay una enorme galaxia con forma elíptica que se piensa que se formó a partir de la unión de muchas galaxias más pequeñas.​ Las velocidades orbitales de las galaxias medidas dentro de los cúmulos de galaxias son consistentes con las observaciones de materia oscura.
+Una importante herramienta para detectar la materia oscura son las lentes gravitacionales. Estas lentes son un efecto de la relatividad general que predice la dinámica que depende de las masas, siendo un medio completamente independiente de medir la energía oscura. En las lentes fuertes, se ha observado la curvada distorsión de las galaxias de fondo, cuando la luz pasa a través de una lente gravitacional, alrededor de un cúmulo poco distante como el Abell 1689. Midiendo la distorsión geométrica, se puede obtener la masa del cúmulo que causa el fenómeno. En docenas de casos donde se ha medido, las relaciones masa-luminosidad obtenidas se corresponden con las medidas de materia oscura dinámica de los cúmulos.
+Durante los últimos diez años se ha desarrollado una técnica —tal vez más convincente— llamada lentes débiles, que mide mediante análisis estadístico las distorsiones de galaxias a una microescala en las grandes distancias debidas a objetos de fondo. Examinando la deformación de las galaxias de fondo adyacentes, los astrofísicos pueden obtener por métodos estadísticos la distribución media de energía oscura y encontrar las relaciones masa-luminosidad que se corresponden con las densidades de materia oscura predichas por otras mediciones de estructuras a gran escala. La correspondencia de las dos técnicas (la de lentes gravitacionales junto con otras medidas de materia oscura), han convencido a casi todos los astrofísicos de que la materia oscura es realmente el mayor componente del Universo.
+
+
+Formación de estructuras
+
+La materia oscura es crucial para el modelo cosmológico del Big Bang como un componente que se corresponde directamente con las medidas de los parámetros asociados con la métrica FLRW a la relatividad general. En particular, las medidas de las anisotropías del fondo cósmico de microondas se corresponden a una cosmología donde gran parte de la materia interactúa con los fotones de forma más débil que las fuerzas fundamentales conocidas que acoplan las interacciones de la luz con la materia bariónica. Asimismo, se necesita una cantidad significativa de materia fría no-barionica para explicar la estructura a gran escala del universo.
+Las observaciones sugieren que la formación de estructuras en el Universo actúa jerárquicamente: las estructuras más pequeñas se unen hasta formar galaxias y después cúmulos de galaxias. Según se unen las estructuras en la evolución del Universo, empiezan a «brillar», ya que la materia bariónica se calienta a través de la contracción gravitacional y los objetos se aproximan al equilibrio hidrostático. La materia barionica ordinaria tendría una temperatura demasiado alta y demasiada presión liberada desde el Big Bang para colapsar y formar estructuras más pequeñas, como estrellas, a través de la inestabilidad de Jeans. La materia oscura actúa como un compactador de estructuras. Este modelo no solo se corresponde con investigaciones estadísticas de la estructura visible en el Universo, sino también y de forma precisa con las predicciones de materia oscura de la radiación de fondo de microondas.
+Este modelo inverso de formación de estructuras necesita algún tipo de materia oscura para funcionar. Se han utilizado simulaciones por ordenador de miles de millones de partículas de materia oscura para confirmar que el modelo de materia oscura fría de la formación de estructuras es consistente con las estructuras observadas en el Universo mediante las observaciones de galaxias, como la Sloan Digital Sky Survey, la 2dF Galaxy Redshift Survey y el bosque Lyman-alfa. Estos estudios han sido cruciales para crear el modelo Lambda-CDM que mide los parámetros cosmológicos, incluyendo la parte del Universo formada por bariones y materia oscura.
+
+
+Composición de la materia oscura
+
+Aunque la materia oscura se detectó por lentes gravitacionales en agosto de 2006,​
+muchos aspectos siguen cuestionados. En el experimento DAMA/NaI se afirma haber detectado materia oscura pasando a través de la Tierra, aunque muchos científicos son escépticos al respecto, ya que los resultados negativos de otros experimentos serían (casi) incompatibles con los del DAMA si la materia oscura consistiera en neutralinos.
+Los datos de varios tipos de pruebas, como el problema de la curva de rotación galáctica, las lentes gravitacionales, la formación de estructuras y la fracción de bariones en cúmulos y la abundancia de cúmulos, combinada con pruebas independientes para la densidad bariónica, indican que el 85-90% de la masa en el Universo no interactúa con la fuerza electromagnética. Esta «materia oscura» se evidencia por su efecto gravitacional. Se han propuesto varias categorías de materia oscura:
+
+Materia oscura bariónica.
+Materia oscura no-bariónica,​ dividida en tres tipos diferentes:
+Materia oscura caliente: partículas no bariónicas que se mueven ultrarrelativísticamente.​
+Materia oscura templada: partículas no bariónicas que se mueven relativistamente.
+Materia oscura fría: partículas no bariónicas que no se mueven relativistamente.​
+Davis y otros escribieron en 1985:
+
+ 
+
+La materia oscura caliente consiste en partículas que viajan con velocidades relativistas. Se conoce un tipo de materia oscura caliente: el neutrino. Los neutrinos tienen una masa muy pequeña, no interactúan a través de fuerzas electromagnéticas o de la fuerza nuclear fuerte y son, por tanto, muy difíciles de detectar. Esto es lo que les hace atractivos como materia oscura. Sin embargo, los límites de los neutrinos indican que los neutrinos ordinarios solo harían una pequeña contribución a la densidad de la materia oscura.
+La materia oscura caliente no puede explicar cómo se formaron las galaxias desde el Big Bang. La radiación de fondo de microondas medida por el COBE y el WMAP, es increíblemente homogénea: indica que la materia se ha agrupado en escalas muy pequeñas. Sin embargo, las partículas de movimiento rápido no pueden agruparse en tales pequeñas escalas y, de hecho, suprimen la agrupación de otra materia. La materia oscura caliente, aunque existe en nuestro Universo en forma de neutrinos es, por tanto, la única parte de la historia.
+
+Para explicar la estructura en el Universo, el Modelo de concordancia necesita invocar la materia oscura fría (no-relativista). Las grandes masas, como los agujeros negros del tamaño de galaxias, pueden descartarse con las bases de los datos de las lentes gravitacionales. Las posibilidades que involucran materia bariónica normal son las enanas marrones o tal vez pequeños y densos pedazos de elementos pesados conocidos como objetos masivos de halo compacto o «MACHO» (massive compact halo object). Sin embargo, los estudios de la Nucleosíntesis del Big Bang han convencido a muchos científicos de que la materia bariónica como los MACHO no puede ser más que una pequeña fracción de la materia oscura total.
+El punto de vista más aceptado es que la materia oscura es principalmente no-bariónica, compuesta de una o más partículas elementales distintas de las normales (electrones, protones, neutrones y los neutrinos conocidos). Las partículas propuestas más comunes son los axiones, los neutrinos estériles y los WIMP (partículas masivas de interacción débil, incluyendo neutralinos). Ninguna de estas es parte del modelo estándar de física de partículas, pero pueden aparecer en ampliaciones del modelo estándar. Muchos modelos supersimétricos ocasionan naturalmente los WIMPs en forma de neutralinos. Los pesados, neutrinos estériles, existen en ampliaciones del modelo estándar que explica la pequeña masa de los neutrinos a través del mecanismo del balancín.
+Se han llevado a cabo y continúan búsquedas experimentales de estos candidatos a materia oscura. Estos esfuerzos se pueden dividir en dos grandes categorías: detección directa, en la que las partículas de materia oscura se observan en un detector; y la detección indirecta, que busca los productos de aniquilaciones de materia oscura. Los experimentos de detección de materia oscura han descartado algunos modelos de WIMP y axiones. También hay varios experimentos que ofrecen pruebas positivas de detección de materia oscura, como el DAMA/NaI y el Egret, pero están lejos de confirmarse y difícilmente reconcilian los resultados negativos de otros experimentos. Actualmente, están en proceso varias búsquedas de materia oscura, como la Cryogenic Dark Matter Search en la mina de Soudan y el experimento XENON en Gran Sasso. Otros están en desarrollo, como el experimento ArDM.
+En la primavera de 2006, los investigadores del Instituto de Astronomía de la Universidad de Cambridge publicaron haber calculado que la energía oscura solo está en cúmulos mayores de 1000 años luz de radio, implicando una velocidad media para las partículas de materia oscura de 9 km/s, una densidad de 20 amu/cm³ y una temperatura de 10 000 kelvins.​
+
+
+La materia oscura y la antimateria
+La materia oscura, la energía oscura y la antimateria son tres cosas absolutamente distintas. La antimateria es como la materia común de la que estamos hechos, pero conformada por partículas cuya carga eléctrica es de signo contrario. Por ejemplo, un anti-electrón (también conocido como positrón por razones históricas), es una partícula igual al electrón, con su misma masa y carga pero de signo eléctrico positivo (el electrón tiene carga negativa). Y un anti-protón es una partícula con la misma cantidad de masa y carga de un protón, pero con carga de signo eléctrico negativo.
+La antimateria se forma con antipartículas: del mismo modo que un átomo de hidrógeno consiste en un electrón orbitando alrededor de un protón, si juntáramos un antiprotón con un antielectrón podríamos tener un átomo de antihidrógeno, lo que se ha logrado en el CERN, por fracciones de segundo.
+​
+
+
+Problema de la materia oscura
+Estimaciones basadas en los efectos gravitacionales de la cantidad de materia presente en el Universo sugieren, consistentemente, que hay mucha más materia de la que se puede observar directamente. Además, la existencia de materia oscura resolvería varias inconsistencias en la teoría del Big Bang. Se cree que la mayoría de la masa del Universo existe en esta forma. Determinar cuál es la naturaleza de la materia oscura es el llamado «problema de la materia oscura» o «problema de la masa desaparecida» y es uno de los más importantes de la cosmología moderna.
+La existencia de la materia oscura puede parecer irrelevante para nuestra vida en la Tierra, pero que exista o no, afecta al destino último del Universo. Se sabe que el Universo está expandiéndose, por el corrimiento al rojo que muestra la luz de los cuerpos celestes distantes. Si no hubiera materia oscura, esta expansión continuaría para siempre. Si la actual hipótesis de la materia oscura es correcta, y dependiendo de su cantidad, la expansión del Universo podría ralentizarse, detenerse o incluso invertirse (lo que produciría el fenómeno conocido como Big Crunch). Sin embargo, su importancia para el destino final del Universo se ha relativizado en los últimos años, frente a la existencia de una constante cosmológica y de una energía oscura. Según las mediciones realizadas en 2003 y 2006 por el satélite WMAP, la expansión del Universo se está acelerando, y continuará debido a la existencia de la energía oscura, aunque sin causar un Big Rip.
+
+
+Explicaciones alternativas
+
+
+Modificaciones de la gravedad
+Una explicación alternativa a las cuestiones planteadas por la materia oscura es suponer que las inconsistencias observadas son debidas a una incompleta comprensión de la gravedad. Para explicar las observaciones, a grandes distancias, las fuerzas gravitacionales son más fuertes de lo que nos indicarían la mecánica newtoniana. Por ejemplo, esto podría ocurrir si se toma un valor negativo para la constante cosmológica (valor que se estima positivo en función de recientes observaciones) o si se adopta la teoría de la Dinámica newtoniana modificada (MOND),​ que corrige las Leyes de Newton para aceleraciones pequeñas. Sin embargo, la construcción de una teoría MOND relativista ha sido problemática y no está claro como se puede reconciliar con las medidas de las lentes gravitacionales en la curvatura de la luz alrededor de las galaxias. La principal teoría MOND relativista, propuesta por Jacob Bekenstein en 2004 es llamada TeVeS (Tensor-Vector-Scalar) y resuelve muchos de los problemas de los primeros intentos. Una teoría de gravedad modificada (MOG) propuesta por John Moffat, basada en la Teoría gravitacional no-simétrica (NGT), es también una alternativa a la materia oscura.
+Otra teoría discutida es la Expansión cósmica en escala (SEC) de C. Johan Masreliez.​ Otra aproximación, propuesta por Arrigo Finzi en 1963 y por Robert Sanders en 1984, es reemplazar el potencial gravitacional por la siguiente expresión:
+
+  
+    
+      
+        U
+        =
+        
+          
+            
+              G
+              M
+              (
+              1
+              −
+              B
+              
+                e
+                
+                  −
+                  r
+                  
+                    /
+                  
+                  ρ
+                
+              
+              )
+            
+            
+              (
+              1
+              −
+              B
+              )
+              r
+            
+          
+        
+      
+    
+    {\displaystyle U={\frac {GM(1-Be^{-r/\rho })}{(1-B)r}}}
+  
+
+donde B y 
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+  
+ son parámetros ajustables. En cualquier caso, tales aproximaciones tienen dificultades para explicar el diferente comportamiento de las distintas galaxias y clústeres. En cambio, tales discordancias se pueden entender fácilmente tomando diferentes cantidades de materia oscura. Las observaciones sobre la rotación de las galaxias indican que alrededor del 90% de la masa de una galaxia no es visible y solo puede detectarse por sus efectos gravitacionales.
+Alexander Mayer propone una hipótesis basada en las inconsistencias observadas en la sincronización del sistema GPS y otras anomalías. En dicha hipótesis, el aumento del corrimiento hacia el rojo observado en galaxias lejanas y el aparente exceso de masa del universo hace necesario que dicha materia oscura no sean más que errores de medida fruto de una incorrecta formulación de la Teoría de la Relatividad General. Según la nueva formulación de Alexander Mayer, el universo no precisa de la existencia de energía oscura ni de materia oscura.
+El problema principal de estas explicaciones alternativas es que no explican las anisotropías del fondo cósmico de microondas que, por otro lado, sí predicen la existencia de materia oscura no bariónica.
+En agosto de 2006 un estudio de colisión de cúmulos de galaxias afirmaba demostrar que, incluso en una hipótesis de gravedad modificada, la mayoría de la masa tiene que ser alguna forma de materia oscura de modo que cuando la materia regular es «barrida» de un cúmulo, los efectos gravitacionales de la materia oscura (que se pensaba que no interactuaba, aparte de su efecto gravitacional) permanecen.​ Un estudio afirma que TeVeS puede producir el efecto observado, pero esto continúa necesitando que la mayoría de la masa esté en forma de materia oscura, posiblemente en forma de neutrinos ordinarios.​ También en la Teoría gravitacional no-simétrica se afirma que cualitativamente encaja con las observaciones, sin necesitar la exótica materia oscura.​
+
+
+Explicaciones de mecánica cuántica
+En otra clase de teorías se intenta reconciliar la Gravedad con la Mecánica cuántica y se obtienen correcciones a la interacción gravitacional convencional. En teorías escalar-tensoriales, los campos escalares como el campo de Higgs se acopla a la curvatura dada a través del tensor de Riemann o sus trazas. En muchas de tales teorías el campo escalar es igual al campo de inflación, que es necesario para explicar la inflación cósmica del Universo después del Big Bang, como el factor dominante de la quintaesencia o energía oscura. Utilizando una visión basada en el Grupo de Renormalización, M. Reuter y H. Weyer han demostrado​ que la constante de Newton y la constante cosmológica pueden ser funciones escalares en el espacio-tiempo si se asocian las escalas de renormalización a los puntos del espacio-tiempo.
+En la teoría de la relatividad de escala Laurent Nottale, el espacio-tiempo es continuo pero no diferenciable, conduciendo a la aparición de una Ecuación de Schrödinger gravitacional. Como resultado, aparecen los efectos de cuantización a gran escala.​ Esto hace posible predecir correctamente las estructuras a gran escala del Universo sin la necesidad de las hipótesis de la materia oscura.
+
+
+Solución derivada de la relatividad general
+Una solución alternativa basada en la relatividad general propuesta por Adrián Cornejo, que considera los patrones de velocidad del gas en galaxias simuladas, según la teoría de onda de densidad cuasi-estacionaria que caracteriza a las espirales como patrones de rotación rígida y de larga duración (es decir, espirales estables),​ y la hipótesis de que las galaxias espirales rotarían establemente en su mayoría como un cuerpo sólido rígido, de acuerdo con la cinemática del sólido rígido, calculó la velocidad de algunas galaxias espirales tipo Sa​ (de acuerdo a la clasificación morfológica de las galaxias), graficando las curvas de rotación y obteniendo (sin considerar materia oscura) curvas muy aproximadas a las curvas de rotación conocidas a partir de las observaciones.​ La ecuación resulta de igualar la fuerza centrífuga con la fuerza que se adiciona a la mecánica newtoniana en la solución relativista (que es la fuerza inversamente proporcional a la cuarta potencia de la distancia r, relacionada con la  fuerza de Coriolis en el sistema de referencia no inercial), de forma análoga a como se deriva la velocidad orbital de los planetas mediante la mecánica newtoniana. De esta forma, se tiene la fuerza de Coriolis en el sistema rotante, la cual es una fuerza que en la mecánica newtoniana no se considera en un sistema de referencia en rotación. Con lo que se tiene en el sistema rotante la fuerza que, de otra forma, se busca agregar mediante la materia oscura para ajustarse a las velocidades de rotación observadas. La ecuación en función del momento angular se da como
+
+  
+    
+      
+        v
+        =
+        
+          
+            (
+            
+              
+                
+                  3
+                  G
+                  
+                    M
+                    
+                      ∙
+                    
+                  
+                  
+                    J
+                    
+                      2
+                    
+                  
+                
+                
+                  
+                    c
+                    
+                      2
+                    
+                  
+                  
+                    r
+                    
+                      3
+                    
+                  
+                  
+                    M
+                    
+                      g
+                    
+                    
+                      2
+                    
+                  
+                
+              
+            
+            )
+          
+          
+            1
+            
+              /
+            
+            2
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  3
+                  G
+                  
+                    M
+                    
+                      ∙
+                    
+                  
+                  
+                    j
+                    
+                      2
+                    
+                  
+                
+                
+                  
+                    c
+                    
+                      2
+                    
+                  
+                  
+                    r
+                    
+                      3
+                    
+                  
+                
+              
+            
+            )
+          
+          
+            1
+            
+              /
+            
+            2
+          
+        
+      
+    
+    {\displaystyle v=\left({\frac {3GM_{\bullet }J^{2}}{c^{2}r^{3}M_{g}^{2}}}\right)^{1/2}=\left({\frac {3GM_{\bullet }j^{2}}{c^{2}r^{3}}}\right)^{1/2}}
+  
+
+donde c es la velocidad de la luz, J es el momento angular del sistema, j es el  momento angular relativo específico, M● es la masa del núcleo galáctico y Mg es la masa de la galaxia. Esta fórmula solamente aplica para las galaxias espirales tipo Sa debido a su simetría circular, ya que para los otros tipos de galaxias espirales con diferente morfología se tendría que considerar su distinta geometría y dinámica. Aun cuando hasta la fecha no hay muchas observaciones documentadas del momento angular de las galaxias espirales, y las estimaciones que se tienen son principalmente derivadas de modelos que utilizan el concepto de materia oscura, el momento angular de cada galaxia se puede estimar a partir del momento angular relativo específico, dado como h = L/m, o en este caso como j = J/Mg.
+
+
+Referencias
+
+
+Enlaces externos
+The DAMA Project.
+«Método de multimensajeros para la detección de la materia oscura». Proyecto español del Programa Consolider-Ingenio 2010.
+«¿De qué está hecho el universo? (de las partículas elementales a la materia oscura)», por Carlos Muñoz.
+Vídeo sobre la materia oscura.
+Visibilidad/detectabilidad de la materia oscura (3 de enero de 2007).
+«Encontrado: gran parte del universo», por Phil Plait.
+«Materia oscura caliente», por Martin White.
+«Partículas de materia oscura: pruebas, candidatas y restricciones», por G. Bertone, D. Hooper y J. Silk.
+«Búsquedas experimentales de la materia oscura», por Timothy J. Sumner.
+«La materia oscura salió del frío», BBC News 5 de febrero de 2005.
+«Los astrónomos encuentran la galaxia sin estrellas», BBC News 23 de febrero de 2005.
+«Al principio», The Economist 13 de enero de 2005.
+Las galaxias elípticas también tienen halo de materia oscura.
+Artículos recientes sobre materia oscura en arXiv.org (enlace roto disponible en Internet Archive; véase el historial, la primera versión y la última).
+La NASA encuentra pruebas directas de materia oscura (imágenes), (texto) Archivado el 28 de marzo de 2020 en Wayback Machine.
+Artículo sobre pruebas directas de materia oscura.
+Noticias y vídeos de mapas 3D-Map de andamios de materia oscura de la ESA/Hubble.
+«El equipo encuentra “pruebas” de la materia oscura». Paul Rincón (2006) BBC en línea. Primera prueba directa de la materia oscura
+La materia oscura existe por Sean M. Carroll.
+Problemas de la masa desaparecida de la cosmología, por Robert Fritzius.
+Un gran hallazgo en la caza de la escurridiza materia oscura.
+Viendo lo invisible (SeedMagazine.com).
+¿Estrellas negras en el principio de los tiempos? (enlace roto disponible en Internet Archive; véase el historial, la primera versión y la última).
+Los secretos de la materia oscura. Parte 1  y parte 2, parte 3, Parte 4, Parte 5, Parte 6, Parte 7, Parte 8,
+¿La materia oscura en (serios) problemas? Parte I, por Jorge A. Vázquez y Gema Hebrero.

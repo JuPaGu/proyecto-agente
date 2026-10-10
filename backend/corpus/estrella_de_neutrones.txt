@@ -1,0 +1,119 @@
+TÍTULO: Estrella de neutrones
+FUENTE: https://es.wikipedia.org/wiki/Estrella_de_neutrones
+LICENCIA: CC BY-SA 4.0 (Wikipedia)
+
+Una estrella de neutrones​ es un tipo de remanente estelar resultante del colapso gravitacional de una estrella​ supergigante masiva después de agotar el combustible en su núcleo y explotar como una supernova tipo II, tipo Ib o tipo Ic. Como su nombre indica, estas estrellas están compuestas principalmente de neutrones, más otro tipo de partículas tanto en su corteza sólida de hierro, como en su interior, que puede contener tanto protones y electrones, como piones y kaones. Las estrellas de neutrones son muy calientes y se apoyan en contra de un mayor colapso mediante presión de degeneración cuántica, debido al fenómeno descrito por el principio de exclusión de Pauli. Este principio establece que dos neutrones (o cualquier otra partícula fermiónica) no pueden ocupar el mismo espacio y estado cuántico simultáneamente.
+Una estrella de neutrones típica tiene una masa entre 1,35 y 2,1 masas solares,​​​​​​​ con un radio correspondiente aproximado de 12 km.​ En cambio, el radio del Sol es de unas 60 000 veces esa cifra. Las estrellas de neutrones tienen densidades totales de 3,7×1017 a 5,9×1017 kg/m³ (de 2,6×1014 a 4,1×1014 veces la densidad del Sol),​ comparable con la densidad aproximada de un núcleo atómico de 3×1017 kg/m³.​ La densidad de una estrella de neutrones varía desde menos de 1×109 kg/m³ en la corteza, aumentando con la profundidad a más de 6×1017 u 8×1017 kg/m³ aún más adentro (más denso que un núcleo atómico).​ Esta densidad equivale aproximadamente a la masa de un Boeing 747 comprimido en el tamaño de un pequeño grano de arena.
+Las estrellas compactas de menos de 1,44 masas solares —el límite de Chandrasekhar— son enanas blancas, creadas a partir de estrellas progenitoras menos masivas (como el Sol) y con un mecanismo de formación diferente. Por encima de 1,5  a 3 masas solares —el límite de Tolman-Oppenheimer-Volkoff— podría crearse una estrella de quarks; no obstante, la existencia de estos objetos es aún solamente hipotética. También podrían existir estrellas híbridas, que contarían con un núcleo compuesto por quarks desconfinados y materia ordinaria en sus capas más externas. Algunas estrellas de neutrones giran rápidamente y emiten rayos de radiación electromagnética, que debido a la inclinación del eje de rotación respecto al magnético, pueden verse como púlsares.
+Las estrellas de neutrones que se pueden observar son muy calientes y suelen tener una temperatura superficial de alrededor de 600 000 K.​​​ El material de la estrella de neutrones es notablemente denso: una caja de cerillas de tamaño normal que contuviera material de estrella de neutrones tendría un peso aproximado de 3 mil millones de toneladas, el mismo peso que un trozo de 0,5 kilómetros cúbicos de la Tierra (un cubo con aristas de unos 800 metros) de la superficie terrestre.​​ Sus  campos magnéticos son entre 108 y 1015 (100 millones y 1000 billones) de veces más fuertes que el campo magnético de la Tierra. El campo gravitatorio en la superficie de la estrella de neutrones es aproximadamente 2×1011 (200 000 millones) veces el del campo gravitatorio de la Tierra.
+A medida que el núcleo de la estrella colapsa, su velocidad de rotación aumenta debido a la conservación del momento angular, y las estrellas de neutrones recién formadas giran hasta varios cientos de veces por segundo. Algunas estrellas de neutrones emiten haces de radiación electromagnética que las hacen detectables como  púlsares. De hecho, el descubrimiento de púlsares por Jocelyn Bell Burnell y Antony Hewish en 1967 fue el primer indicio observacional de la existencia de estrellas de neutrones. Se cree que la radiación de los púlsares se emite principalmente desde regiones cercanas a sus polos magnéticos. Si los polos magnéticos no coinciden con el eje de rotación de la estrella de neutrones, el haz de emisión barrerá el cielo. Visto desde lejos, si el observador se encuentra en algún punto de la trayectoria del haz, éste aparecerá como pulsos de radiación procedentes de un punto fijo del espacio (esto es el efecto faro). La estrella de neutrones que gira más rápido que se conoce es PSR J1748-2446ad, que gira a una velocidad de 716 veces por segundo​​ o 43 000 revoluciones por minuto, lo que da una velocidad lineal en la superficie del orden de 0,24c (es decir, casi una cuarta parte de la velocidad de la luz).
+Se cree que hay alrededor de mil millones de estrellas de neutrones en la Vía Láctea,​ y, como mínimo, varios cientos de millones, cifra que se obtiene estimando el número de estrellas que han sufrido explosiones de supernova.​ Sin embargo, la mayoría son viejas y frías, e irradian muy poco; la mayoría de las estrellas de neutrones que se han detectado se dan sólo en determinadas situaciones en las que sí irradian, como si fueran un púlsar o parte de un sistema binario. Las estrellas de neutrones de rotación lenta y que no emiten radiación son casi indetectables; sin embargo, desde que el telescopio espacial Hubble detectó RX J1856.5-3754 en la década de 1990, se han detectado unas pocas estrellas de neutrones cercanas que parecen emitir sólo radiación térmica. Se conjetura que los repetidores gamma suaves son un tipo de estrella de neutrones con campos magnéticos muy fuertes, conocidos como magnetars, o alternativamente, estrellas de neutrones con discos fósiles a su alrededor.​
+
+Las estrellas de neutrones en sistemas binarios​ pueden sufrir acreción, lo que normalmente hace que el sistema brille en rayos X, mientras que el material que cae sobre la estrella de neutrones puede formar puntos calientes que giran dentro y fuera de la vista en sistemas púlsar de rayos X identificados. Además, esta acreción puede "reciclar" púlsares viejos y hacer que ganen masa y giren a velocidades de rotación muy rápidas, formando los llamados púlsares de milisegundos. Estos sistemas binarios seguirán  evolucionando, y finalmente las compañeras pueden convertirse en objetos compactos como enanas blancas o estrellas de neutrones, aunque otras posibilidades incluyen la destrucción completa de la compañera mediante ablación o fusión. La fusión de estrellas de neutrones binarias puede ser la fuente de estallidos de rayos gamma de corta duración, y es probable que sean fuertes fuentes de ondas gravitacionales. En 2017 se observó una detección directa (GW170817) de las ondas gravitacionales de un evento de este tipo,​ y también se han observado indirectamente ondas gravitacionales en las que dos estrellas de neutrones orbitan una alrededor de la otra.
+
+
+Formación
+
+Cualquier estrella de la secuencia principal con una masa inicial de más de 8 masas solares puede convertirse en una estrella de neutrones. Así, en este tipo de estrellas, al finalizar la fase primaria de fusión de hidrógeno con su consecuente separación de la secuencia principal, se produce un calentamiento del núcleo, lo que posibilita otros tipos de fusiones, debido a los cuales se produce un núcleo rico en hierro. Cuando todo el combustible nuclear ha sido utilizado, el núcleo se vuelve inestable, al tener que soportar la presión de degeneración en solitario. A la vez, se siguen depositando materiales pesados en el núcleo, haciendo que se exceda el límite de Chandrasekhar. La presión degenerada de los electrones aumenta y el núcleo se colapsa más rápidamente, aumentando la temperatura hasta 3 x 109 K. A estas temperaturas, se produce la fotodesintegración (ruptura del núcleo de hierro en partículas alfa debido a rayos gamma de alta energía). De esta forma, las partículas alfa, al tener menos carga, absorben con mayor facilidad los electrones que se meten en el interior de los núcleos, combinándose con los protones. También el helio resultante es susceptible de ser fotodesintegrado, por lo que se generarán ingentes cantidades de protones libres.
+Esto produce un aumento aún mayor de la temperatura, ocasionando la formación de neutrones de la unión de protones y electrones, mediante un proceso conocido como captura electrónica, emitiendo neutrinos. En principio, la densidad necesaria para que se dé la neutronización (recombinación de electrones con protones para dar neutrones) es de 2,4 × 107 g/cm³. Como en las estrellas degeneradas no hay protones libres, la densidad necesaria es, en realidad, más elevada, dado que los electrones han de superar una barrera coulombiana bastante mayor, necesitándose aproximadamente unos 109 g/cm³.​
+Fotodesintegración del hierro: 
+  
+    
+      
+        γ
+        +
+        
+          
+
+          
+          
+            56
+          
+        
+        
+          F
+          e
+        
+        →
+        13
+        α
+        +
+        4
+        n
+      
+    
+    {\displaystyle \gamma +{}^{56}\mathrm {Fe} \rightarrow 13\alpha +4n}
+  
+ 
+Fotodesintegración del helio: 
+  
+    
+      
+        γ
+        +
+        
+          
+
+          
+          
+            4
+          
+        
+        
+          H
+          e
+        
+        →
+        2
+        p
+        +
+        2
+        n
+      
+    
+    {\displaystyle \gamma +{}^{4}\mathrm {He} \rightarrow 2p+2n}
+  
+
+Este ciclo sigue su efecto hasta llegar a densidades nucleares de 4 x 1017 kg/m³ cuando la presión degenerada nuclear detiene la contracción. La atmósfera exterior de la estrella se expulsa creando una supernova de tipo II o Ib, mientras que el resto se convierte en una estrella de neutrones, cuya masa será menor que 5 masas solares (si su masa fuera mayor se acabaría convirtiendo en un agujero negro al ser la presión de degeneración de los neutrones insuficiente para estabilizar el proceso). También pueden producirse estrellas de neutrones a partir de sistemas binarios. Su núcleo quedará formado por hierro hiperdenso, junto con otros metales pesados, y seguirá compactándose, al ser su masa demasiado grande y los electrones degenerados no ser capaces de detener el colapso. 
+La fotodesintegración enfría la estrella compacta, ya que es una reacción endotérmica que absorbe parte del calor interno de la misma. Por otra parte, la concentración de electrones disminuye al ser absorbidos por los núcleos, provocando una caída en picado de la presión de degeneración, acelerando aún más el colapso. Los núcleos sobrecargados de neutrones los pierden, dejándolos libres, y pasan a formar parte de una masa compacta de neutrones llamada neutronio.
+El proceso continúa hasta alcanzar la densidad de degeneración de los neutrones, aproximadamente en torno a 1014 g/cm³, momento en el que casi toda la masa de la estrella se habrá transformado básicamente en neutrones, aunque contendrá cierta cantidad de otros bariones adicionales por el proceso de hiperonización.​ El núcleo de neutrones y bariones en estado degenerado deberá tener una masa inferior a unas tres masas solares, denominado límite de Tolman-Oppenheimer-Volkoff. En caso de que tenga una masa superior, el colapso de la estrella de neutrones no puede detenerse, sino que, se cree, llega a formar un agujero negro. Algunos científicos especulan sobre la posible existencia de un estado intermedio entre estrella de neutrones y agujero negro; se trataría de la estrella de quarks, pero tal objeto no ha sido observado aún.​ Sin embargo, existen varios candidatos a estrella de quarks, como RJX J185635-375.​
+
+
+Características
+La principal característica de las estrellas de neutrones es que resisten el colapso gravitatorio mediante la presión de degeneración de los neutrones, sumado a la presión generada por la parte repulsiva de la interacción nuclear fuerte entre bariones. Esto contrasta con las estrellas de secuencia principal, que equilibran la fuerza de gravedad con la presión térmica originada en las reacciones termonucleares en su interior.
+Actualmente, no se sabe si el núcleo de una estrella de neutrones tiene la misma estructura que sus capas externas o si, por el contrario, está formado por plasma de quarks-gluones. Lo cierto es que las altísimas densidades que se dan en la zona central de estos objetos son tan elevadas que no permiten hacer predicciones válidas con modelos informáticos ni con observaciones experimentales.
+
+
+Historia del descubrimiento
+
+Propuestas originalmente por los astrónomos Walter Baade y Fritz Zwicky en 1934 (dos años después del descubrimiento del neutrón) como posibles subproductos de una supernova, no recibieron mucha atención por parte de los astrofísicos teóricos, ya que no existían entonces objetos conocidos a los cuales se pudiera asociar una estrella de neutrones.
+Sin embargo, en 1967 Jocelyn Bell liderada por Antony Hewish descubrió los púlsares, trabajo que le valió el Premio Nobel en 1974, los que fueron asociados rápidamente a estrellas de neutrones por Thomas Gold en 1968. La explicación se basó en que los intensos campos magnéticos estimados para las estrellas de neutrones (del orden de 1012 G) podían dar cuenta de la estabilidad de los pulsos recibidos, y predijo que la frecuencia de los pulsos emitidos debía decaer lentamente en el tiempo, debido a la pérdida de energía rotacional: esto fue luego comprobado al descubrirse la disminución de la frecuencia de los pulsos del púlsar de la nebulosa del Cangrejo. Este argumento fue puesto sobre firmes bases teóricas por J. Ostrikcers y J. Gunns en 1971 con el modelo de frenado por dipolo magnético.
+El 17 de agosto e 2017, el proyecto colaborativo LIGO/Virgo detectó un pulso de ondas gravitatorias,​​ denominado GW170817, y que se asoció con la fusión de dos estrellas de neutrones en la galaxia elíptica NGC 4993, en la constelación Hidra. GW170817 también parecía estar relacionado con un estallido de rayos gamma corto (de ≈2 segundos de duración), GRB 170817A, detectado por primera vez 1,7 segundos después de la señal de fusión GW, y un evento observacional de luz visible observado por primera vez 11 horas después, SSS17a.​​​​​
+
+
+Véase también
+Púlsar
+Magnetar
+Estrella compacta
+Estrella de quarks
+Evolución estelar
+Fusión de estrellas de neutrones
+Materia degenerada
+Objeto astronómico
+Cuásar
+
+
+Notas
+
+
+Referencias
+
+
+Bibliografía
+Kippenhahn, Rudolf (1984).  R. Piper GmbH & Co, ed. Hundert Milliarden Sonnen [Cien mil millones de soles] (en alemán). ISBN 3-492-00643-4.  . En Google Book
+
+
+Enlaces externos
+
+ Wikimedia Commons alberga una categoría multimedia sobre Estrella de neutrones.
+Vídeos Proyecto Celestia Se puede contemplar un vídeo sobre la rotación de una estrella de neutrones (el Púlsar del Cangrejo, vídeo n.º 21).

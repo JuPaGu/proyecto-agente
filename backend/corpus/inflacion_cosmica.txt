@@ -1,0 +1,331 @@
+TÍTULO: Inflación cósmica
+FUENTE: https://es.wikipedia.org/wiki/Inflaci%C3%B3n_c%C3%B3smica
+LICENCIA: CC BY-SA 4.0 (Wikipedia)
+
+La inflación cósmica es un conjunto de propuestas en el marco de la física teórica para explicar la expansión ultrarrápida del universo en los instantes iniciales y resolver el llamado problema del horizonte.
+
+
+Introducción
+Fue la primera propuesta hecha por el físico y cosmólogo estadounidense Alan Guth en 1981​ e independientemente Andréi Linde,​ y Andrea Albrecht junto con Paul Steinhardt​ le dieron su forma moderna.
+Aunque el mecanismo responsable detallado de la física de partículas para la inflación se desconoce, la imagen básica proporciona un número de predicciones que se han confirmado por pruebas observacionales. La inflación es actualmente considerada como parte del modelo cosmológico estándar de Big Bang caliente (una actualización de la teoría antigua, que, de todos modos, tiene la misma idea principal). La partícula elemental o campo hipotético que se piensa que es responsable de la inflación es llamada inflatón.
+La inflación sugiere que hubo un periodo de expansión exponencial en el Universo muy pre-primigenio. La expansión es exponencial porque la distancia entre dos observadores fijos se incrementa exponencialmente, debido a la métrica de expansión del Universo (un espacio-tiempo con esta propiedad es llamado un espacio de Sitter). Las condiciones físicas desde un momento hasta el siguiente son estables: la tasa de expansión, dada por la constante de Hubble, es casi constante, lo que lleva a altos niveles de simetría. La inflación es a menudo conocida como un periodo de expansión acelerada porque la distancia entre dos observadores fijos se incrementa a una tasa acelerante cuando se mueven alejándose. (Sin embargo, esto no significa que el parámetro de Hubble se esté incrementando, ver parámetro de deceleración).
+El 17 de marzo de 2014, los astrofísicos del BICEP2 anunciaron la presunta detección de ondas gravitacionales inflacionarias al observar modos-B en la polarización del fondo cósmico de microondas. Los modos B en el fondo cósmico de microondas podrían ser debidos a la teoría de la inflación de Guth y para el Big Bang.​​​​
+
+
+Motivación
+La inflación resuelve varios problemas en la cosmología del Big Bang que fueron señalados en los años 1970.​ Estos problemas vienen de la observación que para parecerse a como es el universo hoy, el universo tendría que haber empezado de unas condiciones iniciales "especiales" o muy puestas a punto cerca del Big Bang. La inflación resuelve estos problemas proporcionando un mecanismo dinámico que conduce al universo a este estado especial, de esta manera formando un universo como el nuestro mucho más natural en el contexto de la teoría del Big Bang.
+La inflación cósmica tiene el efecto importante de resolver heterogeneidades, anisotropía y la curvatura del espacio. Esto pone al universo en un estado muy simple, en el que está completamente dominado por el campo inflatón y las únicas heterogeneidades significativas son las débiles fluctuaciones cuánticas en el inflatón. La inflación también diluye partículas pesadas exóticas, como los monopolos magnéticos predichos por muchas extensiones del modelo estándar de física de partículas. Si el universo estuviese lo suficientemente caliente como para formar tales partículas anteriores al periodo de inflación, no serían observados en la naturaleza, ya que serían tan raras que es bastante probable que no haya ninguna en el universo observable. Juntos, estos efectos se llaman el "teorema de no pelo inflacionario"​ por analogía con el teorema de no pelo para los agujeros negros.
+El "teorema de ausencia de pelo" es esencialmente porque el universo se expande por un factor enorme durante la inflación. En un universo en expansión, las densidades de energía generalmente cae según se incrementa el volumen del universo. Por ejemplo, la densidad de la materia (polvo) "fría" ordinaria es proporcional a la inversa del volumen: cuando las dimensiones lineales se duplican, la densidad de energía cae en un factor de ocho. La densidad de energía en la radiación cae incluso más rápidamente según se expande el universo: cuando las dimensiones lineales se duplican, la densidad de energía de radiación cae en un factor de dieciséis. Durante la inflación, la densidad de energía en el campo inflatón es casi constante. Sin embargo, la densidad de energía en heterogeneidades, curvatura, anisotropías y partículas exóticas está descendiendo y a con una inflación suficiente estas se hacen insignificantes. Esto deja un universo vacío, plano y simétrico que es llenado de radiación cuando la inflación termina.
+Un requisito clave es que la inflación tiene que continuar lo suficiente para producir el universo observable actual de un simple y pequeño volumen de Hubble inflacionario. Esto es necesario para asegurar que el universo parece plano, homogéneo e isótropo en las escalas observables mayores. Este requisito es generalmente pensado que se satisface si el universo se expandió con un factor de al menos 1026 durante la inflación.​ Al final de la inflación, ocurre un proceso llamado recalentamiento, en el que las partículas inflatón decaen en la radiación que empieza el caliente Big Bang. No se conoce cuanto duró la inflación, pero se piensa que fue extremadamente corta comparado con la edad del universo. Asumiendo que la escala de energía de inflación está entre 1015 y 1016 eV, como se sugiere en los modelos más simples, el periodo de inflación responsable del Universo observable probablemente duró unos 10-33 segundos.​
+
+
+Problema de la planitud y el ajuste fino
+
+Existe evidencia de que a gran escala nuestro universo parece muy cercano a la planitud, y por tanto su curvatura global es cerca de cero 
+  
+    
+      
+        K
+        ≈
+        0
+      
+    
+    {\displaystyle K\approx 0}
+  
+ (obviamente localmente esto no se cumple, especialmente cerca de estrellas supermasivas o agujeros negros). Dado que el parámetro de densidad Ω se relaciona con la curvatura K, la constante de Hubble H y el factor de escala a mediante la relación:​
+
+  
+    
+      
+        Ω
+        (
+        t
+        )
+        −
+        1
+        =
+        
+          
+            K
+            
+              
+                a
+                
+                  2
+                
+              
+              (
+              t
+              )
+              
+                H
+                
+                  2
+                
+              
+              (
+              t
+              )
+            
+          
+        
+      
+    
+    {\displaystyle \Omega (t)-1={\frac {K}{a^{2}(t)H^{2}(t)}}}
+  
+
+sólo si inicialmente K = 0, el valor de Ω se mantiene constante (en ese caso, Ω = 1). Pero si la curvatura no es exactamente cero, entonces Ω(t) se aleja de 1 a medida que el universo se expande, de hecho para un universo como el nuestro dominado por la materia:
+
+  
+    
+      
+        
+          |
+        
+        Ω
+        (
+        t
+        )
+        −
+        1
+        
+          |
+        
+        ∝
+        
+          t
+          
+            2
+            
+              /
+            
+            3
+          
+        
+      
+    
+    {\displaystyle |\Omega (t)-1|\propto t^{2/3}}
+  
+
+Por lo que, si actualmente el valor de Ω es cercano a 1, eso implica que al principio del universo todavía era mucho más cercano a 1, es decir, cerca de la planitud ideal. Las estimaciones sugieren que en el momento del inicio de la nucleosíntesis debió tenerse:
+
+  
+    
+      
+        
+          |
+        
+        Ω
+        (
+        
+          t
+          
+            n
+            u
+            c
+          
+        
+        )
+        −
+        1
+        
+          |
+        
+        ≤
+        
+          10
+          
+            −
+            16
+          
+        
+      
+    
+    {\displaystyle |\Omega (t_{nuc})-1|\leq 10^{-16}}
+  
+
+Como parece improbable que por simple azar Ω haya quedado tan cerca del valor 1, la inflación es un mecanismo que podría explicar por qué el universo quedó tan finamente sintonizado alrededor del valor Ω = 1, ya que muchos cosmólogos consideran que no es azar que de entre muchos posibles valores el universo tenga un valor tan cercano precisamente al valor que implica planitud.
+
+
+Problema del horizonte
+
+El problema del horizonte​​​ es el problema de determinar por qué el universo parece estadísticamente homogéneo e isótropo de acuerdo con el principio cosmológico. Las moléculas de gas en un bote de gas están distribuidas homogénea e isotrópamente porque están en equilibrio térmico: el gas a través del bote ha tenido suficiente tiempo para interactuar, para disipar las heterogeneidades y las anisotropías. La situación es bastante diferente en el modelo del Big Bang sin inflación, porque la expansión gravitacional no da al Universo primigenio suficiente tiempo para equilibrarse. En un Big Bang en el que solo hay la materia y la radiación conocida en el modelo estándar, dos regiones ampliamente separadas del universo observable no pueden haberse equilibrado porque nunca han entrado en contacto causal: en la historia del universo, volviendo a los primeros tiempos, no ha sido posible enviar una señal de luz entre las dos regiones. Como no tienen interacción, es imposible que se equilibren. Esto es porque el radio de Hubble en un Universo dominado de materia o radiación se expande mucho más rápidamente que las longitudes físicas y tales puntos que están incomunicados se comunican. Históricamente, dos soluciones propuestas fueron el universo Fénix de Georges Lemaître,​ el relacionado universo oscilante de Richard Tolman,​ y el universo Mixmaster de Charles Misner.​​ Lemaître y Tolman propusieron que un universo experimentando varios ciclos de contracción y expansión podría llegar a un equilibrio térmico. Sus modelos fallaban, sin embargo, por la acumulación de la entropía a través de varios ciclos. Misner hizo la (últimamente incorrecta) conjetura de que el mecanismo Mixmaster, que hacía el universo más caótico, podría conducir a la homogeneidad estadística y a la isotropía.
+
+
+Problema de la monotonía
+
+Otro problema es el problema de la monotonía (que algunas veces se conoce como una de las coincidencias de Dicke, con la otra siendo el problema de la constante cosmológica).​​​ En los años 1960 se conocía que la densidad de materia en el universo era comparable a la densidad crítica necesaria para un universo plano (esto es, un universo cuya gran escala geométrica es la usual geometría euclidiana, en vez de una geometría no euclídea hiperbólica o esférica. Por tanto, a pesar de la forma del universo, la contribución de la curvatura espacial a la expansión del universo no podría ser mucho mayor que la contribución de la materia. Pero según se expande el universo, la curvatura del desplazamiento hacia el rojo es más lenta que la materia y la radiación. Extrapolando en el pasado, se presenta un problema de puesta a punto porque la contribución de la curvatura al Universo tendría que ser exponencialmente pequeña (dieciséis órdenes de magnitud menos que la densidad de radiación en la nucleosíntesis del Big Bang, por ejemplo). Este problema está exacerbado por las recientes observaciones de la radiación de fondo de microondas que han demostrado que el Universo es plano hasta la precisión de un porcentaje pequeño.
+
+
+Problema del monopolo magnético
+El problema del monopolo magnético (algunas veces llamado el problema de las reliquias exóticas) es un problema que sugiere que si el Universo primigenio estaba muy caliente, se produciría un gran número de monopolos magnéticos estables y muy pesados. Este problema junto con la teoría de la gran unificación, fueron populares en los años 1970 y los años 1980, que proponían que a altas temperaturas (como en el universo primigenio) la fuerza electromagnética y las fuerzas nucleares fuerte y débil no son realmente fuerzas fundamentales, sino que aparecen debido a la ruptura espontánea de simetría electrodébil de una teoría de gauge.​ Estas teorías predicen varias partículas pesadas estables que no se han observado todavía en la naturaleza. El más notorio es el monopolo magnético, un tipo de campo magnético estable y pesado.​​ Los monopolos se espera que sean copiosamente producidos en la Teoría de la gran unificación a altas temperaturas y deberían haber persistido hasta la actualidad.​​ Para precisiones muy altas, los monopolos magnéticos parecen no existir en la naturaleza,​ mientras que de acuerdo a la teoría del Big Bang (sin la inflación cósmica) deberían haber sido copiosamente producidos en el caliente y denso universo primigenio, ya que se convirtió en el constituyente primario del universo.
+
+
+Otras cuestiones
+El mecanismo de cascada de división y elongación de fotones (CDEF) que precede la formación de materia fue propuesto para explicar la elongación de la radiación de fondo cósmico (Cosmic Microwave Background: CMB) por Alfredo Bennun, Rutgers University. Este modelo fue sometido a una simulación donde se propone que la energía primordial se pueda describir como una radiación, lo cual permite caracterizar la misma en función de su longitud de onda aunque de naturaleza física no esté establecida. Así esta radiación de ultra rápida frecuencia (v) y ultra pequeña longitud de onda (λ) podría evaluarse como fotones de muy alta energía limitada por la constante de Planck (
+  
+    
+      
+        
+          10
+          
+            22
+          
+        
+      
+    
+    {\displaystyle 10^{22}}
+  
+ MeV). Estos serían inicialmente confinados dentro de un espacio tridimensional del orden de un radio Fermi 
+  
+    
+      
+        
+          10
+          
+            −
+            13
+          
+        
+      
+    
+    {\displaystyle 10^{-13}}
+  
+ cm) evitando la naturaleza puntual y por lo tanto no física de una singularidad espaciotemporal. Se consideró la cascada como una secuencia reiterada 66 veces o sea, de 
+  
+    
+      
+        (
+        1
+        x
+        2
+        
+          )
+          
+            66
+          
+        
+      
+    
+    {\displaystyle (1x2)^{66}}
+  
+ divisiones de los fotones iniciales pero el incremento inicial del radio del universo se lo expresa en base 4 y exponencial 66 o 
+  
+    
+      
+        (
+        1
+        x
+        2
+        x
+        2
+        
+          )
+          
+            66
+          
+        
+      
+    
+    {\displaystyle (1x2x2)^{66}}
+  
+ porque en cada división o partición de los fotones simultáneamente se dobla su número y la amplitud de longitud de onda. Ambos procesos no están limitados por la velocidad de la propagación de la luz en el espacio porque implican transiciones de la amplitud del espacio tiempo. Este mecanismo expansivo y antagónico a la atracción gravitatoria es por lo tanto asimilable a la constante cosmológica de Einstein y es totalmente diferente al propuesto por Alan Guth aunque se obtienen valores similares a los que son estándar para caracterizar el final del escenario de inflación.
+
+
+Historia
+La inflación fue propuesta en 1981 por Alan Guth como un mecanismo para resolver estos problemas. Varios precursores, el más importante el trabajo de Willem de Sitter que demostró la existencia de un altamente simétrico Universo inflacionista, llamado espacio de Sitter. De Sitter, sin embargo, no lo aplicó a ningún problema cosmológico que interesaba a Guth.​ Contemporáneo con Guth, Alexei Starobinsky argumentó que las correcciones cuánticas de la gravedad reemplazarían la singularidad inicial del Universo con un estado de expansión exponencial.​ Demosthenes Kazanas anticipó parte del trabajo de Guth sugiriendo que la expansión exponencial podía eliminar el horizonte de partículas y tal vez resolver el problema del horizonte,​ y Sato sugirió que una expansión exponencial podría eliminar las paredes de dominio (otro tipo de reliquia exótica).​ Sin embargo, Guth fue el primero en ensamblar un dibujo completo de cómo todas estas condiciones iniciales se podían resolver mediante un estado de expansión exponencial.
+Guth propuso que según se enfriaba el Universo temprano, fue atrapado en un falso vacío con una densidad de energía alta, que se parece a una constante cosmológica. Según el Universo primigenio se enfriaba se vio atrapado en un estado metaestable (estaba superenfriado) que podía solo decaer a través del proceso de nucleación de pompas vía el efecto de túnel cuántico. Las burbujas del vacío verdadero se forman espontáneamente en el mar de falso vacío y rápidamente empieza a expandirse a la velocidad de la luz. Guth reconoció que este modelo era problemático porque el modelo no recalentaba apropiadamente: cuando las burbujas nucleaban, no generaban ninguna radiación. La radiación solo podía ser generada en colisiones entre muros de burbujas. Pero si la inflación duró lo suficiente como para solucionar los problemas de las condiciones iniciales, las colisiones entre las burbujas llegaron a ser excesivamente raras. (Incluso aunque las burbujas se expandan a la velocidad de la luz, las burbujas están lejos de que la expansión del espacio esté causando que la distancia entre ellos se expanda mucho más deprisa).
+Este problema fue resuelto por Andrei Linde​ e independientemente por Andreas Albrecht y Paul Steinhardt​ en un modelo llamado nueva inflación o inflación de rotación lenta (el modelo de Guth se conoció a partir de entonces como inflación antigua). En este modelo, en vez de hacer un túnel desde un estado de falso vacío, la inflación ocurrió por un campo escalar rotando hacia abajo de una montaña de energía potencial. Cuando el campo rota muy lentamente comparado con la expansión del Universo, ocurre la inflación. Sin embargo, cuando la montaña se vuelve más empinada, la inflación termina y se puede dar el recalentamiento.
+Finalmente, se mostró que la nueva inflación no produce un Universo perfectamente simétrico, sino que se generan débiles fluctuaciones cuánticas en el inflatón. Estas débiles fluctuaciones formaron las semillas primigenias para todas las estructuras creadas en el Universo posterior. Estas fluctuaciones fueron por primera vez calculadas por Viatcheslav Mukhanov y G. V. Chibisov en la Unión Soviética analizando el modelo similar de Starobinsky.​​​ En el contexto de la inflación, obtuvieron los resultados independientemente del trabajo de Mukhanov y Chibisov en el Nuffield Workshop de 1982 sobre el Universo Primigenio en la Universidad de Cambridge.​ Las fluctuaciones fueron calculadas por cuatro grupos trabajando por separado durante la trayectoria del grupo de trabajo: Stephen Hawking,​ Starobinsky,​ Guth y So-Young Pi;​ y James M. Bardeen, Paul Steinhardt y Michael Turner.​
+
+
+Estado observacional
+La inflación es un mecanismo concreto para realizar el principio cosmológico que es la base de nuestro modelo de cosmología física: es responsable de la homogeneidad y la isotropía del Universo observable. Además cuenta para la monotonía observada y la ausencia de monopolos magnéticos. Como el trabajo temprano de Guth, cada una de estas observaciones ha recibido confirmaciones posteriores, de modo impresionante por las observaciones detalladas de la radiación de fondo de microondas hechas por el satélite WMAP.​ Este análisis muestra que el Universo es plano hasta una precisión de al menos un pequeño porcentaje y es homogéneo e isótropo de una parte en 10 000.
+Además, la inflación predice que las estructuras visibles en el Universo hoy se formaron a través del colapso gravitacional de perturbaciones que se generaron como fluctuaciones mecánicas cuánticas en la época inflacionaria. La forma detallada del espectro de perturbaciones llamado un Campo Gaussiano aleatorio casi invariante (o espectro Harrison-Zel'dovich) es muy específico y tiene solo dos parámetros libres, la amplitud del espectro y el índice espectral que mide las ligeras desviaciones de la invarianza escala predicha por la inflación (la escala con invarianza perfecta se corresponte con el Universo idealizado de Sitter).​ La inflación predice que las perturbaciones observadas deberían estar en equilibrio térmico cada una con cada otra (éstas son llamadas perturbaciones adiabáticas o isentrópicas). Esta estructura de perturbaciones ha sido confirmada por el satélite WMAP y otros experimentos del fondo de radiación de microondas,​ y la medición de galaxias, especialmente el actual Sloan Digital Sky Survey.​ Estos experimentos han demostrado que una parte entre 10 000 de las heterogeneidades observadas tienen exactamente la forma predicha por la teoría. Además, ha sido medida la ligera desviación de la invarianza de escala. El índice espectral, ns es igual a uno para un espectro de escala invariante. Los modelos más simples de la inflación predicen que esta cantidad está entre 0.92 y 0.98.​​​​ El satélite WMAP ha medido ns = 0.95 y demuestra que es diferente de uno a dos niveles de la desviación estándar (2σ). Esto se considera una confirmación importante de la teoría de la inflación.​
+Se han propuesto varias teorías de la inflación que hacen predicciones radicalmente diferentes, pero que generalmente tienen mucho más ajuste fino de lo necesario.​​ Como modelo físico, sin embargo, la inflación es más valorable al predecir robustamente las condiciones iniciales del Universo basándose en solo dos parámetros ajustables: el índice espectral (que solo puede cambiar en un pequeño rango) y la amplitud de las perturbaciones. Excepto en modelos artificiales, esto es verdad a pesar de cómo se realiza la inflación en la física de partículas.
+Ocasionalmente, los efectos se observa que parecen contradecir los modelos más simples de inflación. Este primer año de datos de WMAP sugiere que el espectro no tiene por qué ser casi invariante, sino que puede tener una ligera curvatura.​ Sin embargo, el tercer año de datos reveló que el efecto era una anomalía estadística.​ Otro efecto que ha sido remarcado desde el primer satélite sobre la radiación de fondo de microondas, el Cosmic Background Explorer (COBE): la amplitud del momento del cuadrupolo del fondo de radiación de microondas es inesperadamente bajo y los otros multipolos bajos parecen estar preferentemente alineados con el plano eclíptico. Se ha dicho que esta es una firma de no-gausianidad y contradice los modelos más simples de la inflación. Otros sugieren que el efecto se puede deber a otros efectos físicos nuevos, a contaminación de fondo o incluso a la desviación de publicación.
+Un programa experimental está en proceso de pruebas más profundas sobre la inflación con medidas más precisas del fondo de radiación de microondas. En particular, las medidas de alta precisión de los llamados "modos B" de la polarización de la radiación de fondo de microondas sería evidente la radiación gravitacional producida por la inflación y se demostraría si la escala de energía de inflación predicha por los modelos más simples (1015-1016 eV) es correcta.​​ Estas medidas se esperaba que fueran realizadas por el Planck, aunque no está claro que la señal sea visible o si la contaminación de las fuentes de fondo interferirán con estas medidas.​ Otras medidas venideras, como las de la radiación de 21 centímetros (radiación emitida y absorbida del hidrógeno neutro anterior a las primeras estrellas se encendieran), puede medir el espectro de potencia con incluso una resolución mayor que el fondo de radiación de microondas y las mediciones de galaxias, aunque no se conoce si estas medidas serán posibles o si la interferencia con las fuentes de radiación en la Tierra y en la galaxia serán demasiado grandes.​
+Después de 2006, no está claro que la relación de cualquier periodo de inflación cósmica tenga que ver con la energía oscura. La energía oscura es ampliamente similar a la inflación y se piensa que es la causante de la aceleración de la expansión del Universo actual. Sin embargo, la escala de energía de la energía oscura es muy inferior, 10-12 eV, unos 27 órdenes de magnitud menos que la escala de la inflación.
+
+
+Estado de la teoría
+
+En la primera propuesta de Guth, se pensó que el inflatón era el campo de Higgs, el campo que explica la masa de las partículas elementales.​ Ahora se cree que el inflatón no puede ser el campo de Higgs (aunque el reciente descubrimiento en el CERN del bosón de Higgs está propiciando la aparición de nuevos modelos que sí usan el campo de Higgs). Otros modelos de inflación confían en las propiedades de las teorías de la gran unificación.​ Como los modelos de la Teoría de Gran Unificación más simples han fallado, muchos físicos piensan que la inflación estará incluida en una teoría supersimétrica como la teoría de cuerdas o una teoría de la gran unificación supersimétrica.Una sugerencia que promete es la inflación brana. Hasta el momento, sin embargo, la inflación se comprende principalmente por sus predicciones detalladas de las condiciones iniciales para el Universo primigenio caliente y la física de partículas está ampliamente modelada ad hoc. Como tal, a pesar de las estrictas pruebas observacionales que la inflación ha pasado, hay muchas preguntas abiertas sobre la teoría.
+
+
+Problema del ajuste fino
+
+Uno de los desafíos más grandes para la inflación surge de la necesidad de ajuste fino en las teorías inflacionarias. En la nueva inflación, las condiciones de rotación lenta se deberían para que ocurra la inflación. Las condiciones de rotación lenta dicen que el potencial tiene que ser uniforme (comparado con la gran energía del vacío y que las partículas de inflatón tienen que tener una masa pequeña.​ Para que la nueva teoría de la inflación de Linde, Albrecht y Steinhardt sea posible, por tanto, parece que el Universo tiene un campo escalar con un potencial especialmente plano y unas condiciones iniciales especiales.
+Andréi Linde propuso una teoría conocida como inflación caótica en la que sugirió que las condiciones para la inflación están realmente satisfechas genéricamente y la inflación ocurrirá en cualquier Universo que virtualmente empieza en un estado de energía caótico y tenga un campo escalar con energía potencial no acotada.​ Sin embargo, en su modelo el campo inflatón necesariamente toma valores mayores de una unidad de Planck: por esta razón, a menudo se llaman modelos de campos grandes y los nuevos modelos de inflación se llaman modelos de campos pequeños. En esta situación, las predicciones de la teoría defectiva de campos se piensa que no son válidas y la renormalización debería causar grandes correcciones que prevendrían la inflación.​ Este problema aún no ha sido resuelto y algunos cosmólogos discuten que los modelos de campo pequeño, en los que la inflación puede ocurrir a escalas de energía mucho menores, son mejores modelos de inflación.​ Mientras que la inflación depende de la teoría de campos cuántica (y la aproximación semiclásica a la gravedad cuántica) de manera importante, no ha sido completamente reconciliada con estas teorías.
+Robert Brandenberger ha comentado sobre el ajuste fino en otra situación.​ La amplitud de las heterogeneidades primigenias producidas por la inflación está directamente relacionada con la escala de energía de inflación. Hay fuertes suposiciones de que esta escala es de unos 1016 eV o 10−3 veces la energía de Planck. La escala natural es ingenuamente como la escala de Planck de tal manera que este pequeño valor se podría ver como otra forma de ajuste fino (llamado problema de la jerarquía): la densidad de energía dada por el potencial escalar está por debajo de 10−12 comparada con la densidad de Planck. Esto no es normalmente considerado como un problema crítico, sin embargo, porque la escala de la inflación se corresponde naturalmente a la escala de la unificación de gauge.
+
+
+Inflación eterna
+
+La inflación cósmica parece ser eterna de la forma en la que es teorizada. Aunque la nueva inflación es clásicamente la rotación hacia abajo del potencial, las fluctuaciones cuánticas pueden a veces hacer que vuelva a niveles anteriores. Estas regiones en las que el inflatón fluctúa ascendentemente se expande mucho más rápido que las regiones en que el inflatón tiene una energía potencial menor y tiende a dominar en términos de volumen físico. Este estado estacionario, fue desarrollado por primera vez por Vilenkin,​ se llama "inflación eterna". Se ha demostrado que cualquier teoría inflacionaria con un potencial no acotado es eterna.​ Es una creencia popular entre los físicos que el estado estacionario no puede continuar para siempre en el pasado.​​​ El espacio-tiempo inflacionario, que es similar al espacio de Sitter, está incompleto sin una región de contracción. Sin embargo, a pesar del espacio de Sitter, las fluctuaciones en un espacio inflacionario contrayente se colapsará para formar una singularidad gravitacional, un punto donde las densidades se llegan a ser infinito. Por tanto, es necesario tener una teoría para las condiciones iniciales del Universo. Esta interpretación fue discutida por Linde.​
+
+
+Condiciones iniciales
+Algunos físicos han intentado evitar este problema proponiendo modelos para un Universo eternamente inflacionista sin origen.​​​​ Estos modelos proponen una hipersuperficie "inicial" especial cuando el Universo tiene un tamaño mínimo y en el que el tiempo empieza.
+Otras propuestas intentan describir la creación nihilista del Universo de la cosmología cuántica y la consiguiente inflación. Vilenkin propuso un escenario así.​ Hartle y Hawking propusieron el Estado de Hartle-Hawking para la creación inicial del Universo en que la inflación sucede naturalmente.​
+Alan Guth ha descrito el Universo inflacionario como la "última comida libre":​ nuevos Universos, parecidos al nuestro que están continuamente produciéndose en un fondo vasto inflacionario. Las interacciones gravitacionales, en este caso, sortean (pero no violan) ni la primera ley de la termodinámica o conservación de la energía ni la segunda ley de la termodinámica o el problema de la flecha del tiempo. Sin embargo, mientras que hay un consenso de que esto soluciona el problema de las condiciones iniciales, algunos lo han disputado, ya que es mucho más probable que el Universo provenga de una fluctuación cuántica. Donald Page ha sido un crítico férreo de la inflación por esta anomalía.​ Acentuó que la flecha del tiempo termodinámica necesitaba condiciones iniciales de baja entropía, que podrían ser altamente probables. De acuerdo con ellos, más que resolver este problema, la teoría de la inflación la agrava más —el recalentamiento al final de la era de la inflación incrementa la entropía, haciéndola necesaria para que el estado inicial del Universo sea incluso más ordenado que en otras teorías del Big Bang sin fase de inflación—.
+Hawking y Page posteriormente encontraron resultados ambiguos cuando intentaron calcular la probabilidad de la inflación en el estado inicial de Hartle-Hawking.​ Otros autores han discutido esto, ya que la inflación es eterna, la probabilidad de que no ocurra nunca no es precisamente cero, una vez que empieza, la inflación se perpetua a sí misma y rápidamente domina el Universo. Recientemente, Lisa Dyson, Matthew Kleban y Leonard Susskind discutieron la utilizando el Principio Holográfico que la inflación espontánea es excesivamente improbable.​ Albrecht y Lorenzo Sorbo han discutido que la probabilidad de un cosmos inflacionario, consistente con las observaciones actuales, emergiendo de una fluctuación aleatoria de algún estado preexistente, comparada con un cosmos no-inflacionario abrumadoramente favorece el escenario inflacionario, simplemente porque la "semilla" suma de energía no-gravitacionales requeridas para el cosmos inflacionario es mucho menos que cualquiera requerida para una alternativa no-inflacionaria, que tiene mayor peso que cualquier consideración entrópica.​
+Otro problema que ha sido ocasionalmente mencionado es el problema trans-Planckiano o los efectos trans-Planckianos.​ Como la escala de energía de inflación y la escala de Planck están relativamente cerca, algunas de las fluctuaciones cuánticas que han construido la estructura de nuestro Universo fueron más pequeñas que la longitud de Planck antes de la inflación. Por tanto, podría haber correcciones de la física de Planck, en particular en la desconocida teoría cuántica de la gravedad. Ha habido algunos desacuerdos sobre la magnitud de este efecto: sobre si está justo en el umbral de la detectabilidad o si es completamente indetectable.
+
+
+Recalentamiento
+El final de la inflación es conocido como recalentamiento o termalización porque la gran energía potencial se descompone en partículas y rellena el Universo con radiación. Como la naturaleza del inflatón no se conoce, este proceso sigue estando pobremente comprendido, aunque se cree que toma lugar a través de una resonancia paramétrica.​​
+
+
+Inflación no eterna
+Otro tipo de inflación, llamada inflación híbrida, es una extensión de la nueva inflación. La inflación introduce campos escalares adicionales, de tal manera que uno de esos campos es responsable de la inflación normal de rotación lenta, otro dispara el fin de la inflación: cuando la inflación ha durado lo suficiente, llega a ser favorable para el que el segundo campo se descomponga en un estado de energía mucho menor.​ Al contrario que otros modelos de inflación, muchas versiones de inflación híbrida no son eternas.​​ En la inflación híbrida, uno de los campos escalares es responsable de gran parte de la densidad de energía (determinando así la tasa de la expansión), mientras que los otros son responsables para la rotación lenta (determinando así el periodo de la inflación y su terminación). Estas fluctuaciones en el antiguo inflatón no afectaría al fin de la inflación, mientras que las fluctuaciones posteriores no afectarían a la tasa de expansión. Por tanto, la inflación híbrida no es eterna. Cuando el segundo inflatón (de rotación lenta) está en la parte más baja de su potencial, cambia la localización del mínimo de los primeros potenciales de inflatón, que conduce a una rotación rápida de este inflatón para que disminuya su potencial, conduciendo al fin de la inflación.
+
+
+Inflación y la cosmología de cuerdas
+El descubrimiento de las compactaciones de flujo han abierto el camino para reconciliar la inflación y la teoría de cuerdas.​ Una nueva teoría, llamada inflación brana sugiere que la inflación aparece de una D-brana cayendo en una profunda garganta Klebanov-Strassler. Esta es una teoría muy diferente de la inflación ordinaria (está gobernada por la acción de Dirac-Born-Infeld que es muy diferente de la otra) y la dinámica sigue sin comprenderse. Parece que condiciones muy especiales son necesarias para que ocurra la inflación en el túnel entre dos vacíos en el mar de cuerdas (el proceso de tunelado entre dos vacíos es una forma de inflación antigua, pero la nueva inflación tiene que ocurrir entonces por algún otro mecanismo.
+
+
+Alternativas a la inflación
+La teoría de cuerdas necesita que, además de las tres dimensiones que observamos, existan dimensiones adicionales que están atrofiadas (véase también teoría de Kaluza-Klein). Las dimensiones extra aparecen como componentes frecuentes de los modelos de supergravedad y otras alternativas a la gravedad cuántica. Esto provoca la pregunta: ¿por qué las cuatro dimensiones del espacio-tiempo (altitud, longitud, latitud y tiempo) se vuelven grandes y el resto se vuelve inobservablemente pequeñas? Un intento de abordar esta pregunta, llamada cosmología de las cuerdas gaseosas, fue propuesta por Robert Brandenberger y Cumrun Vafa.​ Este modelo se centra en la dinámica del Universo primigenio considerada como un gas caliente de cuerdas. Brandenberger y Vafa demostraron que una dimensión de espacio-tiempo solo se podía expandir si las cuerdas enrolladas se podían aniquilar eficientemente las unas a las otras. Cada cuerda es un objeto unidimensional y los números de dimensiones más grandes en que dos cuerdas se cruzarán genéricamente (y presumiblemente se aniquilará) es tres. Por tanto, se discute que el número más probable de grandes dimensiones espaciales no-compactas es tres. Los trabajos actuales en este modelo se centran en si puede tener éxito en estabilizar el tamaño de las dimensiones atrofiadas y producir el espectro correcto de la densidad de perturbaciones primordiales. Desde un punto de vista reviente.​
+La ecpirótica y los modelos cíclicos se consideran también competidores de la inflación. Estos modelos solucionan el problema del horizonte a través de una época de expansión anterior al Big Bang y entonces generar el espectro requerido de la densidad de perturbaciones primigenia durante una fase de contracción conduciendo a un Big Crunch. El Universo pasa a través del Big Crunch y emerge en una fase caliente del Big Bang. En este sentido hay reminiscencias del "universo oscilante" propuesto por Richard Chace Tolman: sin embargo, en el modelo de Tolman la edad total del Universo es necesariamente finita, mientras que en estos modelos no es tan necesaria. Si se puede producir un espectro correcto de densidad de fluctuaciones y si el Universo puede navegar satisfactoriamente de un Big Bang a un Big Crunch sigue siendo un tema de controversia y de investigación actual.
+
+
+Críticas a la inflación
+Desde su introducción por Alan Guth en 1981, el paradigma inflacionario ha estado continuamente de moda entre los cosmólogos. Aclamado como la culminación del modelo estándar del big bang, ha sido presentado en la literatura de divulgación científica e incluso en los libros de texto de cosmología como un resultado establecido y comprobado de la investigación. Sin embargo, un número creciente de físicos, matemáticos y filósofos de la ciencia lo han puesto en duda, señalando sus defectos, lagunas y promesas incumplidas, y su falta de apoyo empírico. En 1999, John Earman y Jesús Mosterín publicaron un análisis crítico minucioso de la cosmología inflacionaria, concluyendo que “todavía carecemos de razones válidas para admitir ninguno de los modelos de la inflación en el núcleo estándar de la cosmología”.​
+Se ha planteado la cuestión de si los presuntos problemas que la inflación estaría llamada a resolver (desde la ausencia de monopolos magnéticos a la uniformidad y planitud del universo observable) no podrían ser seudoproblemas, ya que los monopolos magnéticos no tienen nada que ver con el big bang y que la aceptación de condiciones iniciales o de ligadura en los modelos matemáticos de la física es una práctica frecuente y bien establecida. En cualquier caso, y como ha venido señalando Roger Penrose desde 1986, a fin de poder funcionar, la inflación requiere que se den condiciones iniciales extremadamente específicas, por lo que el problema (o seudoproblema) de las condiciones iniciales no se resuelve en modo alguno: “Hay algo fundamentalmente erróneo en el intento de explicar la uniformidad del universo temprano como resultado de un proceso de termalización. […] En efecto, si la termalización hace algo […], entonces representa un incremento definitivo de la entropía. Por tanto, el universo habría tenido que ser todavía más especial antes de la termalización que después”.​ El problema de las condiciones iniciales específicas o finamente ajustadas no solo no se habría resuelto, sino que se habría agravado.
+El paradigma inflacionario predice y explica la inflación invocando el campo inflatón, que no coincide ni se relaciona con ningún campo físico conocido. Una crítica recurrente se refiere a la arbitrariedad de la curva del potencial de energía del inflatón, que parece ser un mero artilugio ad hoc para acomodar cualesquiera datos que podamos encontrar. Resulta significativo que Paul J. Steinhardt, uno de los fundadores de la cosmología inflacionaria, recientemente se haya convertido en uno de sus críticos más severos. Llama ‘inflación mala’ a un periodo de expansión acelerada que desemboca en un resultado que contradice a las observaciones, e ‘inflación buena’ al que es compatible con ellas: “No solo es la inflación mala más probable que la inflación buena, sino que la ausencia de inflación es más probable que ambas. […] Roger Penrose ha considerado todas las configuraciones posibles de los campos inflatón y gravitacional. Algunas de estas configuraciones conducen a la inflación. Otras configuraciones conducen directamente a un universo uniforme y plano —sin inflación—. El resultado de un universo plano es improbable en general. Pero la conclusión chocante de Penrose, sin embargo, es que la obtención de un universo plano sin inflación es mucho más probable que con inflación —por un factor de 10 elevado a la potencia de googol (10 elevado a 100)—".​
+
+
+Véase también
+Ylem
+Flujo oscuro
+Interpretación cosmológica de la mecánica cuántica
+
+
+Referencias
+
+
+Bibliografía
+Guth, Alan (1997). The Inflationary Universe: The Quest for a New Theory of Cosmic Origins (Perseus edición). ISBN 0-201-32840-2. 
+Guth, Alan H. (1999). El universo inflacionario: la búsqueda de una nueva teoría sobre los orígenes del cosmos (Editorial Debate edición). ISBN 978-84-8306-178-7. 
+Hawking, Stephen (1998). Historia del Tiempo (Grijalbo edición). ISBN 968-419-815-9. 
+Kolb, Edward; Michael Turner (1988). The Early Universe (Addison-Wesley edición). ISBN 0-201-11604-9.  
+Liddle, A. R.; Lyth, D. H. (2000). Cosmological inflation and large-scale structure. Cambridge University Press. ISBN 9780521575980. 
+Linde, Andrei (1990). Particle Physics and Inflationary Cosmology (Harwood edición). Chur, Switzerland. 
+Linde, Andrei (2005) "Inflation and String Cosmology," eConf C040802 (2004) L024; J. Phys. Conf. Ser. 24 (2005) 151–60; arΧiv:hep-th/0503195 v1 2005-03-24.
+Liddle, Andrew; David Lyth (2000). Cosmological Inflation and Large-Scale Structure (Cambridge edición). ISBN 0-521-57598-2.  
+Lyth, David H.; Antonio Riotto (1999). «Particle physics models of inflation and the cosmological density perturbation». Phys. Rept. 314: 1-146. Archivado desde el original el 12 de diciembre de 2012. Consultado el 25 de marzo de 2018.  
+Mukhanov, Viatcheslav (2005). Physical Foundations of Cosmology (Cambridge University Press edición). ISBN 0-521-56398-4. 
+Peebles, P. J. E. (1993). Principles of Physical Cosmology (Princeton University Press edición). ISBN 0-691-01933-9. 
+
+
+Enlaces externos
+¿Fue la Inflación Cósmica El 'Bang' Del Big Bang?, por Alan Guth, 1997
+Una Introducción a la Cosmología de la Inflación por Andrew Liddle, 1999
+actualización del 2004 por Andrew Liddle
+hep-ph/0309238 Laura Covi: Estado de la cosmología observacional y la inflación
+hep-th/0311040 David H. Lyth: ¿Cuál es el mejor modelo de inflación?
+El Crecimiento de la Inflación Simetría, diciembre de 2004
+El libro de notas de Guth mostrando su idea original 
+Situación reforzada del WMAP para la Inflación Cósmica, marzo de 2006
+Nota de prensa de la NASA en marzo de 2006 Archivado el 22 de noviembre de 2013 en Wayback Machine.

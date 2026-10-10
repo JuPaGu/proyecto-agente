@@ -1,0 +1,69 @@
+TÍTULO: Universo observable
+FUENTE: https://es.wikipedia.org/wiki/Universo_observable
+LICENCIA: CC BY-SA 4.0 (Wikipedia)
+
+El universo observable, horizonte del universo u horizonte cosmológico constituye la parte visible del universo total, la cantidad de luz que puede llegar a la Tierra respecto a la velocidad de expansión del universo. Parece tener un espacio-tiempo geométricamente plano. Tiene un radio de 4.40 × 1026 m (4.65  × 1010 años luz), un volumen de 1.08 × 1079 m³ y una masa de 9.27 × 1052 kg, por lo que la densidad masa-energía equivalente es de 8.58 × 10-27 kg/m³. La densidad media de sus constituyentes primarios es de un 69.3 % de energía oscura, un 26.8 % de materia oscura fría y un 4.9 % de materia ordinaria, según datos recogidos por la sonda Planck. Así, la densidad de los átomos está en el orden del núcleo de hidrógeno sencillo para cada cuatro metros cúbicos.​ La naturaleza de la energía oscura y la materia oscura fría sigue siendo un misterio. Aunque se han  propuesto diferentes candidatos para ambas cosas (como partículas y fuerzas ya existentes o nuevas, o modificaciones de la relatividad general) no existe confirmación experimental sobre ninguna de las propuestas.
+La palabra observable en este sentido no se refiere a la capacidad de la tecnología moderna para detectar luz u otra información de un objeto, ni a si hay algo que detectar. Se refiere al límite físico creado por la propia velocidad de la luz. Ninguna señal puede viajar más rápido que la luz, por lo que existe una distancia máxima (llamada horizonte de partículas) más allá de la cual no se puede detectar nada, ya que las señales aún no podrían haber llegado hasta nosotros. A veces, los astrofísicos distinguen entre el universo visible, que incluye sólo las señales emitidas desde la recombinación (cuando los átomos de hidrógeno se formaron a partir de protones y electrones y se emitieron fotones), y el universo observable, que incluye las señales desde el comienzo de la expansión cosmológica (el Big Bang en la cosmología física tradicional, el final de la época inflacionaria en la cosmología moderna).
+Según los cálculos realizados, la distancia comóvil actual a las partículas desde las que se emitió la Radiación de fondo de microondas (CMBR), que representa el radio del universo visible, es de unos 1.4  × 1010 parsecs (unos 4.5  × 1010 años luz); la distancia comóvil al borde del universo observable es de unos 1.4  × 1010 parsecs (unos  4.6  × 1010 años luz),​ aproximadamente un 2 % mayor. Por tanto, se estima que el  radio del universo observable es de unos 4.65  × 1010 años luz.​​ Utilizando las densidad crítica y el diámetro del universo observable, se puede calcular que la masa total de materia ordinaria en el universo es de aproximadamente 1.5 × 1053 kg.​ En noviembre de 2018, los astrónomos informaron de que la luz de fondo extragaláctica (EBL, por sus siglas en inglés) ascendía a 4 × 1084 fotones.​​
+A medida que la expansión del universo se acelera, todos los objetos actualmente observables, fuera del supercúmulo local, parecerán eventualmente congelarse en el tiempo, mientras emiten luz progresivamente más roja y más tenue. Por ejemplo, los objetos con el actual desplazamiento al rojo z de 5 a 10 permanecerán observables durante no más de 4000-6000 millones de años. Además, la luz emitida por objetos situados actualmente más allá de una cierta distancia comóvil (actualmente unos 1.9  × 1010 pársecs), nunca llegará a la Tierra.​
+
+
+Diferencias entre universo observable y universo total
+El universo observable es tan solo aquella pequeña parte que podemos detectar del universo total. Con base en la geometría plana descubierta en el universo observable se ha conjeturado que el universo total sea mucho más grande o, incluso, pueda ser infinito en extensión.​
+Se desconoce el tamaño del universo, que podría tener una extensión infinita.​ Algunas partes del universo están demasiado lejos para que la luz emitida desde el Big Bang haya tenido tiempo suficiente para llegar a la Tierra o a instrumentos espaciales, y por tanto quedan fuera del universo observable. En el futuro, la luz de las galaxias lejanas habrá tenido más tiempo para viajar, por lo que cabe esperar que otras regiones se vuelvan observables. Sin embargo, debido a la ley de Hubble, las regiones suficientemente distantes de la Tierra se están expandiendo más rápido que la velocidad de la luz​ - además, la velocidad de expansión parece estar acelerándose debido a la energía oscura.
+Suponiendo que la energía oscura permanezca constante (una constante cosmológica invariable) de modo que el ritmo de expansión del universo continúe acelerándose, existe un "límite de visibilidad futura" más allá del cual los objetos nunca entrarán en el universo observable en ningún momento del futuro porque la luz emitida por los objetos fuera de ese límite nunca podría llegar a la Tierra; nótese que, debido a que la parámetro de Hubble disminuye con el tiempo, pueden darse casos en los que una galaxia que se aleja de la Tierra sólo ligeramente más rápido que la luz emita una señal que finalmente llegue a la Tierra.​​ Este límite de visibilidad futura se calcula a una distancia comóvil de 1.9  × 1010 pársecs (6.2  × 1010 años luz), suponiendo que el universo seguirá expandiéndose eternamente, lo que implica que el número de galaxias que pueden llegar a observarse teóricamente en un futuro infinito sólo es mayor que el número actualmente observable en un factor de 2.36 (ignorando los efectos del corrimiento al rojo).​
+
+En principio, en el futuro se podrán observar más galaxias; en la práctica, un número cada vez mayor de galaxias se desplazará extremadamente al rojo debido a la expansión en curso, hasta el punto de que parecerá que desaparecen de la vista y se vuelven invisibles.​​​ Además, se define que una galaxia a una distancia comóvil dada se encuentra dentro del "universo observable" si podemos recibir señales emitidas por la galaxia a cualquier edad de su historia pasada (digamos, una señal enviada desde la galaxia sólo 500 millones de años después del Big Bang); pero debido a la expansión del universo, puede haber alguna edad posterior en la que una señal enviada desde la misma galaxia nunca pueda llegar a la Tierra en ningún momento del futuro infinito (así, por ejemplo, puede que nunca veamos cómo era la galaxia 10 000 millones de años después del Big Bang),​ aunque permanezca a la misma distancia comóvil menor que la del universo observable. Esto puede utilizarse para definir un tipo de horizonte de sucesos cósmico cuya distancia a la Tierra cambia con el tiempo. Por ejemplo, la distancia actual a este horizonte es de unos 1.6 × 1010 años luz, lo que significa que una señal de un suceso que ocurra en el presente puede llegar eventualmente a la Tierra si el suceso está a menos de 1.6 × 1010 años luz,         (16.000.000.000 de años luz), pero la señal nunca llegará a la Tierra si el suceso está más lejos.​
+
+
+Límite del universo observable
+
+Actualmente el límite del universo observable es la radiación cósmica de microondas que se encuentra a una distancia de corrimiento al rojo de z=1089, lo que quiere decir que podemos ver al universo desde que tenía tan solo 380.000 años de edad.  En caso de que se detectara el fondo cósmico de neutrinos o el fondo estocástico de ondas gravitacionales (estocastico=azar o probabilidad) el límite del universo observable se ampliaría a unas distancias del corrimiento al rojo por arriba de z>1010 o a unas fracciones de segundo después del Big Bang.​​
+
+
+Tamaño
+
+
+Tamaño aparente
+Es el tamaño basado solo en el recorrido de las ondas de luz desde su primera fuente de emisión y corresponde a un radio aproximado de 1.37 × 1010 años luz (13.700.000.000 de años luz), puesto que la luz ha tenido aproximadamente 13 700 millones de años para viajar hasta nosotros desde que se emitió. Este tamaño es ligeramente menor al volumen de Hubble. Es un tamaño relativo pues proviene del pasado, de estados más densos del universo y no contempla el estado de uniformidad u homogeneidad de la densidad actual a otros puntos tras una posterior expansión del universo.​
+
+
+Tamaño real
+El universo observable es mayor que el tamaño aparente puesto que los objetos que antes estaban a 13 700 millones de años ahora están a mucho más lejos por la expansión del universo y pueden seguir siendo observados porque la luz emitida en el pasado continúa llegando. 
+La distancia comóvil es la distancia calculada tomando como base las condiciones actuales del universo, es decir, es la estimación de su tamaño actual tras incluir la expansión ulterior de los elementos más profundos del universo visible. 
+Teniendo en cuenta la distancia comóvil se ha estimado que el radio del universo observable sea alrededor de unos 4.65 × 1010 años luz en todas las direcciones desde la Tierra, así el universo visible se puede considerar como una esfera perfecta con la Tierra en el centro y un diámetro de unos 9.3 × 1010 años luz (93.000.000.000 años luz) / 8.8 × 1023 km (5.865 × 1015 UA).​ 
+Hay que notar que muchas fuentes han publicado una amplia variedad de cifras para el tamaño del universo visible. Aunque la edad del universo sea de 13 700 millones de años, la expansión producida debido al Big Bang hace que el universo más lejano observable se haya alejado mucho más que esa distancia, a pesar de haber recorrido menos de 1.37 × 1010 años luz.​ La luz que se emite hoy en día desde las galaxias que están más allá del horizonte de eventos cosmológicos del radio de Hubble nunca llegará a nosotros, aunque todavía podemos observar la luz que estas galaxias emitieron en el pasado.
+
+
+Velocidades del corrimiento al rojo
+Gracias a que distintos análisis sobre la historia de la expansión del universo pudieran arrojar diferentes estimaciones del tamaño en unidades de distancia, los científicos prefieren utilizar la estimación de los objetos profundos tomando como referencia sus desplazamientos de onda al rojo, es decir, que tanto están alargadas sus ondas electromagnéticas debido al efecto de la expansión del universo.  Por ejemplo,  la galaxia más lejana detectada se aleja en un factor de 11 y se describe que está a una distancia de z=11.   En el caso del fondo cósmico de microondas, lo más alejado detectado a la fecha o límite del universo observado, se desplaza en un factor de 1089 y se dice que está a z=1089.​
+
+
+Escala comparativa
+Equivalentes a escala aproximada 1:1 × 1015,  es decir,  un metro equivale aproximadamente a un año luz.   Por ejemplo,  molécula de azúcar es al planeta Tierra como Tokio es a la Vía Láctea.
+
+
+Mapa
+
+
+Véase también
+Cronología del universo temprano
+Flujo oscuro
+Universo
+Universo oscilante
+Astronomía observacional
+Observación del cielo
+Anexo:Localización de la Tierra en el universo
+
+
+Notas
+
+
+Referencias
+
+
+Enlaces externos
+ Wikiquote alberga frases célebres de o sobre Universo observable.
+ Wikcionario  tiene definiciones y otra información sobre universo.
+Actividad Educativa "El universo", en el Proyecto Celestia
+Tamaño del universo — Astronoo

@@ -1,0 +1,686 @@
+TÍTULO: Ecuación de Drake
+FUENTE: https://es.wikipedia.org/wiki/Ecuaci%C3%B3n_de_Drake
+LICENCIA: CC BY-SA 4.0 (Wikipedia)
+
+La ecuación de Drake es una ecuación para estimar la cantidad de civilizaciones en nuestra galaxia, la Vía Láctea, susceptibles de poseer emisiones de radio detectables. Fue concebida en 1961 por el radioastrónomo Frank Drake (1930-2022), presidente del instituto SETI, mientras trabajaba en el Observatorio Nacional de Radioastronomía en Green Bank en el estado de Virginia Occidental en EE.UU.
+La ecuación de Drake identifica los factores específicos que, se cree, tienen un papel importante en el desarrollo de las civilizaciones. Aunque en la actualidad no hay datos suficientes para resolver la ecuación, la comunidad científica ha aceptado su relevancia como primera aproximación teórica al problema, y varios científicos la han utilizado como herramienta para plantear distintas hipótesis.
+Nuestro Sol es solo una estrella solitaria en la abundancia de 7×1022 estrellas en el universo observable.​
+La Vía Láctea es solo una de entre las 2 000 000 000 000 [dos billones] de galaxias del universo observable.
+
+
+Detalles de la ecuación de Drake
+La ecuación es la siguiente:
+
+
+Estimación inicial
+En 1961, Drake y su equipo asignaron los siguientes valores a cada parámetro:
+
+  
+    
+      
+        N
+        =
+      
+    
+    {\displaystyle N=}
+  
+
+  
+    
+      
+        10
+      
+    
+    {\displaystyle 10}
+  
+ posibles civilizaciones detectables.
+
+
+Otras estimaciones
+Desde que Drake publicó los valores anteriores dados a cada parámetro muchas personas han tenido considerables desacuerdos.
+
+
+Planteamientos
+
+  
+    
+      
+        
+          
+            R
+            
+              ∗
+            
+          
+        
+      
+    
+    {\displaystyle {\boldsymbol {R^{\ast }}}}
+  
+ = Ritmo de formación de estrellas "adecuadas" en la galaxia (estrellas por año).
+
+Según los últimos datos de la NASA y de la Agencia Espacial Europea el ritmo de producción galáctico es de siete estrellas por año.​ En el entendido que son aptas estrellas tipo K y G, y si del total de estrellas 12,1 % son estrellas de tipo K y un 7,6 % son estrellas tipo G como el Sol,​ entonces solo el 19,7 % de esas siete estrellas que nacen cada año son propicias, por lo tanto solo 1,3790 de esas siete estrellas anuales es verdaderamente apta.
+
+  
+    
+      
+        
+          
+            f
+            
+              p
+            
+          
+        
+      
+    
+    {\displaystyle {\boldsymbol {f_{p}}}}
+  
+ = Fracción de estrellas que tienen planetas en su órbita.
+
+Modernos investigadores del Observatorio Europeo Austral dedicados a la búsqueda de planetas argumentan que aproximadamente una de cada tres estrellas de tipo G podría contener planetas.​
+En la estimación no se cuenta el porcentaje de planetas en estrellas naranjas o enanas rojas.
+
+  
+    
+      
+        
+          
+            n
+            
+              e
+            
+          
+        
+      
+    
+    {\displaystyle {\boldsymbol {n_{e}}}}
+  
+ = Número de esos planetas en el interior de la ecosfera de la estrella.
+
+El número de planetas orbitando dentro de la ecosfera o zona habitable con órbita no excéntrica se estima en torno a uno de cada doscientos, con base en el único descubrimiento al respecto hasta la fecha, Gliese 581 d (en torno a una estrella enana roja).​​
+En esta estimación no se cuentan posibles satélites de exoplanetas masivos. También cabe esperar que las limitaciones tecnológicas actuales para detectar planetas de tamaño terrestre estén alterando notablemente el dato.
+
+  
+    
+      
+        
+          
+            f
+            
+              l
+            
+          
+        
+      
+    
+    {\displaystyle {\boldsymbol {f_{l}}}}
+  
+ = Fracción de esos planetas dentro de la ecosfera en los que la vida se ha desarrollado.
+
+En 2002, Charles H. Lineweaver y Tamara M. Davis (de la Universidad del Sur de Nueva Wales y del Centro Australiano de Astrobiología) estimaron que trece de cada cien planetas dentro de la ecosfera que han vivido alrededor de 1000 millones de años pueden desarrollar vida.​ En la estimación no se cuenta con planetas que hayan vivido menos de ese tiempo dentro de una ecosfera estable.
+
+  
+    
+      
+        
+          
+            f
+            
+              i
+            
+          
+        
+      
+    
+    {\displaystyle {\boldsymbol {f_{i}}}}
+  
+ = Fracción de esos planetas en los que la vida inteligente se ha desarrollado.
+
+La cantidad de oportunidades para que se desarrolle vida inteligente en esos planetas estables se puede extrapolar de la fracción de tiempo que representa la vida inteligente en la Tierra, en relación con tiempo transcurrido desde la aparición de la vida unicelular. Es decir: de los 3700 millones de años de vida en el planeta​ solo en los últimos 200 000 años ha existido el Homo sapiens.​​​
+
+  
+    
+      
+        
+          
+            f
+            
+              c
+            
+          
+        
+      
+    
+    {\displaystyle {\boldsymbol {f_{c}}}}
+  
+ = Fracción de esos planetas donde la vida inteligente ha desarrollado una tecnología e intenta comunicarse.
+
+Según la estimación inicial de Drake, la posibilidad de desarrollar tecnología capaz de emitir señales de radiofrecuencia es de una en cien. Este valor adoptado, no obstante, es una simple conjetura. Se ha sugerido otra alternativa para estimar la cantidad de oportunidades para que la vida inteligente emita radiofrecuencias, que consistiría en extrapolar la fracción de tiempo que pueda durar la humanidad transmitiendo señales de radio en relación con el tiempo transcurrido desde su aparición (hace 200 000 años). El lapso de tiempo que pueda durar la civilización industrial emitiendo señales de radio se podría basar del dato aportado en el parámetro L.​​
+
+  
+    
+      
+        
+          L
+        
+      
+    
+    {\displaystyle {\boldsymbol {L}}}
+  
+ = El lapso de tiempo que una civilización inteligente y comunicativa puede existir (años). 
+
+La expectativa de vida calculada en un artículo de la revista Scientific American hecha por Michael Shermer fue de 420 años en promedio, con base en la observación de 60 civilizaciones humanas antiguas que usaron consistentemente una tecnología preindustrial.​ Según la teoría de Olduvai el tiempo de vida de la actual civilización industrial será de 100 años (1930-2030) coincidiendo más o menos en su aparición con el comienzo de emisiones de radio (1938).​
+
+
+Respuestas
+Ecuación:
+
+  
+    
+      
+        N
+        =
+        R
+        ⋅
+        
+          f
+          
+            p
+          
+        
+        ⋅
+        
+          n
+          
+            e
+          
+        
+        ⋅
+        
+          f
+          
+            l
+          
+        
+        ⋅
+        
+          f
+          
+            i
+          
+        
+        ⋅
+        
+          f
+          
+            c
+          
+        
+        ⋅
+        L
+      
+    
+    {\displaystyle N=R\cdot f_{p}\cdot n_{e}\cdot f_{l}\cdot f_{i}\cdot f_{c}\cdot L}
+  
+
+Estimación hecha por Drake:
+
+  
+    
+      
+        N
+        =
+        10
+        ×
+        0.5
+        ×
+        2
+        ×
+        1
+        ×
+        0.01
+        ×
+        0.01
+        ×
+        10
+        ,
+        000
+      
+    
+    {\displaystyle N=10\times 0.5\times 2\times 1\times 0.01\times 0.01\times 10,000}
+  
+
+  
+    
+      
+        N
+        =
+        10
+      
+    
+    {\displaystyle N=10}
+  
+ posibles civilizaciones detectables.
+Estimación hecha contando la estimación de duración de la civilización hecha por Michael Shermer con el parámetro fc de Drake:
+
+  
+    
+      
+        N
+        =
+        1.379
+      
+    
+    {\displaystyle N=1.379}
+  
+​ 
+  
+    
+      
+        ×
+        0.333
+      
+    
+    {\displaystyle \times 0.333}
+  
+​ 
+  
+    
+      
+        ×
+        0.005
+      
+    
+    {\displaystyle \times 0.005}
+  
+​ 
+  
+    
+      
+        ×
+        0.13
+      
+    
+    {\displaystyle \times 0.13}
+  
+​ 
+  
+    
+      
+        ×
+        0.000054
+      
+    
+    {\displaystyle \times 0.000054}
+  
+​​ 
+  
+    
+      
+        ×
+        0.01
+        ×
+        420
+      
+    
+    {\displaystyle \times 0.01\times 420}
+  
+​​
+
+  
+    
+      
+        N
+        =
+        0.0000000676963
+      
+    
+    {\displaystyle N=0.0000000676963}
+  
+   posibles civilizaciones detectables.
+Estimación hecha contando la estimación de duración de una civilización hecha por Michael Shermer
+
+  
+    
+      
+        N
+        =
+        1.379
+      
+    
+    {\displaystyle N=1.379}
+  
+​ 
+  
+    
+      
+        ×
+        0.333
+      
+    
+    {\displaystyle \times 0.333}
+  
+​ 
+  
+    
+      
+        ×
+        0.005
+      
+    
+    {\displaystyle \times 0.005}
+  
+​ 
+  
+    
+      
+        ×
+        0.13
+      
+    
+    {\displaystyle \times 0.13}
+  
+​ 
+  
+    
+      
+        ⋅
+        0.000054
+      
+    
+    {\displaystyle \cdot 0.000054}
+  
+​​ 
+  
+    
+      
+        ×
+        0.0021
+      
+    
+    {\displaystyle \times 0.0021}
+  
+​
+  
+    
+      
+        ×
+        420
+      
+    
+    {\displaystyle \times 420}
+  
+​​
+
+  
+    
+      
+        N
+        =
+        0.0000000142162
+      
+    
+    {\displaystyle N=0.0000000142162}
+  
+   posibles civilizaciones detectables.
+Una civilización detectada cada 70 342 300 años en la Vía Láctea.​
+Una civilización detectada al año dentro de un grupo de 70 342 300 galaxias del tamaño de la Vía Láctea.
+Tomando como dato estimaciones recientes del número de estrellas en el universo​ debe haber al año 4975 civilizaciones emitiendo señales de radio en todo el universo observable.​
+Estimación hecha contando la estimación de duración de la civilización industrial actual por la teoría de Olduvai con el parámetro fc de Drake:
+
+  
+    
+      
+        N
+        =
+        1.379
+      
+    
+    {\displaystyle N=1.379}
+  
+​ 
+  
+    
+      
+        ×
+        0.333
+      
+    
+    {\displaystyle \times 0.333}
+  
+​ 
+  
+    
+      
+        ×
+        0.005
+      
+    
+    {\displaystyle \times 0.005}
+  
+​ 
+  
+    
+      
+        ×
+        0.13
+      
+    
+    {\displaystyle \times 0.13}
+  
+​ 
+  
+    
+      
+        ×
+        0.000054
+      
+    
+    {\displaystyle \times 0.000054}
+  
+​​ 
+  
+    
+      
+        ×
+        0.01
+        ×
+        100
+      
+    
+    {\displaystyle \times 0.01\times 100}
+  
+​​
+
+  
+    
+      
+        N
+        =
+        0.0000000161182
+      
+    
+    {\displaystyle N=0.0000000161182}
+  
+  posibles civilizaciones detectadas al año.
+Estimación hecha contando la estimación de duración de la civilización industrial actual por la teoría de Olduvai:
+
+  
+    
+      
+        N
+        =
+        1.379
+      
+    
+    {\displaystyle N=1.379}
+  
+​ 
+  
+    
+      
+        ×
+        0.333
+      
+    
+    {\displaystyle \times 0.333}
+  
+​ 
+  
+    
+      
+        ×
+        0.005
+      
+    
+    {\displaystyle \times 0.005}
+  
+​ 
+  
+    
+      
+        ×
+        0.13
+      
+    
+    {\displaystyle \times 0.13}
+  
+​ 
+  
+    
+      
+        ×
+        0.000054
+      
+    
+    {\displaystyle \times 0.000054}
+  
+​​
+  
+    
+      
+        ×
+        0.0005
+      
+    
+    {\displaystyle \times 0.0005}
+  
+​
+  
+    
+      
+        ×
+        100
+      
+    
+    {\displaystyle \times 100}
+  
+​​
+
+  
+    
+      
+        N
+        =
+        0.000000000805908
+      
+    
+    {\displaystyle N=0.000000000805908}
+  
+   posibles civilizaciones detectadas al año.
+Una civilización detectada cada 1 240 836 423 años en la Vía Láctea.​
+Una civilización detectada al año dentro de un grupo de 1 240 836 423 galaxias del tamaño de la Vía Láctea.
+Tomando como dato estimaciones recientes del número de estrellas en el universo​ debe haber al año 282 civilizaciones emitiendo señales de radio en todo el universo observable.​
+Cada una de esas civilizaciones tiene una separación de dos mil millones de años luz con respecto a otra.
+Aproximadamente 110 de esas civilizaciones habitan en torno a una estrella tipo G.
+En los últimos 7 500 millones de años en la Vía Láctea solo han existido de dos a tres civilizaciones con tecnología muy parecida a la nuestra en torno a una estrella de tipo G.​
+En los últimos 7500 millones de años en el universo observable han existido 819 000 millones de civilizaciones con tecnología muy parecida a la nuestra en torno a una estrella de tipo G.​
+
+
+Especulaciones sobre la evolución de la ecuación
+Debido a la falta de evidencias, a medida que la tecnología evolucione, muchos parámetros de la ecuación podrían variar notablemente. Se han teorizado diversos cambios:
+A favor de vida más abundante.
+
+No se ha dilucidado bien si las ecosferas de planetas en estrellas enanas naranjas o enanas rojas pudieran ser estables mejorando la cifra en torno a R en caso de que fueran aptas.
+En el estimado no se cuentan posibles satélites de exoplanetas masivos mejorando la cifra en torno a fp.
+Falta de empleo de mejor tecnología para detectar planetas rocosos de tamaño terrestre, mejoraría la cifra en torno a ne.
+Otro criterio carente es el importante hecho de lo que se debiera tomar por definición de vida, pudiera existir vida en torno a replicadores distintos al ADN o ARN en situaciones físicas muy distintas.
+En contra de vida más abundante
+
+En el estimado no se cuentan con planetas que hayan vivido menos de 1000 millones de años en una ecosfera estable como criterio generador de vida, pudiendo cambiar la cifra en torno a fl.
+Las estimaciones de Drake desde un inicio no cuentan aquella fracción de planetas con elementos químicos propicios para la vida, como el agua o la fuente de carbón y otros tantos requisitos, pero pueden estar implícitos en torno a fl.
+No se cuentan con parámetros que puedan definir aspectos mencionados en la hipótesis de la Tierra rara como:
+La ubicación del sol en el disco galáctico.
+El efecto joviano (producido por Júpiter), que sirve de escudo protector.
+El efecto lunar, que estabiliza el eje de rotación terrestre.
+El efecto de la tectónica de placas terrestre, que sirven de termostato.
+El efecto del núcleo terrestre, protegiendo la atmósfera del viento solar.
+El vulcanismo que renueva elementos químicos y aporta metales a la atmósfera y superficie de los planetas.
+Elemento de efecto imprevisible:
+
+Los ritmos y tiempos de los eventos históricos y de las pautas de crecimiento poblacional pudieran no ser las mismas que el de la historia humana. Cambiaría la cifra en torno a fc y L.
+
+
+Críticas a la ecuación de Drake
+Desde un punto de vista científico, el interés de la Ecuación de Drake radica en el propio planteamiento de la ecuación, mientras que al contrario carece de sentido tratar de obtener cualquier solución numérica de la misma, dado el enorme desconocimiento sobre muchos de sus parámetros. Los cálculos realizados por distintos científicos han arrojado valores tan relativamente dispares como una sola civilización,​ o diez millones.​
+Se ha postulado también que la ecuación podría ser excesivamente simplista y que está incompleta. Un equipo de astrobiólogos ha sugerido incluir aspectos energéticos, así como la inclusión de planetesimales helados como nuevas variables de la ecuación. Habría que tener en cuenta satélites como Europa que podrían contener enormes océanos de agua líquida.​
+
+
+Modificaciones a la ecuación
+En vez de suponer solo que los alienígenas usan tecnologías de radiofrecuencia, Sara Seager ha propuesto una ecuación que se concentra en la simple presencia de cualquier forma de vida alienígena. Su ecuación puede ser usada para estimar cuantos planetas con signos de vida pueden ser encontrados en los próximos años. Esta ecuación se presentó a principios del 2013 y se expone a continuación:
+N = N* FQ FHZ FO FL FS
+N = Número de Planetas con signos detectables de vida.
+N* = El número de estrellas observables
+FQ = La fracción de esas estrellas que están en una fase estable de su existencia.
+FHZ = La fracción de esas estrellas con planetas rocosos ubicados en la zona habitable.
+FO = La fracción de esos planetas que pueden ser detectados.
+FL = La fracción de planetas que contienen vida.
+FS = La fracción de organismos vivientes que pueden producir una señal de gases característica, que nos indique alguna actividad metabólica.
+Teniendo en cuenta solo las estrellas tipo 'M', las estrellas más comunes en nuestro vecindario que son pequeñas y menos luminosas que el sol. Seager calculó estimando valores para cada una de las variables, que al menos dos planetas con vida podrían descubrirse en la próxima década.
+En la ecuación de Drake modificada por Luis Dévora  se añaden nuevos factores como la posibilidad de existencia de vida postbiológica (inteligencia artificial), otros universos y dimensiones ocultas a la percepción sensorial humana. La formulación es la siguiente:
+N = E* · Fz · Df* ·Uf* 
+
+E*= (Fu·R·Fp·Np·Fi·Fc·L)
+Df*= D·(1+Fz)
+Uf*= U·(Rm·Fu)
+
+N = Número de civilizaciones que se podrían detectar.
+Fu = Fracción de tiempo del universo donde se dan las condiciones para la vida (La fracción de tiempo equivale a T/13800 millones de años, donde T es el tiempo que lleva el universo con condiciones aptas para la vida.
+R = Ritmo medio anual de formación de estrellas aptas para la vida durante ese periodo.
+Fp = Fracción de esas estrellas que tienen planetas y satélites en su órbita.
+Np = Número de planetas y satélites en cada una de esas estrellas donde es posible la vida biológica y post-biológica (inteligencia artificial)
+Fi = Fracción de esos planetas y satélites donde la vida inteligente biológica o post-biológica se ha desarrollado.
+Fc = Fracción de esos planetas y satélites donde la vida inteligente quiere comunicarse. Si una civilización inteligente quiere ocultar sus señales, no podremos contactar con ella
+L = Años que una civilización inteligente puede existir.
+Fz = Fracción del universo cuya distancia no supera la mitad de años que una civilización puede existir, es la zona de contacto. Esta zona depende de la ubicación de la civilización en el universo. La distancia no puede superar la mitad de años que una civilización puede existir. Si una civilización existe durante 1000 años, necesitará como máximo 500 años para enviar una señal a una supuesta civilización situada a esa distancia en años luz y otros 500 años para recibir la respuesta.
+D = Dimensiones que percibe la civilización (Valor 4: 5D espaciales + tiempo, Valor 2: 4D espaciales + tiempo, Valor 1: 3D espaciales + tiempo, Valor 0,5 2D espaciales + tiempo). 
+1 + Fz = Fracción del universo cuya distancia no supera la mitad de años que una civilización puede existir. La civilización debe percibir más de tres dimensiones espaciales para aplicar este parámetro. A este resultado se le suma el número entero 1 porque utilizamos como referencia el valor dado a las 3D espaciales + el tiempo que percibe el ser humano. En el caso de que la civilización no perciba más dimensiones que las tres dimensiones espaciales el valor de Fz será 0. La fórmula está planteada de tal forma que si solo existen tres dimensiones + 1 temporal su valor se multiplica por 1 y por tanto el número de civilizaciones es el mismo. En caso de percibir cuatro dimensiones + 1 temporal el número civilizaciones que podemos encontrar aumenta dentro de la zona de contacto. En cambio si una civilización solo puede percibir en dos dimensiones se reduce considerablemente el número de civilizaciones que puede encontrar.
+U = Número de universos percibidos. 
+Rm = Resultado medio de E, de todos los universos percibidos
+Fu = Fracción de los universos extra percibidos que se encuentran dentro de la zona de contacto. Este parámetro también depende de la “zona de contacto” donde son visibles los nuevos universos.
+
+
+Véase también
+Paradoja de Fermi
+SETI
+Vida extraterrestre
+Neocatastrofismo
+Comunicación interestelar
+
+
+Referencias
+
+
+Lectura adicional
+Bryson et al., “The Occurrence of Rocky Habitable Zone Planets Around Solar-Like Stars from Kepler Data,” in process at the Astronomical Journal. Submitted on 28 Oct 2020 (v1), last revised 3 Nov 2020 (this version, v2)
+Around Half of Sun-Like Stars Could Host Potentially Habitable Worlds (Alrededor de la mitad de las estrellas similares al Sol podrían albergar mundos potencialmente habitables).
+Kopparapu et al.,  “Habitable Zones Around Main-Sequence Stars: New Estimates,” Astrophysical Journal Vol. 765, N.º 2 (26 de febrero de 2013).
+
+
+Enlaces externos
+Instituto SETI Archivado el 30 de diciembre de 2017 en Wayback Machine., se dedica a la detección de ondas de radio provenientes del espacio exterior y también realiza investigaciones en el campo de la radioastronomía.
+Vídeo explicativo de la ecuación de Drake.
+La Fórmula de Drake, las civilizaciones en nuestra galaxia. Resultado de la fórmula de Drake aplicados a nuestra galaxia.
+Calculadora Online Fórmula de Drake
+Programa gratuito para probar la ecuación y observar resultados

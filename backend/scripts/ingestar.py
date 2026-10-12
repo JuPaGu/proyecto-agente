@@ -12,6 +12,7 @@ CORPUS = BASE / "corpus"
 CHROMA_DIR = BASE / "chroma_data"
 
 splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=150)
+MIN_CHARS = 200  # los fragmentos mas cortos suelen ser solo titulos de seccion 
 
 
 def leer_archivo(path):
@@ -27,16 +28,22 @@ def main():
         shutil.rmtree(CHROMA_DIR)
 
     docs = []
+    descartados = 0
     for path in sorted(CORPUS.glob("*.txt")):
         titulo, fuente, cuerpo = leer_archivo(path)
         for i, trozo in enumerate(splitter.split_text(cuerpo)):
+            if len(trozo.strip()) < MIN_CHARS:
+                descartados += 1
+                continue
             docs.append(Document(
                 page_content=trozo,
                 metadata={"titulo": titulo, "fuente": fuente,
                           "archivo": path.name, "chunk": i},
             ))
-    print(f"{len(docs)} fragmentos de {len(list(CORPUS.glob('*.txt')))} documentos")
+    print(f"{len(docs)} fragmentos de {len(list(CORPUS.glob('*.txt')))} documentos "
+          f"({descartados} descartados por cortos)")
 
+    
     embeddings = OllamaEmbeddings(model="bge-m3")
     db = Chroma(
         collection_name="espacio",

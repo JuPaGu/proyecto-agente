@@ -88,6 +88,8 @@ def generar(estado: Estado) -> Estado:
         f"PREGUNTA: {estado['pregunta']}\n\nRESPUESTA:"
     )
     respuesta = llm.invoke(prompt).content.strip()
+    if respuesta.starswith("No tengo suficiente informacion"):
+        return {"decision":"rechazar","respuesta":MENSAJE_RECHAZO, "fuentes": []}
     vistos, fuentes = set(), []
     for f in estado["fragmentos"][:K_CONTEXTO]:
         if f["fuente"] not in vistos:

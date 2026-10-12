@@ -83,7 +83,7 @@ def generar(estado: Estado) -> Estado:
         "pregunta usando ÚNICAMENTE la información de los fragmentos. No uses "
         "conocimiento propio. Si los fragmentos no alcanzan para responder, di "
         "exactamente: 'No tengo suficiente información en mi base de conocimiento "
-        "para responder esa pregunta.' Responde en español, de forma clara y breve.\n\n"
+        "para responder esa pregunta.' Repite solo lo que los fragmentos afirman: no conviertas comparaciones en superlativos (por ejemplo, 'tres veces más pesado que X' no significa 'el más pesado'). Responde en español, de forma clara y breve..\n\n"
         f"FRAGMENTOS:\n{_formatear_contexto(estado['fragmentos'])}\n\n"
         f"PREGUNTA: {estado['pregunta']}\n\nRESPUESTA:"
     )

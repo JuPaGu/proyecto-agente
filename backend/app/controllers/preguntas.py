@@ -1,6 +1,8 @@
 import logging
 
-from fastapi import APIRouter, HTTPException
+from fastapi import APIRouter, Depends, HTTPException
+
+from app.security import usuario_actual
 
 from app.agents.grafo import agente
 from app.schemas import PreguntaIn, RespuestaOut
@@ -10,7 +12,7 @@ router = APIRouter(tags=["agente"])
 
 
 @router.post("/preguntar", response_model=RespuestaOut)
-def preguntar(datos: PreguntaIn):
+def preguntar(datos: PreguntaIn, usuario: dict = Depends(usuario_actual)):
     try:
         r = agente.invoke({"pregunta": datos.pregunta})
     except Exception:

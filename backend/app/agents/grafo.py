@@ -6,6 +6,7 @@ from typing import TypedDict
 from langchain_chroma import Chroma
 from langchain_ollama import ChatOllama, OllamaEmbeddings
 from langgraph.graph import END, START, StateGraph
+from app.services import historial
 
 CHROMA_DIR = Path(__file__).resolve().parents[2] / "chroma_data"
 
@@ -32,10 +33,12 @@ llm = ChatOllama(model="qwen2.5:3b", temperature=0)
 class Estado(TypedDict, total=False):
     pregunta: str
     fragmentos: list[dict]
+    guardado: bool
     mejor_distancia: float
     decision: str
     respuesta: str
     fuentes: list[dict]
+    usuario_id: str
 
 
 def _formatear_contexto(fragmentos):
@@ -101,6 +104,18 @@ def generar(estado: Estado) -> Estado:
 def rechazar(estado: Estado) -> Estado:
     return {"respuesta": MENSAJE_RECHAZO, "fuentes": []}
 
+def guardar_historial(estado: Estado) -> Estado:
+    if not estado.get("usuario_id"):  # p. ej. al probar desde la terminal
+        return {"guardado": False}
+    historial.guardar(
+        usuario_id=estado["usuario_id"],
+        pregunta=estado["pregunta"],
+        respuesta=estado["respuesta"],
+        decision=estado["decision"],
+        fuentes=estado["fuentes"],
+    )
+    return {"guardado": True}
+
 
 def ruta_decision(estado: Estado) -> str:
     return estado["decision"]
@@ -117,8 +132,10 @@ def construir_grafo():
     g.add_conditional_edges(
         "evaluar", ruta_decision, {"responder": "generar", "rechazar": "rechazar"}
     )
-    g.add_edge("generar", END)
-    g.add_edge("rechazar", END)
+    g.add_node("guardar_historial", guardar_historial)
+    g.add_edge("generar", "guardar_historial")
+    g.add_edge("rechazar", "guardar_historial")
+    g.add_edge("guardar_historial", END)
     return g.compile()
 
 

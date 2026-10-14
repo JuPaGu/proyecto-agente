@@ -4,3 +4,4 @@ node_modules/
 __pycache__/
 chroma_data/
 *.db
+backend/data/

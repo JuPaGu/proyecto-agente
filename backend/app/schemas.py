@@ -15,3 +15,11 @@ class RespuestaOut(BaseModel):
     decision: str
     distancia: float
     fuentes: list[Fuente]
+
+class MensajeOut(BaseModel):
+    id: int
+    pregunta: str
+    respuesta: str
+    decision: str
+    fuentes: list[Fuente]
+    creado_en: str

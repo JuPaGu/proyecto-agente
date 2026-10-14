@@ -14,7 +14,7 @@ router = APIRouter(tags=["agente"])
 @router.post("/preguntar", response_model=RespuestaOut)
 def preguntar(datos: PreguntaIn, usuario: dict = Depends(usuario_actual)):
     try:
-        r = agente.invoke({"pregunta": datos.pregunta})
+        r = agente.invoke({"pregunta": datos.pregunta, "usuario_id": usuario["id"]})
     except Exception:
         logger.exception("Falló el agente")
         raise HTTPException(

@@ -14,4 +14,18 @@ button:disabled { opacity: 0.5; cursor: default; }
 .fuentes a { color: #8fb0ff; }
 .vacio { opacity: 0.6; text-align: center; margin-top: 40px; }
 .entrada { display: flex; gap: 8px; }
-.entrada input { flex: 1; padding: 10px; border-radius: 8px; border: 1px solid #2c3a63; background: #151c33; color: inherit; }
+.entrada input { flex: 1; padding: 10px; border-radius: 8px; border: 1px solid #2c3a63; background: #151c33; color: inherit;
+.tabs { display: flex; gap: 8px; margin: 12px 0; }
+.tabs button { background: #1c2540; }
+.tabs button.activa { background: #4f6df5; }
+.docs { min-height: 50vh; }
+.docs input[type="file"] { color: inherit; }
+.ayuda { font-size: 0.85em; opacity: 0.7; }
+.estado { padding: 8px 12px; border-radius: 8px; background: #1c2540; }
+.estado.ok { border: 1px solid #3fb968; }
+.estado.error { border: 1px solid #e5484d; }
+.lista { list-style: none; padding: 0; display: flex; flex-direction: column; gap: 8px; }
+.lista li { display: flex; justify-content: space-between; align-items: center; padding: 10px 14px; background: #1c2540; border-radius: 10px; }
+.lista small { opacity: 0.6; }
+button.peligro { background: #e5484d; }
+}

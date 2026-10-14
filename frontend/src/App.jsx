@@ -1,10 +1,12 @@
 import { useEffect, useState } from "react";
 import { iniciarAuth, keycloak } from "./auth";
 import Chat from "./Chat";
+import Documentos from "./Documentos";
 
 export default function App() {
   const [listo, setListo] = useState(false);
   const [error, setError] = useState(null);
+  const [vista, setVista] = useState("chat");
 
   useEffect(() => {
     iniciarAuth()
@@ -26,7 +28,16 @@ export default function App() {
           </button>
         </div>
       </header>
-      <Chat />
+      <nav className="tabs">
+        <button className={vista === "chat" ? "activa" : ""} onClick={() => setVista("chat")}>
+          Chat
+        </button>
+        <button className={vista === "docs" ? "activa" : ""} onClick={() => setVista("docs")}>
+          Documentos
+        </button>
+      </nav>
+      <div hidden={vista !== "chat"}><Chat /></div>
+      <div hidden={vista !== "docs"}><Documentos /></div>
     </main>
   );
 }

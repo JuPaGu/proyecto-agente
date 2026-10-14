@@ -1,6 +1,9 @@
 from contextlib import asynccontextmanager
 
 from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
+
+from app import config
 
 from app.controllers import documentos as documentos_ctrl
 from app.controllers import historial as historial_ctrl
@@ -16,6 +19,12 @@ async def lifespan(app: FastAPI):
 
 
 app = FastAPI(title="Agente del Espacio", version="0.1.0", lifespan=lifespan)
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=config.CORS_ORIGINS,
+    allow_methods=["GET", "POST", "DELETE"],
+    allow_headers=["Authorization", "Content-Type"],
+)
 app.include_router(preguntas.router)
 app.include_router(historial_ctrl.router)
 app.include_router(documentos_ctrl.router)

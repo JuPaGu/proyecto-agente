@@ -5,3 +5,4 @@ __pycache__/
 chroma_data/
 *.db
 backend/data/
+prueba_aurora.txt

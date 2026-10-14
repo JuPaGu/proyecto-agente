@@ -3,12 +3,13 @@ import time
 from pathlib import Path
 from typing import TypedDict
 
-from langchain_chroma import Chroma
-from langchain_ollama import ChatOllama, OllamaEmbeddings
+
+from langchain_ollama import ChatOllama
 from langgraph.graph import END, START, StateGraph
 from app.services import historial
+from app.vectorstore.chroma import db
 
-CHROMA_DIR = Path(__file__).resolve().parents[2] / "chroma_data"
+
 
 # Umbrales provisionales (distancia coseno: menor = más parecido)
 UMBRAL_RESPONDER = 0.35
@@ -21,12 +22,7 @@ MENSAJE_RECHAZO = (
     "esa pregunta. Puedes subir documentos relacionados con el tema para ampliarla."
 )
 
-db = Chroma(
-    collection_name="espacio",
-    embedding_function=OllamaEmbeddings(model="bge-m3"),
-    persist_directory=str(CHROMA_DIR),
-    collection_metadata={"hnsw:space": "cosine"},
-)
+
 llm = ChatOllama(model="qwen2.5:3b", temperature=0)
 
 

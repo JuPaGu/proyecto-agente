@@ -23,3 +23,16 @@ class MensajeOut(BaseModel):
     decision: str
     fuentes: list[Fuente]
     creado_en: str
+
+class SubidaOut(BaseModel):
+    id: str
+    nombre: str
+    fragmentos: int
+
+
+class DocumentoOut(BaseModel):
+    id: str
+    nombre: str
+    n_fragmentos: int
+    creado_en: str
+    propio: bool

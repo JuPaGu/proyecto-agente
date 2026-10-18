@@ -11,7 +11,13 @@ export const keycloak = new Keycloak({
 let promesa = null;
 export function iniciarAuth() {
   if (!promesa) {
-    promesa = keycloak.init({ onLoad: "login-required", pkceMethod: "S256" });
+    promesa = keycloak.init({
+      onLoad: "login-required",
+      pkceMethod: "S256",
+      // Frontend y Keycloak están en dominios distintos: el navegador bloquea
+      // las cookies de terceros y el iframe de comprobación provoca un bucle.
+      checkLoginIframe: false,
+    });
   }
   return promesa;
 }

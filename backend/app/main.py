@@ -1,13 +1,13 @@
 from contextlib import asynccontextmanager
 
-from fastapi import FastAPI
+from fastapi import Depends, FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
 from app import config
-
 from app.controllers import documentos as documentos_ctrl
 from app.controllers import historial as historial_ctrl
 from app.controllers import preguntas
+from app.security import usuario_actual
 from app.services import documentos, historial
 
 
@@ -18,7 +18,14 @@ async def lifespan(app: FastAPI):
     yield
 
 
-app = FastAPI(title="Agente del Espacio", version="0.1.0", lifespan=lifespan)
+app = FastAPI(
+    title="Agente del Espacio",
+    version="0.1.0",
+    lifespan=lifespan,
+    docs_url="/docs" if config.ENABLE_DOCS else None,
+    redoc_url=None,
+    openapi_url="/openapi.json" if config.ENABLE_DOCS else None,
+)
 app.add_middleware(
     CORSMiddleware,
     allow_origins=config.CORS_ORIGINS,
@@ -31,5 +38,5 @@ app.include_router(documentos_ctrl.router)
 
 
 @app.get("/salud")
-def salud():
+def salud(usuario: dict = Depends(usuario_actual)):
     return {"estado": "ok"}

@@ -2,6 +2,7 @@ import sys
 import time
 from pathlib import Path
 from typing import TypedDict
+from app import config
 
 
 from langchain_ollama import ChatOllama
@@ -23,7 +24,7 @@ MENSAJE_RECHAZO = (
 )
 
 
-llm = ChatOllama(model="qwen2.5:3b", temperature=0)
+llm = ChatOllama(model="qwen2.5:3b", temperature=0, base_url=config.OLLAMA_BASE_URL)
 
 
 class Estado(TypedDict, total=False):

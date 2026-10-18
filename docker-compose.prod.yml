@@ -1,0 +1,48 @@
+services:
+  caddy:
+    image: caddy:2
+    restart: unless-stopped
+    ports:
+      - "80:80"
+      - "443:443"
+    environment:
+      API_HOST: ${API_HOST}
+      KC_HOST: ${KC_HOST}
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+
+  keycloak:
+    image: quay.io/keycloak/keycloak:26.0
+    restart: unless-stopped
+    command: start-dev
+    environment:
+      KC_BOOTSTRAP_ADMIN_USERNAME: ${KEYCLOAK_ADMIN}
+      KC_BOOTSTRAP_ADMIN_PASSWORD: ${KEYCLOAK_ADMIN_PASSWORD}
+      KC_HOSTNAME: https://${KC_HOST}
+      KC_HOSTNAME_STRICT: "false"
+      KC_HTTP_ENABLED: "true"
+      KC_PROXY_HEADERS: xforwarded
+    volumes:
+      - keycloak_data:/opt/keycloak/data
+
+  backend:
+    build: ./backend
+    restart: unless-stopped
+    environment:
+      KEYCLOAK_ISSUER: https://${KC_HOST}/realms/agente-espacio
+      KEYCLOAK_JWKS_URL: http://keycloak:8080/realms/agente-espacio/protocol/openid-connect/certs
+      KEYCLOAK_CLIENT_ID: agente-frontend
+      CORS_ORIGINS: ${FRONTEND_URL}
+      OLLAMA_BASE_URL: ${OLLAMA_URL}
+      ENABLE_DOCS: "false"
+    volumes:
+      - ./data/chroma:/app/chroma_data
+      - ./data/db:/app/data
+    depends_on:
+      - keycloak
+
+volumes:
+  caddy_data:
+  keycloak_data:
+  

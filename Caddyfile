@@ -1,0 +1,7 @@
+{$API_HOST} {
+    reverse_proxy backend:8000
+}
+
+{$KC_HOST} {
+    reverse_proxy keycloak:8080
+}

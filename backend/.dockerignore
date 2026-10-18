@@ -1,0 +1,7 @@
+.venv/
+corpus/
+chroma_data/
+data/
+scripts/
+__pycache__/
+*.pyc

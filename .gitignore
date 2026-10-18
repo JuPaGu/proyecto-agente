@@ -6,3 +6,5 @@ chroma_data/
 *.db
 backend/data/
 prueba_aurora.txt
+.env.prod
+data/
